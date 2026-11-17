@@ -1,0 +1,431 @@
+S:
+	lea.l	DataF,a4
+	lea	Custom,a5
+	move.l	4.w,a6
+	move.l	#CList,cop1lc(a5)
+	tst.w	copjmp1(a5)			; active 1ere cl
+
+
+**
+***	boucle principale
+**
+
+popo:
+	lea	DataF,a6			;pour un acces relatif
+
+	move.w	#Delta,d0			;pour accelerer l'affichage
+	mulu	#Width/8,d0
+	move.l	d0,DeltaEcran-DataF(a6)
+
+.MainLoop:
+
+	bsr.w	SwapPage		;echange les buffers
+
+	bsr.w	Efface
+	
+	bsr.w	Deplace			;calcul de la nouvelle position
+
+	bsr.w	InitRotate		;calcul la matrice de passage
+
+	bsr.w	InitVar			;initialise les parametre pour
+
+	bsr.w	View3d			;calcul l'image
+hello                   ################                           
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello             ######      ######    ###########                
+	jsr	-132(a6)			;interdit multitache
+
+	move.w	#$c020,intena(a5)		;nouvelle interuption
+
+	move.w	#$3fff,dmacon(a5)
+	move.w	#$87e0,dmacon(a5)		;nouveaux acces dma
+
+	bsr.w	SwapPage			;instale un ecran
+
+hello            ##         ##       ###         ######            
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello           ##        ##              #######     ###          
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello          #       #     ##       ##           # #   ##        
+	jsr	-132(a6)			;interdit multitache
+
+	move.w	#$c020,intena(a5)		;nouvelle interuption
+
+	move.w	#$3fff,dmacon(a5)
+	move.w	#$87e0,dmacon(a5)		;nouveaux acces dma
+
+	bsr.w	SwapPage			;instale un ecran
+
+hello         ##     ##   ##                          #   ##       
+hello         #     #   #    ########                       #      
+	jsr	-132(a6)			;interdit multitache
+
+	move.w	#$c020,intena(a5)		;nouvelle interuption
+
+	move.w	#$3fff,dmacon(a5)
+	move.w	#$87e0,dmacon(a5)		;nouveaux acces dma
+
+	bsr.w	SwapPage			;instale un ecran
+
+hello        ##    # #    #         #                #       #     
+	jsr	-132(a6)			;interdit multitache
+
+	move.w	#$c020,intena(a5)		;nouvelle interuption
+
+	move.w	#$3fff,dmacon(a5)
+	move.w	#$87e0,dmacon(a5)		;nouveaux acces dma
+
+	bsr.w	SwapPage			;instale un ecran
+
+hello        #    # #    #                            #      #     
+	jsr	-132(a6)			;interdit multitache
+
+	move.w	#$c020,intena(a5)		;nouvelle interuption
+
+	move.w	#$3fff,dmacon(a5)
+	move.w	#$87e0,dmacon(a5)		;nouveaux acces dma
+
+	bsr.w	SwapPage			;instale un ecran
+
+hello       ##         #                     #         #     #     
+	jsr	-132(a6)			;interdit multitache
+
+	move.w	#$c020,intena(a5)		;nouvelle interuption
+
+	move.w	#$3fff,dmacon(a5)
+	move.w	#$87e0,dmacon(a5)		;nouveaux acces dma
+
+	bsr.w	SwapPage			;instale un ecran
+
+hello       #         #    ######                      #     ##    
+	jsr	-132(a6)			;interdit multitache
+
+	move.w	#$c020,intena(a5)		;nouvelle interuption
+
+	move.w	#$3fff,dmacon(a5)
+	move.w	#$87e0,dmacon(a5)		;nouveaux acces dma
+
+	bsr.w	SwapPage			;instale un ecran
+
+hello      ##            ##########                           #    
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello     ##           ########    ##          #######        ##   
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello    #######   #   #########    ##        ######### #####  ##  
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello   ###         #  ###     ###  ##     ###########       ## ## 
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello  ###   ######               ###       ###                # ##
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello ###   ##    ###      ##                #                #   #
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello ###  ##       ########                 #          ##### #   #
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello###   #    #      ###                   #      #####      # ##
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello###  ##    ##                           ##      ###       #  #
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello###  #    ## ##             ####          ##        ##   #   #
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello###  ## ####   ###     ####  #             ##       ##      ##
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello # #  #    #     ###         #  ###       #####     ##    # # 
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello ###  #    ##     #####      #  # #       #    #    ###  # ## 
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello ####      ###    #   #####             ##        #####    #  
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello  #####     ####  #       ####        ###        ######    #  
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello   ###       #######       #######             #### ###   #   
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello    ##       ##  #####     #      ##############  ## ##   #   
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello     #        #   #######  #       #    ##     #  ## ##   #   
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello      #        #  #  #######       #     #     #  #####   #   
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello      ##        ###     #######   ###   ##   ##########   #   
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello       #        ###       #############################   #   
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello       #         ##       #   #########################   #   
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello        #          ##     #      ######################   #   
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello        ##          ##   #        #     ########## # #    #   
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+hello         ##          #####        #     #    #  #  ###    #   
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello          ##  #        ###        #     #   ##  #  ##     #   
+hello           ##  #   #     ####    ##     #   #  #####      #   
+	SECTION	"programme",CODE_F
+hello            ###             ######################        #   
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello              ##   #   ##               #                 #   
+	SECTION	"programme",CODE_F
+hello                ##  ##   ##                        #      ##  
+	SECTION	"programme",CODE_F
+hello                 ###     #    #                  #    #    #  
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello                   ####    ###    #####        ##          #  
+	SECTION	"programme",CODE_F
+hello                      ###      ##                   #      #  
+hello                        ###           ###########         ##  
+	SECTION	"programme",CODE_F
+hello                          ###                             #   
+hello                            ###                          ##   
+	SECTION	"programme",CODE_F
+hello                              #####                     ##    
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello                                  #####                ##     
+	SECTION	"programme",CODE_F
+	move.w	dmaconr(a5),d0
+	or.w	#$8100,d0
+	move.w	d0,dma-DataF(a4)		;sauve registre dma
+
+	move.l	#VBlank,$6c			;Nouvelle VBlank
+	move.l	$6c,irq-DataF(a4)		;sauve ancienne VBlank
+
+	move.w	intenar(a5),d0
+	or.w	#$c000,d0
+	move.w	d0,int-DataF(a4)		;sauve registre interupt
+
+
+	move.w	#$3fff,intena(a5)
+hello                                      #####         ####      
+***	Prise possession des moyen de la machine
+hello                                          ###########         
+

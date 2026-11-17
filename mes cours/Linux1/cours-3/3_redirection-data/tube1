@@ -1,0 +1,10 @@
+    11	    WARNING:Branding setting for sidebar is missing, using "widget" "left" 
+    12	2020-08-19 - 10:36:18 [2]: void Calamares::flavorAndSide(const YAML::Node&, const char*, Calamares::Branding::PanelFlavor&, Calamares::Branding::PanelSide&)
+    13	    WARNING:Branding setting for navigation is missing, using "widget" "bottom" 
+    14	2020-08-19 - 10:36:18 [2]: Calamares::Branding::Branding(const QString&, QObject*)
+    15	    WARNING:the branding component "/usr/share/calamares/branding/manjaro" does not ship translations. 
+    16	2020-08-19 - 10:36:18 [6]: Calamares::Branding::Branding(const QString&, QObject*)
+    17	    Loaded branding component "manjaro" 
+    18	2020-08-19 - 10:36:18 [6]:  ..  No translation for "tz_" "fr_CH" using default (en) 
+    19	2020-08-19 - 10:36:18 [6]:  ..  Loaded QRC translation "calamares_" "fr_CH" 
+    20	2020-08-19 - 10:36:18 [6]: void CalamaresApplication::init()

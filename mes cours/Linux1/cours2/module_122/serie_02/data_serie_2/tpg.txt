@@ -1,0 +1,160 @@
+Tramways
+
+    Ligne 12 – Tramway – Palettes - Moillesulaz
+    Palettes - Moillesulaz
+
+    Ligne 14 – Tramway – P+R Bernex – Meyrin-Gravière ou CERN
+    P+R Bernex – Meyrin-Gravière ou CERN
+
+    Ligne 15 – Tramway – Palettes - Nations
+    Palettes - Nations
+
+Autobus et trolleybus
+
+    Ligne 1 – AutoBus – Petit-Bel–Air - Jardin Botanique
+    Petit-Bel–Air - Jardin Botanique
+
+    Ligne 2 – TrolleyBus – Genève-Plage – Onex-Cité
+    Genève-Plage – Onex-Cité
+
+    Ligne 3 – TrolleyBus – Gardiol – Crêts-de-Champel
+    Gardiol – Crêts-de-Champel
+
+    Ligne 4 – AutoBus – Bel-Air - P+R Perly
+    Bel-Air - P+R Perly
+
+    Ligne 5 – AutoBus – Thônex-Vallard - Aéroport
+    Thônex-Vallard - Aéroport
+
+    Ligne 6 – TrolleyBus – Vernier-Village – Genève-Plage
+    Vernier-Village – Genève-Plage
+
+    Ligne 7 – TrolleyBus – Hôpital – Tours Lignon
+    Hôpital – Tours Lignon
+
+    Ligne 8 – AutoBus – OMS – Veyrier-Douane ou Veyrier-Tournettes
+    OMS – Veyrier-Douane ou Veyrier-Tournettes
+
+    Ligne 9 – AutoBus – Petit-Bel-Air – Tours Lignon
+    Petit-Bel-Air – Tours Lignon
+
+    Ligne 10 – TrolleyBus – Aéroport – Rive
+    Aéroport – Rive
+
+    Ligne 11 – AutoBus – Jardin Botanique – Bout-du-Monde
+    Jardin Botanique – Bout-du-Monde
+
+    Ligne 19 – TrolleyBus – Vernier-Village – Onex-Cité
+    Vernier-Village – Onex-Cité
+
+    Ligne 21 – AutoBus – Cressy – Gare Eaux-Vives
+    Cressy – Gare Eaux-Vives
+
+    Ligne 22 – AutoBus – Nations – Tours-de-Carouge
+    Nations – Tours-de-Carouge
+
+    Ligne 23 – AutoBus – Aéroport – ZIPLO
+    Aéroport – ZIPLO
+
+    Ligne 28 – AutoBus – Jardin Botanique – Parfumerie
+    Jardin Botanique – Parfumerie
+
+    Ligne 31 – AutoBus – P+R Sous-Moulin – Puplinge-Marquis
+    P+R Sous-Moulin – Puplinge-Marquis
+
+    Ligne 33 – AutoBus – Rive – Chevrier
+    Rive – Chevrier
+
+    Ligne 34 – AutoBus – Veyrier-Tournettes – Chevrier
+    Veyrier-Tournettes – Chevrier
+
+    Ligne 35 – AutoBus – Augustins – Augustins
+    Augustins – Augustins
+
+    Ligne 36 – AutoBus – Place Neuve – Place Neuve
+    Place Neuve – Place Neuve
+
+    Ligne 41 – AutoBus – Tours-de-Carouge – Petit-Veyrier
+    Tours-de-Carouge – Petit-Veyrier
+
+    Ligne 42 – AutoBus – Carouge – Croisée de Confignon
+    Carouge – Croisée de Confignon
+
+    Ligne 43 – AutoBus – Stade de Genève – Loëx-Hôpital
+    Stade de Genève – Loëx-Hôpital
+
+    Ligne 44 – AutoBus – Tours-de-Carouge – Croix-de-Rozon-Douane
+    Tours-de-Carouge – Croix-de-Rozon-Douane
+
+    Ligne 45 – AutoBus – Tours-de-Carouge – Troinex-Ville
+    Tours-de-Carouge – Troinex-Ville
+
+    Ligne 46 – AutoBus – Bellins – Bardonnex
+    Bellins – Bardonnex
+
+    Ligne 47 – AutoBus – Croisée de Confignon - Bernex-Saule
+    Croisée de Confignon - Bernex-Saule
+
+    Ligne 51 – AutoBus – C.O. Renard – Mervelet
+    C.O. Renard – Mervelet
+
+    Ligne 53 – AutoBus – Bouchet – Machéry
+    Bouchet – Machéry
+
+    Ligne 54 – AutoBus – Satigny-Gare – Gare ZIMEYSA
+    Satigny-Gare – Gare ZIMEYSA
+
+    Ligne 57 – AutoBus – Aéroport - Gare de Meyrin
+    Aéroport - Gare de Meyrin
+
+    Ligne a – AutoBus – Rive - Gy-Eglise - Corsinge-Village
+    Rive - Gy-Eglise - Corsinge-Village
+
+    Ligne b – AutoBus – Vésenaz-Eglise – Chevrens
+    Vésenaz-Eglise – Chevrens
+
+    Ligne c – AutoBus – Malagnou/P+R Sous-Moulin - Jussy-Meurets/Monniaz
+    Malagnou/P+R Sous-Moulin - Jussy-Meurets/Monniaz
+
+    Ligne d – AutoBus – Bel-Air – Saint-Julien-Gare / ZI Les Moulins/ Neydens-Vitam'Parc/ Valleiry Chef-Lieu
+    Bel-Air – Saint-Julien-Gare / ZI Les Moulins/ Neydens-Vitam'Parc/ Valleiry Chef-Lieu
+
+    Ligne e – AutoBus – Rive – Hermance
+    Rive – Hermance
+
+    Ligne f – AutoBus – Gare Cornavin – Ferney-Mairie ou Gex-ZAC
+    Gare Cornavin – Ferney-Mairie ou Gex-ZAC
+
+    Ligne g – AutoBus – Rive - P+R Veigy/Veigy
+    Rive - P+R Veigy/Veigy
+
+    Ligne k – AutoBus – Petite-Vendée – Pougny-Gare
+    Petite-Vendée – Pougny-Gare
+
+    Ligne l – AutoBus – Petite-Vendée – Avusy
+    Petite-Vendée – Avusy
+
+    Ligne o – AutoBus – Meyrin-Gravière - Lycée International
+    Meyrin-Gravière - Lycée International
+
+    Ligne s – AutoBus – Sézenove – Satigny-Gare
+    Sézenove – Satigny-Gare
+
+    Ligne t – AutoBus – La Plaine - P+R Challex-La Halle
+    La Plaine - P+R Challex-La Halle
+
+    Ligne v – AutoBus – Gare Cornavin – C.S. la Bécassière
+    Gare Cornavin – C.S. la Bécassière
+
+    Ligne w – AutoBus – Satigny-Gare – Satigny-Gare
+    Satigny-Gare – Satigny-Gare
+
+    Ligne x – AutoBus – Chancy-Douane – Dardagny
+    Chancy-Douane – Dardagny
+
+    Ligne y – AutoBus – Ferney-Voltaire-Mairie – Val-Thoiry
+    Ferney-Voltaire-Mairie – Val-Thoiry
+
+    Ligne z – AutoBus – Gare Cornavin – Bossy ou Bois-Chatton
+    Gare Cornavin – Bossy ou Bois-Chatton
+

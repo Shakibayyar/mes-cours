@@ -1,0 +1,1810 @@
+ID    NOM                    AN   LIEU                  TEMP
+    2 Aebi Frédéric          1986 Vétroz                 4:31:44
+    3 Aebischer Olivier      1981 La Chaux-de-Fonds      4:30:32
+    4 Aebischer Patrick      1984 Fribourg               4:58:12
+    5 Aebischer Thomas       1977 Fribourg               5:13:24
+    6 Aeby Pascal            1966 Meyrin                 4:47:55
+    7 Aeby Patrick           1968 Lutry                  5:30:06
+    8 Aeby Patrik            1972 Marly                  4:36:56
+    9 Affolter Marc          1987 Randogne               4:20:30
+   10 Afonso Marcel          1963 La Tour-de-Trême       4:12:40
+   11 Aita Jean-Paul         1954 Echallens              4:22:27
+   12 Albanese Jonathan      1982 F-Villers le Lac       6:03:11
+   13 Albanese Luca          1977 Meyrin                 4:45:10
+   14 Alias Ortiz Visitacion 1961 E-Balaguer             7:47:51
+   15 Allaz Simon            1982 Goumoens-la-Ville      5:03:39
+   16 Allegrucci Pierre      1959 B-Woluwe-Saint-Pierr   5:36:28
+   17 Allemann René          1952 Genève                 6:06:12
+   18 Allenbach Cindy        1979 Chardonne              5:02:54
+   19 Allesina Flavio        1967 Blonay                 4:04:09
+   20 Allesina Stephanie     1986 Corsier-sur-Vevey      5:36:21
+   21 Allet Corinne          1974 St-Léonard             7:19:09
+   22 Almeida Nuno           1980 Avry-sur-Matran        4:38:01
+   23 Alvarez Rafael         1971 Espagne                5:17:49
+   24 Amacker Sanna          1972 Sierre                 6:00:53
+   25 Amoros Lucas Nria      1978 E-Balaguer             6:52:38
+   26 Amos Mathieu           1991 Sierre                 5:32:47
+   27 Amsler Quentin         1992 Collonge-Bellerive     5:08:28
+   28 Andenmatten Zufferey F 1968 Mayoux                 4:33:47
+   29 Andrade Rui            1967 Bulle                  5:32:30
+   30 Andrey Fabien          1981 Botterens              4:57:44
+   31 Andrey Marcel          1956 Le Sechey              4:33:20
+   32 Andriamamonjy Antsa    1992 Sion                   4:37:31
+   33 Anselme Claude         1951 St-Prex                6:23:31
+   34 Antille Olivier        1970 Bernex                 5:14:25
+   35 Apothèloz Yves         1972 Corsier-sur-Vevey      5:16:18
+   36 Arbellay Yann          1982 Conthey                5:08:45
+   37 Arcioni Grégoire       1971 Bramois                7:46:53
+   38 Arm Laurent            1971 Villeneuve VD          4:04:16
+   39 Armeli Lucien          1963 Petit-Lancy            5:18:00
+   40 Arnold Pia             1960 Bercher                5:42:29
+   41 Arroyo Silvia          1983 Sion                   6:53:02
+   42 Aubert Laura           1988 Neuchâtel              7:06:33
+   43 Aubert Philippe        1961 L'Isle                 6:04:03
+   44 Ayer Arlette           1967 Fribourg               5:56:11
+   45 Ayer Chantal           1965 Farvagny               4:56:01
+   46 Ayer Serge             1965 Farvagny               4:56:01
+   47 Aysanoa Pierrot        1964 Satigny                6:39:22
+   48 Bach-Barras Philippe   1970 Carrouge VD            4:45:02
+   49 Baechler Joël          1982 Avry-sur-Matran        5:03:06
+   50 Baechler Sebastien     1990 Lentigny               3:47:01
+   51 Badan Christian        1972 Orsonnens              6:09:39
+   52 Badertscher Katia      1972 Vevey                  6:00:51
+   53 Ballestraz Guillaume   1987 Sion                   5:12:12
+   54 Balleys Véronique      1988 Verbier                5:33:44
+   55 Ballif Dominique       1957 Le Mont-sur-Lausanne   7:26:07
+   56 Ballini-Belche Malou   1966 L-Esch-sur-Alzette     8:11:41
+   57 Bally Marie-Pascale    1952 Nyon                   6:59:57
+   58 Bapst Bernard          1964 Pont-la-Ville          5:12:52
+   59 Bapst Jolliet Carol    1979 Fribourg               6:04:05
+   60 Barbey Jessica         1973 Les Acacias            6:19:24
+   61 Barbey Philippe        1963 Carouge GE             4:37:46
+   62 Barbey Yvan            1961 Muraz (Collombey)      4:42:42
+   63 Bariatti Marie-Claude  1974 Sullens                6:28:23
+   64 Baeriswyl David        1990 Fribourg               5:59:47
+   65 Bark-Jones Sophie      1979 GB-London              8:15:48
+   66 Barmaz Gosselin Anne-J 1972 Zinal                  5:38:57
+   67 Barmaz Rigal Severine  1973 F-Dingy en Vuache      4:30:39
+   68 Barrale Anne-Laure     1970 Montet (Glâne)         5:15:08
+   69 Barras Jean            1966 Hauteville             4:43:08
+   70 Barras Jérôme          1972 Veyras                 5:34:15
+   71 Barras Romaine         1976 Veyras                 6:41:16
+   72 Barras Torres Véroniqu 1963 Ollon VS               5:32:13
+   73 Barras Vincent         1971 Cousset                3:46:49
+   74 Barth Fabrice          1984 Vermes                 4:10:50
+   75 Basler Coralie         1999 Collex                 6:04:56
+   76 Basler Marcel          1962 Collex                 6:04:57
+   77 Baudet Nicolas         1962 Cossonay-Ville         6:07:50
+   78 Baudin Martine         1968 Fully                  6:39:11
+   79 Baudois Jean-Luc       1962 Siviriez               5:45:47
+   80 Baudois Romain         1989 Onnens FR              6:44:19
+   81 Baumann Damien         1979 Granges-Paccot         4:22:56
+   82 Baumann François       1985 Ballens                4:04:42
+   83 Baumann Peter          1953 Fribourg               6:41:13
+   84 Baumeler Franz-Gerhard 1959 Arni-Islisberg         6:38:12
+   85 Baumeler Marlis        1900 Arni-Islisberg         6:38:13
+   86 Beaud Sabrina          1986 Charmey (Gruyère)      5:42:38
+   87 Bédat Nicola           1963 Zürich                 6:58:34
+   88 Bédat Patrick          1956 Zürich                 6:58:34
+   89 Bédat Xavier           1989 Zürich                 5:42:30
+   90 Béhar Chantal          1970 Lausanne               6:48:34
+   91 Beheydt Thomas         1998 GB-Surrey              7:12:24
+   92 Belle Marina           1978 Mont-sur-Rolle         4:57:52
+   93 Beney Elvis            1973 Mont-sur-Rolle         4:50:48
+   94 Beney Jonathan         1992 La Tzoumaz             5:34:14
+   95 Benz Herbert           1961 Charrat                5:18:56
+   96 Berchier Francoise     1964 Enney                  5:49:00
+   97 Berchier Grégoire      1982 Lausanne               5:24:58
+   98 Berchier Valentine     1980 Avenches               5:39:20
+   99 Berchtold Hildegard    1959 Unterbäch VS           7:17:22
+  100 Berclaz Kérim          1989 Savièse                4:32:02
+  101 Bercy Vincent          1974 B-Nalinnes             4:41:50
+  102 Berden Thijs           1973 NL-Eindhoven           5:50:12
+  103 Berger Elodie          1988 La Sagne NE            7:12:33
+  104 Berger Gaël            1981 Murist                 6:21:36
+  105 Berguerand Linda       1967 Lausanne               4:50:40
+  106 Bernard Mathieu        1975 Lausanne               4:22:42
+  107 Berney Katja           1987 Lausanne               6:00:52
+  108 Berset Christian       1957 Onnens FR              4:48:41
+  109 Berset Emmanuelle      1960 Onnens FR              5:30:40
+  110 Berset Laurent         1961 Courtaman              4:52:00
+  111 Berthet Lionel         1980 Froideville            4:39:04
+  112 Berthoud Cédric        1970 La Chaux-de-Fonds      5:07:03
+  113 Bertogliati Philippe   1965 Sullens                5:27:26
+  114 Bertolasi Stefano      1980 F-Prevessin Moens      4:19:38
+  115 Bertschy Christophe    1968 Montévraz              4:45:39
+  116 Besse Bastian          1989 Vétroz                 6:01:27
+  117 Besson Jean-Philippe   1976 Chavannes-près-Renen   5:41:08
+  118 Besuchet Frederic      1960 Vandoeuvres            4:13:53
+  119 Betrisey Didier        1982 Vevey                  4:42:41
+  120 Betrisey Remy          1952 Uvrier                 5:39:52
+  121 Beuché Patrick         1964 Sion                   6:10:46
+  122 Beysard Christian      1958 Muraz (Sierre)         4:46:28
+  123 Beytrison Delphine     1990 Lens                   5:35:04
+  124 Bidawid Marc           1985 Arconciel              5:11:46
+  125 Biderbost Loïc         1999 St-Cergue              8:09:55
+  126 Biderbost Tim-Aline    1997 St-Cergue              8:05:44
+  127 Bille Raphaël          1973 Grimisuat              3:52:04
+  128 Binggeli Bernard       1956 Yvonand                4:44:43
+  129 Binggeli Olivier       1984 Prangins               4:16:10
+  130 Bisch Laurence         1981 F-Saint Etienne        5:13:24
+  131 Bitz Burns Anita       1967 Arbaz                  5:46:47
+  132 Blanc François         1961 Etoy                   5:49:14
+  133 Blanc Pierre           1989 Ayent                  3:42:32
+  134 Blanc Raphaël          1974 Ayent                  4:04:11
+  135 Blanchet Gael          1973 Martigny               4:15:56
+  136 Blant Michel           1958 Neuchâtel              5:07:07
+  137 Blatti Joris           1985 Vevey                  4:37:00
+  138 Bobillier Valérie      1977 Martigny Gare CFF      5:08:39
+  139 Bochatay Xavier        1958 Martigny               6:20:14
+  140 Bochet Camille         1991 Onex                   5:48:03
+  141 Bock Wolfgang          1983 D-Kaiserslautern       5:49:42
+  142 Boegli Max             1971 B-Leuven               5:10:48
+  143 Bogdan Aline           1976 F-Colmar               6:37:05
+  144 Bohnet Christophe      1968 Bremblens              4:05:49
+  145 Bohrer Marc            1968 F-Beaucourt            4:10:49
+  146 Boillat Danielle       1957 Les Breuleux           8:18:03
+  147 Boillat Didier         1956 Les Breuleux           8:18:03
+  148 Boillat Jean-Luc       1963 Fiez                   5:35:52
+  149 Bollin Andre           1944 Saxon                  8:32:28
+  150 Bollini Jean-Charles   1978 St-Barthélemy VD       5:48:07
+  151 Bonadei Jonas          1980 Genève                 4:29:03
+  152 Bonanomi Elena         1984 Bern                   5:06:02
+  153 Bonanomi Sylvia        1955 Pully                  6:29:13
+  154 Bongard Cédric         1984 Marsens                4:51:11
+  155 Bongard Kim            1971 Villarvolard           5:35:11
+  156 Bonjour Elodie         1986 Clarens                6:51:19
+  157 Bonnafous Corine       1969 F-Cazouls les Bezier   8:45:05
+  158 Bonnard Andy           1987 Chippis                5:38:27
+  159 Bonnard Romuald        1984 Chippis                5:35:05
+  160 Bonnet Claude-Alain    1960 La Tour-de-Trême       4:21:01
+  161 Bonny Charles-Edouard  1961 Chevroux               6:28:08
+  162 Bonny Denise           1945 Payerne                7:22:31
+  163 Bonvin Arnauld         1983 Salvan                 3:55:28
+  164 Bonvin Ismael          1983 Sierre                 5:25:56
+  165 Bonvin Jean-Marie      1952 Corin-de-la-Crête      6:01:21
+  166 Bonvin Leandre         1995 Corin-de-la-Crête      4:44:33
+  167 Bonvin Marc Rene       1985 Genève                 5:30:28
+  168 Bonvin Patrick         1974 Mollens VS             4:39:43
+  169 Borboen Jerome         1988 Onex                   4:24:31
+  170 Borcard Anaïs          1989 Neirivue               4:21:03
+  171 Borda Luis-Berardo     1966 Romanel-sur-Lausanne   3:59:21
+  172 Borgeaud Alexandre     1986 Chermignon             5:50:03
+  173 Borgeaud Mélanie       1984 Chermignon             6:46:11
+  174 Borgeaud Nicolas       1992 Penthalaz              5:46:40
+  175 Borgeaud Pascal        1965 Penthalaz              5:56:39
+  176 Borgeaud Sebastien     1989 Penthalaz              5:50:35
+  177 Borhani Navid          1970 Paudex                 8:25:40
+  178 Bornet Frédéric        1973 Haute-Nendaz           4:02:16
+  179 Bornet Pierre          1963 Plan-les-Ouates        5:29:02
+  180 Bornet Yves            1959 Sion                   5:15:43
+  181 Bornoz Lionel          1973 Fiez                   4:09:07
+  182 Boryszewski Nicolas    1983 Pully                  4:24:26
+  183 Bosson Laurent         1979 Bulle                  4:02:47
+  184 Botteron Poonam-Leila  1972 La Sagne NE            8:06:44
+  185 Bouchard Danielle      1963 Lutry                  6:19:03
+  186 Bouchoud Lucie         1979 Genève                 5:51:10
+  187 Boudeau Sylvain        1973 Lussy FR               3:46:38
+  188 Bouillet Frédéric      1982 F-Besancon             5:06:18
+  189 Bouillet Jean-Yves     1974 F-Hérimontcourt        5:11:04
+  190 Bouillet Vincent       1973 F-Chilly sur Salins    4:08:13
+  191 Bourdilloud Christophe 1982 Châtel-St-Denis        4:07:04
+  192 Bourdin Gilles         1983 Fribourg               4:40:11
+  193 Bourgeois Bernard      1957 F-Thoiry               7:12:56
+  194 Bourgeois Hélène       1953 Liestal                4:45:54
+  195 Bourgeois Jean-Marie   1954 Onex                   6:13:28
+  196 Bourgnon Corentin      1994 Yverdon-les-Bains      4:28:58
+  197 Bourqui Benoît         1974 Hennens                4:08:10
+  198 Bourquin Freddy        1951 Dardagny               6:34:47
+  199 Bourrin Sébastien      1979 F-Thurins              4:51:59
+  200 Bouzerda Ouafa         1979 Lausanne               8:32:04
+  201 Bovet Dominique        1951 Le Bry                 6:14:47
+  202 Bovigny Jacques        1956 Broc                   6:21:30
+  203 Bovigny Patrick        1967 Sâles (Gruyère)        3:54:31
+  204 Boyer Mathilde         1981 Sierre                 4:21:14
+  205 Bradstreet Matthieu    1975 B-Bruxelles            7:09:23
+  206 Braillard Michel       1969 Goumoens-la-Ville      4:28:03
+  207 Breniere Fabrice       1964 F-Collonges            4:38:21
+  208 Bressoud Raymond       1960 Vufflens-le-Château    4:48:42
+  209 Briand Isabelle        1956 Chavornay              7:27:48
+  210 Briguet Nicolas        1991 Lens                   6:26:26
+  211 Bringhen Christa       1970 Mont-sur-Rolle         5:38:18
+  212 Brodard Olivier        1973 Aigle                  5:12:13
+  213 Broger August          1946 Petit-Lancy            5:29:11
+  214 Broye Jacqueline       1963 Payerne                6:03:10
+  215 Bruchez Christophe     1972 Lourtier               4:16:07
+  216 Bruchez Stéphanie      1984 Martigny               4:33:55
+  217 Brügger Loic           1987 Penthalaz              5:06:03
+  218 Bruggimann Olivier     1967 Bellevue               4:33:03
+  219 Brülhart Benoit        1965 Ecuvillens             4:35:08
+  220 Brulhart Yann          1974 Crésuz                 4:22:28
+  221 Brun Urs               1964 Rossens FR             4:41:46
+  222 Brunisholz Julien      1983 Matran                 6:12:40
+  223 Brunner Claire-Lise    1960 La Chaux-de-Fonds      4:39:22
+  224 Brunner Olivia         1987 Lausanne               5:36:29
+  225 Brunod Thierry         1982 Courgenay              5:36:42
+  226 Bruttin Pierre         1958 Lutry                  6:03:36
+  227 Buchenau Carsten       1973 Lausanne               5:58:13
+  228 Bucher Bruno           1972 Sierre                 4:35:31
+  229 Büchler Valérie        1971 Les Paccots            6:16:33
+  230 Budon Pascal           1966 Sierre                 4:23:47
+  231 Bugnon Bibiane         1983 Villariaz              5:29:56
+  232 Bugnon Cedric          1974 Vésenaz                3:38:38
+  233 Buhler Sebastien       1979 Bassecourt             4:57:01
+  234 Bulliard Nicolas       1977 Corsier GE             3:14:56
+  235 Burcher Laurent        1956 Les Marécottes         6:23:47
+  236 Buergin Hansueli       1963 Estavayer-le-Lac       7:04:31
+  237 Bürki Daniel           1966 Mervelier              4:44:14
+  238 Burnier Christian      1960 Cully                  4:14:20
+  239 Burnier Claude         1971 Boussens               5:04:22
+  240 Bussard Jean-Claude    1977 Massonnens             4:22:43
+  241 Bussard Maud           1973 Bulle                  6:20:33
+  242 Bustin Alain           1950 B-Bouge                5:26:36
+  243 Butty Charles          1964 Ursy                   5:56:21
+  244 Butty Christian        1965 Vaulruz                6:16:31
+  245 Butty Claudine         1962 Onnens FR              6:08:09
+  246 Butty Marcel           1959 Onnens FR              4:14:37
+  247 Butty Roger            1963 Ecublens FR            4:36:08
+  248 Cabrita Edgar          1966 Renens VD              5:46:07
+  249 Cachin Arnaud          1969 Vufflens-le-Chteau     6:00:09
+  250 Cachin Chantal         1969 Vufflens-le-Chteau     5:58:19
+  251 Calderone Roberto      1984 F-St Julien en Genev   5:46:01
+  252 Caloz Claudia          1972 Chavannes-près-Renen   5:41:07
+  253 Caloz Vincent          1990 Noës                   4:07:50
+  254 Calvet Claire          1964 F-Cranves Sales        6:17:41
+  255 Camus Denis            1962 F-Viuz en Sallaz       5:26:02
+  256 Camus Maxime           1989 F-Viuz en Sallaz       5:06:57
+  257 Camus Valentin         1992 F-Viuz en Sallaz       5:31:48
+  258 Cand Corine            1962 Les Bayards            6:04:53
+  259 Cand Daniel            1958 Les Bayards            5:56:16
+  260 Cantin Bruno           1947 Cheseaux-sur-Lausann   6:31:45
+  261 Capol Eveline          1972 Rubigen                5:36:33
+  262 Capt Alain             1959 Orges                  5:49:08
+  263 Capt Valerie           1965 Orges                  5:51:25
+  264 Carissoni Remo         1964 Vernier                4:11:01
+  265 Carlier Jean-Michel    1967 B-Namur                5:41:55
+  266 Carpin Laurent         1969 Thônex                 5:04:15
+  267 Carrel Sandra          1972 Siviriez               5:05:55
+  268 Carron Blaise          1967 Monthey                5:46:54
+  269 Carron Claude-Alain    1970 Fully                  5:37:29
+  270 Carron Daniel          1962 Fully                  5:43:56
+  271 Carron Gaby            1960 Fully                  4:46:11
+  272 Carron Tina            1987 Fribourg               6:43:43
+  273 Caruso John            1977 Genève                 4:41:34
+  274 Casada Pierre          1971 Zinal                  6:50:49
+  275 Casada Sandra          1972 Zinal                  6:50:50
+  276 Casado Doriana         1961 Couvet                 6:04:31
+  277 Castella Françoise     1969 Vaulruz                7:30:19
+  278 Castella Serge         1962 Bulle                  5:33:36
+  279 Castella Thomas        1993 Bulle                  5:33:37
+  280 Cattai Deborah         1976 Lucens                 8:13:37
+  281 Cattin Sylvia          1978 Bassecourt             4:57:53
+  282 Cavaleri Olivier       1962 Lutry                  5:29:33
+  283 Cavallo Pierre-André   1978 Vétroz                 5:28:11
+  284 Caveng Didier          1953 Chambésy               8:05:40
+  285 Celini Yeter           1963 B-Ixelles             10:36:55
+  286 Cerf Grosjean Valérie  1972 Courgenay              5:41:41
+  287 Cerf Jean-Claude       1968 Courgenay              5:16:02
+  288 Chaignat Louis         1943 Sion                   6:40:29
+  289 Challande Ariane       1966 Genève                 6:04:29
+  290 Chalon Bernard         1985 Villeneueve            7:20:26
+  291 Chambovey Andre        1967 Collonges              3:51:04
+  292 Chapatte Doris         1980 Villars-sur-Glâne      4:33:36
+  293 Chaperon Valerie       1970 Vuadens                5:24:50
+  294 Chappex Caroline       1979 Martigny               5:46:07
+  295 Chappuis Claude        1965 Fribourg               4:00:25
+  296 Chappuis Laurence      1978 Penthalaz              5:58:12
+  297 Chapuis Olivier        1960 Renens VD              4:57:02
+  298 Chapuis Rose-Marie     1949 Châtel-St-Denis        7:04:31
+  299 Charbonnier Melanie    1979 Confignon              7:18:08
+  300 Chardon Corinne        1967 Vex                    5:31:41
+  301 Chardon Joachim        1969 Vex                    4:44:31
+  302 Chardonnens Nicolas    1977 Gletterens             5:33:55
+  303 Charmillot Patrick     1969 Vicques                4:47:01
+  304 Charmillot Séverine    1971 Vicques                6:39:16
+  305 Charvoz Ulrich         1969 St-Blaise              7:17:08
+  306 Chassot Joseph         1948 Givisiez               5:47:04
+  307 Chatelain Catherine    1975 Genève                 5:48:47
+  308 Chatelan Noémie        1993 Villeneuve VD          7:20:26
+  309 Chatelanat Laurent     1979 Nyon                   4:17:21
+  310 Chekroun Marc          1966 Genève                 7:18:07
+  311 Chenaux Sébastien      1989 Grolley                4:43:42
+  312 Cherubini Alberto      1951 Bex                    6:15:11
+  313 Chevalier Colin        1985 Lausanne               5:31:01
+  314 Chevalier Dimitri      1976 F-Douvaine             4:22:31
+  315 Chopard Michaël        1974 Carouge GE             4:45:12
+  316 Chopard Michel         1959 Zinal                  5:04:31
+  317 Christe Andreas        1981 Granges-Paccot         5:48:44
+  318 Christen Anne-Lise     1961 Yverdon-les-Bains      5:31:39
+  319 Christen Jean-Daniel   1951 Marin-Epagnier         6:31:41
+  320 Christinet Isabelle    1953 Arzier                 6:41:36
+  321 Christophe Nicolas     1976 B-Nalinnes             5:03:47
+  322 Ciana Nicolas          1967 Le Mont-sur-Lausanne   5:38:48
+  323 Ciana Véronique        1966 Le Mont-sur-Lausanne   5:34:02
+  324 Ciceri Quiroga Hernand 1960 Colombie               4:01:24
+  325 Cima Rouiller Antoine  1960 Nax                    7:23:18
+  326 Cina Bertrand          1978 Salgesch               6:56:31
+  327 Cina Lionel            1986 Sierre                 4:08:57
+  328 Cina Stéphane          1959 Chermignon             5:25:45
+  329 Cioffi Domenico        1965 Pully                  7:05:53
+  330 Claeys Bouuaert Jean-P 1945 B-Wondelgem            6:26:29
+  331 Claisse Régis          1978 B-Aubange              5:21:37
+  332 Claessens Thomas       1981 Beuson (Nendaz)        4:14:32
+  333 Clavien Daniel         1958 Miège                  6:09:38
+  334 Clément Alexandre      1976 Fribourg               5:35:18
+  335 Clément Christian      1963 Froideville            7:44:31
+  336 Clément Nicolas        1987 Les Moulins            5:29:19
+  337 Clerc Colette          1941 Château-d'Oex          8:58:08
+  338 Clerc Jaqueline        1964 Fribourg               5:41:34
+  339 Clerc Samuel           1978 Rueyres-St-Laurent     4:18:10
+  340 Clerc-Schoeni Céline   1976 Bôle                   4:47:23
+  341 Clivaz Florie          1993 Miège                  5:34:41
+  342 Clivaz Guillaume       1991 Miège                  4:15:48
+  343 Clivaz Paul-Alain      1970 Veyras                 6:09:23
+  344 Clody Laurence         1962 F-Collobrieres         9:16:36
+  345 Closas Juan Miguel     1969 Grimisuat              5:33:43
+  346 Cochard Cyril          1983 Montreux               4:14:34
+  347 Cochard Yves           1968 F-Etrembieres          7:20:34
+  348 Codalonga Jean-Noel    1960 Sion                   6:43:52
+  349 Colin François         1988 Massongex              5:36:45
+  350 Collaud Stéphane       1979 Zürich                 3:49:20
+  351 Colliard Sylvie        1955 Châtel-St-Denis        5:40:45
+  352 Colomb Olivier         1977 Morges                 5:15:22
+  353 Colomb Philippe        1971 St-Saphorin-sur-Morg   5:26:43
+  354 Cominoli Chantal       1978 Petit-Lancy            5:33:49
+  355 Comment Nicolas        1984 Charmoille             4:58:30
+  356 Comte Julien           1988 Chermignon             4:04:59
+  357 Conscience Pierre      1989 Monnaz                 5:59:09
+  358 Constantin Sandra      1971 Athenaz (Avusy)        4:41:34
+  359 Conus Claudine         1974 Vuarmarens             5:24:58
+  360 Conus Sébastien        1971 Semsales               4:28:58
+  361 Coowar Thierry         1990 Epalinges              5:31:07
+  362 Copin Marie-Adèle      1988 Zinal                  5:46:04
+  363 Coradi Carine          1969 Vaulion                4:41:44
+  364 Corbaz Sebastien       1973 Cugy VD                6:04:01
+  365 Cordonier Yves         1980 Lens                   5:06:52
+  366 Cormainboeuf-Genoud An 1973 La Tour-de-Trême       5:45:09
+  367 Corminboeuf Brigitte   1966 Muraz (Collombey)      5:22:12
+  368 Corminboeuf Martine    1962 Fribourg               5:25:34
+  369 Corminboeuf Yanick     1989 Fribourg               4:45:11
+  370 Corpataux Marc         1982 Vuadens                4:48:23
+  371 Corpataux Nicolas      1978 Fribourg               4:03:00
+  372 Cossetto Dimitri       1983 Chateau D Oex          5:29:19
+  373 Cotter Benjamin        1992 Miège                  4:53:20
+  374 Cotting Anne-Sophie    1961 Domdidier              6:40:17
+  375 Cotting Bernard        1958 Domdidier              6:08:04
+  376 Couturier Alain        1964 Chamoson               6:45:35
+  377 Crausaz Christian      1967 Villars-sur-Glâne      5:40:05
+  378 Cretegny Linda         1971 Etoy                   5:56:48
+  379 Crettaz Claudine       1988 Chavannes-près-Renen   5:50:42
+  380 Crettaz David          1982 Salins                 5:48:45
+  381 Crettaz Jean-Marie     1990 Vissoie                5:08:37
+  382 Crettaz Martine        1975 Bramois                4:43:27
+  383 Crettaz Stéphane       1969 Grône                  5:09:04
+  384 Crettenand Gérard      1958 Isérables              4:32:08
+  385 Crettenand Jean-Bernar 1957 Martigny               5:24:55
+  386 Crettenand Rémy        1999 Neuchâtel              5:34:52
+  387 Crettenand Samuel      1973 Neuchâtel              5:34:52
+  388 Cretton Yves           1968 Collombey              5:04:24
+  389 Croisier Ariane        1964 Bex                    5:26:34
+  390 Cuenat Benjamin        1995 Delémont               5:50:27
+  391 Cuenat Jacques         1963 Delémont               5:50:33
+  392 Cunha Hugo             1992 Sierre                 5:54:46
+  393 Cuennet Pascal         1969 Aran                   4:45:40
+  394 Cuozzo Dominique       1966 Chêne-Bourg            7:20:35
+  395 Currat Alain           1965 Lausanne               5:04:20
+  396 Currat Denis           1980 Murist                 6:13:41
+  397 Currat Pascal          1962 Cugy VD                5:12:55
+  398 Currat Patricia        1964 Cugy VD                6:28:11
+  399 Custers Marielle       1969 NL-Bussum              6:40:21
+  400 Cuvillier Alain        1963 F-Codognan             6:30:12
+  401 Cuvillier Françoise    1956 F-Codognan             8:08:12
+  402 D'Angelo François      1969 Zinal                  4:11:24
+  403 Da Lemos Silva Maria L 1969 Ardon                  6:50:03
+  404 Dafflon Maryline       1982 Fribourg               5:36:40
+  405 Dal Pra Sébastien      1987 F-Annemasse            5:49:31
+  406 Darioly Christophe     1968 Réchy                  4:47:48
+  407 Dayer Gérald           1968 Hérémence              4:42:44
+  408 Dayer Nicolas          1965 Sion                   5:32:33
+  409 De Bruyne Barbara      1992 B-Wezembeek-Oppem      5:22:24
+  410 De Bruyne Geraldine    1983 B-Etterbeek            6:59:52
+  411 De Bruyne Kévin        1989 B-Wezembeek-Oppem      4:42:15
+  412 De Bruyne Stanislas    1995 B-Wezembeek-Oppem      5:11:46
+  413 De Courten Didier      1968 Sierre                 3:03:57
+  414 De Lerber Danielle     1952 F-Divonne les Bains    7:29:12
+  415 De May Stéphane        1970 B-Bossut-Gottechain    5:38:48
+  416 De Meyer Olivier       1960 La Rippe               5:11:42
+  417 De Picciotto Giancarlo 1959 Ostermundigen Rüti     5:26:34
+  418 De Prins Elliot        1994 B-Wezembeek-Oppem      4:42:15
+  419 De Roeck Tim           1978 B-Sint-Niklaas         7:18:55
+  420 De Siebenthal Nicolas  1961 Lutry                  4:07:31
+  421 De Wolff Jacques-Alexi 1980 Martigny               5:54:12
+  422 Debons Corinne         1965 Crans-Montana          4:33:15
+  423 Debrunner Claudia      1965 N-Oslo                 7:31:28
+  424 Dedoncker Paul         1967 B-Uccle                5:05:14
+  425 Degoumois Andree       1936 Baden                  9:21:37
+  426 Degransart André       1957 B-Lessines             7:37:57
+  427 Del Piero Francois     1996 B-Malonne              6:56:27
+  428 Del Piero Stany        1965 B-Malonne              8:25:45
+  429 Del Rio Camila         1961 Ballaigues             5:37:05
+  430 Delacoste Thomas       1978 Lausanne               5:39:01
+  431 Delacour Emmanuel      1983 Sorens                 3:48:42
+  432 Delaloye Ludovic       1980 Arbaz                  4:53:18
+  433 Delaloye Paul-Marie    1946 Leytron                5:51:11
+  434 Delessert Nicolas      1979 Epalinges              4:04:43
+  435 Delessert Serge        1968 Ferlens VD             4:36:10
+  436 Délétroz Véronique     1966 Le Mont-sur-Lausanne   6:18:27
+  437 Délèze Jean-Baptiste   1980 Haute-Nendaz           5:43:46
+  438 Deleze Jean-Daniel     1959 Basse-Nendaz           9:56:08
+  439 Délèze Mireille        1979 Chandolin-près-Saviè   5:55:14
+  440 Délèze Philippe        1967 Haute-Nendaz           5:01:31
+  441 Déleze Raphael         1956 Sion                   4:59:28
+  442 Delille David          1978 F-Chasselay            4:03:20
+  443 Delisle Dominique      1961 La Plaine              5:13:33
+  444 Delisle Julien         1991 La Plaine              3:55:19
+  445 Delle Rose Silvio      1972 Petit-Lancy            4:29:12
+  446 Delmas Christophe      1963 F-Chaumont             4:17:50
+  447 Delporte Vincent       1972 B-Rochefort            8:24:41
+  448 Demierre Fabienne      1974 Bulle                  6:13:47
+  449 Demierre Rose-Marie    1964 Billens                5:15:26
+  450 Demirkiran Soucas Mery 1972 Suisse                 8:56:16
+  451 Denizot Gael           1981 Rolle                  5:04:45
+  452 Denzler Beat           1955 Winterthur             4:50:18
+  453 Derasse Albert         1974 B-Braine-le-Comte      8:16:01
+  454 Déray Jonathan         1980 Vulliens               4:53:21
+  455 Derivaz Max-Alexandre  1974 St-Gingolph            4:16:04
+  456 Derivaz Raphaëlle      1975 Orsières               5:41:55
+  457 Deruelle Jean-Paul     1957 Martigny               5:37:24
+  458 Deruelle Loïc          1984 Belp                   5:37:22
+  459 Desarzens Jacques      1962 Prilly                 5:54:00
+  460 Descharmes Jean-Marie  1954 F-Chaumont             5:15:12
+  461 Descharmes Nicolas     1982 Renens VD              5:02:54
+  462 Dessimoz Carole        1973 Vétroz                 6:54:11
+  463 Dessimoz Jean-Julien   1983 St-Séverin             4:30:25
+  464 Devanthery Remy        1940 Réchy                  7:39:29
+  465 Devènes Grégory        1985 Saclentse Nendaz       3:55:44
+  466 Dey Daniel             1964 Pringy                 5:40:37
+  467 Di Sorbo Gianluigi     1976 Perly                  9:05:35
+  468 Dias Elisabeth         1981 Bramois                6:01:56
+  469 Dietler Freddy         1949 Praz-de-Fort           7:37:11
+  470 Dieulesaint Yves       1967 F-Lucinges             5:23:17
+  471 Dind Nicolas           1982 Fribourg               3:32:01
+  472 Dind Steve             1976 Corbeyrier             6:03:12
+  473 Dischinger Cedric      1994 Sierre                 5:00:43
+  474 Dittmar Michael        1956 F-Thoiry               4:56:10
+  475 Doffey Axel            1994 La Conversion          4:57:31
+  476 Doffey Philippe        1960 La Conversion          5:09:07
+  477 Dogliotti Marco        1968 Genève                 4:45:56
+  478 Dondainaz Vincent      1983 Vétroz                 5:08:58
+  479 Donnet Liliane         1963 Nyon                   6:41:14
+  480 Dorigatti Michel       1979 Malapalud              8:56:49
+  481 Dorsaz Alain           1970 St-Léonard             3:58:57
+  482 Dorsaz Sabine          1979 Sierre                 6:53:01
+  483 Dorta Sibylle          1966 Morrens VD             6:04:49
+  484 Dougoud Daniel         1952 Etoy                   7:14:08
+  485 Dougoud Isabelle       1977 Servion                6:04:41
+  486 Dousse Alain           1964 Neyruz FR              6:24:51
+  487 Dousse Christian       1961 Fribourg               5:08:10
+  488 Dousse Quentin         1994 Neyruz FR              4:57:14
+  489 Droux Benjamin         1985 Lausanne               5:20:40
+  490 Droux Gerard           1953 Vuadens                5:25:20
+  491 Droux Nicolas          1979 St-Jean VS             4:31:02
+  492 Droz Ariane            1978 Delémont               4:23:46
+  493 Drumond Henrique       1983 Genève                 4:59:51
+  494 Duay Sebastien         1985 St-Maurice             5:26:04
+  495 Dubach Pierre-Alain    1956 Collonge-Bellerive     5:35:10
+  496 Dubail Jacky           1970 La Chaux-de-Fonds      4:18:46
+  497 Dubey Jean-Charles     1967 Matran                 5:44:54
+  498 Dubey Sylvia           1962 Domdidier              6:40:17
+  499 Dubourg Jean-Pierre    1945 Nyon                   7:29:11
+  500 Duc Catherine          1962 Crans-Montana          6:38:53
+  501 Duc Joelle             1955 Sottens                6:37:11
+  502 Duc Regula             1960 Chermignon             5:26:48
+  503 Duc-Rielle Celine      1983 Ollon VS               5:54:19
+  504 Ducobu Philippe        1959 B-Merchtem             5:31:03
+  505 Ducommun Marie-Christi 1958 Froideville            6:12:59
+  506 Ducrey Anne            1972 Vouvry                 7:06:45
+  507 Ducrey Jean-Marc       1963 Ardon                  4:28:13
+  508 Ducrey Marie-Claire    1966 Neyruz FR              4:24:37
+  509 Dufour Camille         1972 Dombresson             4:54:33
+  510 Dufour Daniel          1972 Cheseaux-sur-Lausann   4:25:45
+  511 Dufour Michael         1974 Dombresson             4:48:49
+  512 Dufournet Baptsite     1993 Athenaz (Avusy)        4:08:56
+  513 Dufournet Marc         1977 Grand-Lancy            4:20:00
+  514 Dufournet Pierre       1980 Genève                 4:31:10
+  515 Dumalle Florian        1973 Genève                 3:57:53
+  516 Dumas Florence         1981 Sullens                5:55:17
+  517 Dumas Nicole           1951 La Tour-de-Peilz       6:09:15
+  518 Dumont Thierry         1959 Troistorrents          6:21:24
+  519 Dumoulin Frédéric      1981 Le Mont-sur-Lausanne   4:58:25
+  520 Dunant Fiander Nathali 1970 Collonge-Bellerive     4:50:01
+  521 Dupertuis Raphaël      1978 Chavannes-près-Renen   4:47:25
+  522 Dupuis Alain           1972 B-Baisy-Thy            7:04:52
+  523 Dupuis Patrick         1970 Montana                5:07:02
+  524 Duque Juan-Carlos      1959 Neuchâtel              3:55:45
+  525 Duriez Chloé           1977 Morges                 5:16:01
+  526 Durussel Laurent       1967 Poliez-Pittet          7:56:33
+  527 Dutoit Carole          1964 Chavannes-sur-Moudon   6:26:37
+  528 Dutoit Didier          1963 Chavannes-sur-Moudon   6:36:17
+  529 Eatwell James          1970 Grande-Bretagne        8:15:48
+  530 Echard Pascal          1959 Bernex                 5:02:51
+  531 Ecoffey Philippe       1946 Arbaz                  5:37:27
+  532 Ecoeur Yves            1965 Martigny               4:38:53
+  533 Ecuyer Severine        1982 Fully                  5:50:21
+  534 Eggel Laetitia         1979 Sion                   5:46:14
+  535 Eggenschwiler Patrice  1977 Boécourt               3:43:24
+  536 Eggenschwiler Virginie 1985 Rebeuvelier            5:38:26
+  537 Eichenberger Damien    1983 Arconciel              4:56:08
+  538 Elsig Jean-Pierre      1954 Sierre                 8:19:22
+  539 Eltschinger Stéphane   1990 Onnens FR              5:35:42
+  540 Emery Adrienne         1980 Lens                   5:09:14
+  541 Emery Florian          1992 Lens                   6:33:23
+  542 Emery Josué            1957 Flanthey               4:32:03
+  543 Emery Mathias          1984 Montana                5:40:08
+  544 Emery Pierre-Andre     1965 La Tour-de-Peilz       5:51:12
+  545 Emery Thierry          1972 Mézières VD            4:54:09
+  546 Emmery Robert          1967 B-Erps-Kwerps          4:51:39
+  547 Enderle Nicolas        1977 F-Paris                4:42:31
+  548 Engels Mireille        1965 B-Kraainem             8:34:11
+  549 Englebin Etienne       1973 B-Givry                4:35:23
+  550 Eperon Gérard          1943 Bernex                 7:00:31
+  551 Epiney Diego           1974 Grimentz               6:08:02
+  552 Epiney-Flück Sandrine  1967 Zinal                  5:00:50
+  553 Epiney Jean-Pierre     1939 Ayer                   6:51:56
+  554 Epiney Luc             1945 Zinal                  4:40:25
+  555 Epiney Rachel          1973 Ayer                   5:02:53
+  556 Epiney Robert          1937 Randogne               5:44:52
+  557 Epiney Yves-Laurent    1985 Vissoie                3:51:23
+  558 Erard Cédric           1973 Moutier                4:00:58
+  559 Erard Jean-Michel      1949 Savagnier              2:38:20
+  560 Erb Urs                1940 Les Avants             6:26:20
+  561 Ernst Jonathan         1980 Vernier                6:06:41
+  562 Ernst Vincent          1985 Vernier                5:35:19
+  563 Etienne Gregoire       1975 Lausanne               4:20:03
+  564 Etienne Patrick        1957 Romanel-sur-Lausanne   5:41:47
+  565 Etter Philippe         1978 Fribourg               5:35:03
+  566 Etter Vincent          1985 Blonay                 6:08:05
+  567 Eusebio Mathias        1977 Neuchâtel              5:08:46
+  568 Eusebio Veronica       1979 Neuchâtel              5:35:28
+  569 Even Sébastien         1988 Epalinges              5:01:17
+  570 Failletaz André        1934 Thônex                 7:25:33
+  571 Fairbrother Mark       1985 GB-Lytham St Annes     5:52:44
+  572 Faisant Grégoire       1970 Saxon                  4:03:16
+  573 Falciola Jean-Claude   1943 Genève                 7:18:50
+  574 Falconnier Nicolas     1978 Blonay                 3:59:52
+  575 Farine Audrey          1986 Delémont               4:24:54
+  576 Farine Beatrice        1972 Epalinges              6:39:29
+  577 Farrar Stel            1959 GB-Caernarfon          5:35:43
+  578 Fasnacht Sebastien     1982 Delémont               4:23:08
+  579 Favre Bertrand         1973 Grand-Saconnex         5:30:08
+  580 Favre Cédric           1966 Chexbres               5:36:20
+  581 Favre Chloé            1980 Glis                   5:25:15
+  582 Favre François         1961 Yverdon                6:47:41
+  583 Favre Gilles           1963 Grône                  9:56:00
+  584 Favre Jean-Yves        1967 Chamoson               4:20:44
+  585 Favre Joel             1973 Orsonnens              7:01:34
+  586 Favre Marie-Hélene     1971 Saxon                  5:18:58
+  587 Favre Marielle         1967 Orsonnens              7:01:33
+  588 Félix Sylvain          1983 Meyrin                 5:11:50
+  589 Fellay Eggel Valérie   1963 Muraz (Sierre)         7:25:25
+  590 Fellay Etienne         1978 Sion                   4:17:34
+  591 Fellay Jean-Denis      1962 Granges VS             4:39:45
+  592 Figini Daniel          1966 Châtel-St-Denis        4:26:59
+  593 Figliuzzi Gregory      1974 Châtel-St-Denis        6:06:38
+  594 Filliez Yaël           1976 Veysonnaz              5:30:29
+  595 Finazzi David          1974 Perly                  5:51:53
+  596 Fischer David          1984 Lucens                 4:03:24
+  597 Fischer Philipp        1982 Genève                 3:52:20
+  598 Flament Catherine      1981 Ollon VS               6:14:54
+  599 Florey Christian       1973 Sierre                 4:59:02
+  600 Flück Theo             2001 Zinal                  4:57:54
+  601 Fluri Patrick          1972 Aigle                  3:38:50
+  602 Fluri Serge            1976 Pully                  5:00:26
+  603 Fluri Simon            1973 Veyras                 4:54:46
+  604 Fontana Catherine      1965 Villars-sur-Glâne      6:09:39
+  605 Fontannaz Thierry      1976 Pully                  4:04:57
+  606 Fontela Armindo        1967 Dombresson             4:12:35
+  607 Fornerod Béatrice      1964 Bremblens              8:15:11
+  608 Forrer Hugues          1969 La Chaux-de-Fonds      5:38:56
+  609 Forrer Steve           1972 Nyon                   4:18:25
+  610 Forster Nicolas        1983 Cortaillod             4:30:06
+  611 Forster Roland         1953 Echallens              6:09:19
+  612 Fournier Anne          1957 Basse-Nendaz           5:07:05
+  613 Fournier Christelle    1983 Collombey              6:08:17
+  614 Fournier Emmanuel      1967 Baar (Nendaz)          4:15:24
+  615 Fournier Gaëtan        1963 Basse-Nendaz           4:48:38
+  616 Fournier Gilbert       1969 Basse-Nendaz           7:02:10
+  617 Fournier Lea           1997 Basse-Nendaz           7:02:10
+  618 Fournier Lionel        1979 Savièse                4:26:13
+  619 Fournier Magaly        1989 Venthône               7:23:51
+  620 Fournier Samuel        1972 Granges VS             4:33:00
+  621 Fournier Samuel        1980 Conthey                3:47:50
+  622 Fournier Xavier        1989 Basse-Nendaz           5:40:22
+  623 Fragniere Colette      1957 Charmey (Gruyère)      5:57:31
+  624 Fragnière Jules        1998 Neuchâtel              5:34:52
+  625 Fragnière Nicolas      1982 Sâles (Gruyère)        3:44:28
+  626 Fragnière Pascal       1968 Gumefens               4:51:58
+  627 Franc Grégory          1981 Montmollin             4:30:51
+  628 Francey Eric           1971 Léchelles              4:20:21
+  629 Francey Julien         1990 La Tour-de-Trême       6:02:37
+  630 Francioli Guillaume    1980 Genthod                3:37:32
+  631 Francolini Samantha    1984 Saint-cergue           6:56:32
+  632 Francon Mellie         1982 Les Loges              5:35:20
+  633 Frei Marc              1975 Bussigny-près-Lausan   4:43:49
+  634 Freiburghaus Philippe  1964 Matran                 4:34:16
+  635 Freiburghaus Valentin  1990 Matran                 5:25:08
+  636 Frein Nicolas          1977 Marly                  5:35:18
+  637 Freitag Manfred        1941 D-Schwarzheide         7:24:37
+  638 Freyer Daniela         1967 Lavigny                8:08:02
+  639 Freymond Maxime        1987 Ollon VD               4:54:02
+  640 Fries Bruno            1970 Carouge GE             5:43:56
+  641 Fringeli Françoise     1984 Léchelles              5:20:04
+  642 Fringeli Juliane       1985 Sion                   5:20:03
+  643 Fritschy Marika        1950 Vessy                  5:36:54
+  644 Frochaux Axelle        1998 Sion                   6:44:02
+  645 Frochaux Cedric        1992 Sion                   5:04:19
+  646 Frochaux Michael       1986 Sion                   7:40:45
+  647 Fromaget Denis         1986 Villarlod              4:48:05
+  648 Fromaget Valérie       1972 Bernex                 7:18:08
+  649 Frossard Valérie       1989 Sierre                 5:39:37
+  650 Fumeaux Charles-Albert 1965 Conthey                5:08:44
+  651 Fumeaux David          1972 Saxon                  6:37:54
+  652 Fumeaux Zahra          1969 Saxon                  6:37:56
+  653 Funcasta Eric          1962 Renens VD              4:01:43
+  654 Gabbud Gentiane        1982 Ravoire                6:38:46
+  655 Gabioud Emmanuelle     1980 Orsières               5:26:06
+  656 Gabler Patric          1984 Cully                  6:12:03
+  657 Gachnang Véronique     1963 Vétroz                 7:15:47
+  658 Gachoud Anne-Chantal   1962 Domdidier              6:30:01
+  659 Gachoud Frédéric       1966 Pont (Veveyse)         3:59:17
+  660 Gafner Marika          1980 Les Hauts-Geneveys     5:39:41
+  661 Gafner Schoeni Géraldi 1979 Chaumont               5:38:14
+  662 Gagné-Pache Josée      1966 Belmont-sur-Lausanne   4:00:42
+  663 Gailland Claude Alain  1973 Dorénaz                4:15:31
+  664 Gailland Yves          1974 St-Aubin FR            4:48:29
+  665 Gaillard Christine     1955 Aproz (Nendaz)         7:35:59
+  666 Gaillard Jean-Louis    1959 Riddes                 4:28:28
+  667 Gaillard Jean-Pierre   1967 Chêne-Bourg            7:20:34
+  668 Gaillard Sandrine      1987 Fully                  6:33:22
+  669 Gaillard Serge         1955 Bolligen               5:03:37
+  670 Gaillard Swarna        1984 Aproz (Nendaz)         6:31:37
+  671 Gaillet Fontannaz Anne 1956 Chéserex               7:26:41
+  672 Gallagher Helen        1958 Lutry                  6:04:02
+  673 Gallavardin Marc       1944 F-Montmerle sur Saon   7:40:19
+  674 Galletti Françoise     1960 F-Cruseilles           5:12:36
+  675 Galley Raphael         1969 Ecuvillens             4:49:32
+  676 Gallizioli Myriam      1966 Sullens                5:34:02
+  677 Ganguin Daniel         1900 Plan-les-Ouates        5:08:25
+  678 Ganon Jean-Michel      1966 Sierre                 5:09:45
+  679 Ganz Christophe        1959 Cologny                4:36:54
+  680 Gard Daniel            1984 Martigny               4:04:39
+  681 Gard Sébastien         1982 Sion                   4:36:35
+  682 Gardner Chantal        1961 Coppet                 6:49:21
+  683 Garin Stéphane         1982 Semsales               4:02:48
+  684 Garoflid Nicolas       1957 Epalinges              5:24:14
+  685 Gaspoz Cédric          1982 Arvillard (Salins)     5:19:41
+  686 Gaspoz Denis           1968 Les Avanchets          4:57:12
+  687 Gaspoz Nicole          1967 Les Avanchets          7:27:01
+  688 Gasser Didier          1992 Lens                   6:16:29
+  689 Gasser Sophie          1976 Vernier                5:29:31
+  690 Gassmann Sébastien     1979 Jussy                  4:18:00
+  691 Gattlen Djazira        1963 Vernier                6:50:46
+  692 Gattoni Stéphane       1976 Neuchâtel              4:05:54
+  693 Gäumann Anouk          1970 St-Prex                4:41:22
+  694 Gauthey Jean-Daniel    1951 Arnex-sur-Orbe         6:29:15
+  695 Gautier Zufferey Steph 1977 St-Jean VS             4:42:46
+  696 Gavillet Didier        1958 Brugg AG               5:20:33
+  697 Gavillet Jean-Pierre   1946 Echallens              7:24:37
+  698 Gavillet Nicolas       1983 Valeyres-sous-Ursins   4:58:29
+  699 Gay-Crosier Alain      1956 Martigny               5:38:16
+  700 Gay Laurent            1978 Fully                  4:30:32
+  701 Gaze-Stauffacher Evely 1974 Dombresson             4:00:42
+  702 Geerts Gitta           1971 Leuk Stadt             5:43:07
+  703 Geier Markus           1961 Plan-les-Ouates        5:36:19
+  704 Geissler Olivier       1971 Nyon                   3:53:23
+  705 Gendre Grégoire        1984 Léchelles              5:07:03
+  706 Gendre Yvan            1981 Neyruz FR              4:28:36
+  707 Geneux Jean-Luc        1954 Lausanne               5:51:09
+  708 Genoud Alexandre       1969 Les Paccots            4:30:59
+  709 Genoud Anne-Cathrine   1970 Esmonts                5:51:07
+  710 Genoud Christine       1976 Riaz                   5:45:10
+  711 Genoud Emmanuel        1961 Bernex                 7:11:21
+  712 Genoud Florent         1981 Romont FR              5:19:28
+  713 Genoud Laure           1986 Morges                 5:36:46
+  714 Genoud Maurice         1983 Savièse                3:55:29
+  715 Genoud Méryl           1988 Zinal                  4:17:59
+  716 Genoud Patrick         1968 St-Maurice             6:22:19
+  717 Genoud Tarcise         1957 Grimentz               4:59:45
+  718 Genoud Valentin        1992 Miège                  5:26:16
+  719 Gerard Marie-Rose      1966 F-St Cergues           5:58:52
+  720 Gerber Anthamatten Nat 1969 Villars-sur-Glâne      6:50:12
+  721 Gerber Eric            1965 Develier               5:48:41
+  722 Gerber Yolande         1966 Develier               5:48:41
+  723 Gerdil Pierre-Dominiqu 1964 Veyrier                6:36:18
+  724 Germanier Christophe   1959 Sullens                5:05:00
+  725 Germanier Corinne      1965 Granges VS             7:17:34
+  726 Germanier Elisabeth    1947 Lutry                  6:08:06
+  727 Germanier Philippe     1967 Ecublens VD            5:23:28
+  728 Germanier Stephane     1979 Granges VS             5:40:39
+  729 Germanier Vincent      1985 Vétroz                 6:36:18
+  730 Germanier Wolfgang     1961 E-Madrid               6:07:42
+  731 Germiquet Christophe   1966 Prêles                 3:56:27
+  732 Gerosa Cendrine        1981 Ecublens VD            5:53:55
+  733 Gevisier Danielle      1952 Fleurier               7:20:47
+  734 Giachino Primo         1951 Sierre                 5:09:44
+  735 Giannuzzo Laurette     1972 Troinex                6:03:40
+  736 Gillabert Nicole       1975 La Croix-de-Rozon      5:48:47
+  737 Gillard Daniel         1963 Lussy FR               3:53:40
+  738 Gilliéron Romain       1983 Puidoux                4:50:11
+  739 Gillioz Florian        1974 St-Léonard             4:48:17
+  740 Gindrat Michel         1959 Neuchâtel              5:02:30
+  741 Girard Yvan            1967 Bulle                  4:10:59
+  742 Girardin Christophe    1973 Auboranges             5:06:02
+  743 Girardin Dominique     1958 Porrentruy             7:12:28
+  744 Girardin Laurent       1968 Moutier                4:00:58
+  745 Giroud Pascal          1973 Martigny-Croix         6:31:37
+  746 Giroud Roland          1943 Renens VD              8:56:47
+  747 Glannaz Christian      1968 La Tour-de-Trême       4:27:21
+  748 Glanzmann Thierry      1980 Bern                   5:01:50
+  749 Glassey Alexandra      1971 Sion                   6:40:24
+  750 Glassey Frédéric       1959 Haute-Nendaz           4:57:38
+  751 Glassey Marie          1974 Sierre                 5:20:47
+  752 Glayre Philippe        1950 Arnex-sur-Orbe         5:47:47
+  753 Gobet Didier           1963 Posat                  4:59:21
+  754 Goeminne Bruno         1971 B-Hoeilaart            6:34:29
+  755 Goel Jacques           1962 Carrouge VD            4:56:37
+  756 Gomes Amilcar          1976 Genève                 5:03:19
+  757 Gosteli Asaël          1983 Travers                5:35:42
+  758 Gosteli Philippe       1968 Genève                 6:49:00
+  759 Gosteli Saraïe         1991 La Brévine             5:35:40
+  760 Gouin Sandra           1976 Founex                 6:42:37
+  761 Goumaz Guillemette     1971 Ollon VD               5:13:19
+  762 Goumaz Maxime          1993 Ollon VD               5:01:22
+  763 Goy Alexandre          1979 Cuarny                 4:08:46
+  764 Graber Patrick         1969 Yverdon                6:55:57
+  765 Grand Alexandre        1969 Zinal                  5:58:14
+  766 Grand Daniela          1961 Cressier NE            6:58:57
+  767 Grand Didier           1969 Meyrin                 4:39:20
+  768 Grandchamp Didier      1952 Granges-Marnand        5:55:44
+  769 Grandchamp Sylvette    1975 Penthalaz              5:58:12
+  770 Grandjean Hervé        1983 Villars-le-Terroir     4:33:51
+  771 Grandjean Olivier      1972 Châtel-St-Denis        6:13:30
+  772 Grandjean Yves         1963 Riaz                   5:02:23
+  773 Grandvoinnet Loic      1980 F-Le Chauffaud         4:19:06
+  774 Grange Carmen          1962 Fully                  7:37:08
+  775 Grange Jean-Claude     1960 Fully                  6:11:11
+  776 Granger Thomas         1989 Sion                   4:54:01
+  777 Grangier Anne-Claude   1974 Bulle                  6:14:36
+  778 Grangier Marisa        1977 Le Pâquier-Montbarry   6:01:32
+  779 Grégoire Charléne      1987 B-Flawinne             6:48:32
+  780 Gremaud Stéphane       1968 La Roche FR            5:13:57
+  781 Gribi Jouët Patricia   1974 Bernex                 5:36:11
+  782 Grindu Louis           1947 Moutier                6:01:50
+  783 Grivel Gisèle          1942 Cortaillod             8:16:50
+  784 Grobety Annick         1955 Châbles FR             6:23:22
+  785 Grolimund Sylvain      1978 Le Grand-Saconnex      5:12:52
+  786 Grolimund Vincent      1980 Grand-Saconnex         5:17:46
+  787 Grond Didier           1966 Genève                 4:48:12
+  788 Grossrieder Fabrice    1987 Villarsel-le-Gibloux   4:48:05
+  789 Grossrieder Xavier     1991 Matran                 5:58:05
+  790 Gruaz Francis          1943 Le Lignon              6:31:10
+  791 Gualerzi Gianluca      1967 Yverdon-les-Bains      3:54:25
+  792 Guarnieri Daniel       1956 Petit-Lancy            6:32:41
+  793 Gubinelli Maude        1981 Cheseaux-sur-Lausann   5:55:16
+  794 Guichard Veronique     1950 Genève                 7:29:11
+  795 Guidetti Hervé         1973 Lausanne               5:27:11
+  796 Guinand Hervé          1968 Genthod                4:03:06
+  797 Guiot Xavier           1973 F-Cernay               5:57:25
+  798 Guerdat Emilie         1983 Courtemaîche           8:56:33
+  799 Guerry Christian       1976 Biel/Bienne            5:44:24
+  800 Guex Antoine           1986 Le Châble VS           4:34:37
+  801 Guex Jennifer          1986 Courchapoix            8:05:41
+  802 Guex Patrick           1962 Allaman                6:43:04
+  803 Haeberli Andre         1943 Moutier                5:28:09
+  804 Hagmann Serge          1968 Moutier                5:40:30
+  805 Hagon Bernard          1948 B-Seneffe              5:19:37
+  806 Haidinger Rolf         1963 Vessy                  4:37:07
+  807 Haldemann Marcel       1992 Sion                   4:21:36
+  808 Haenggeli Florian      1973 Etoy                   4:37:50
+  809 Hanhardt Frédéric      1979 Lausanne               5:29:27
+  810 Hanhart Pierre         1947 Prangins               4:54:46
+  811 Hanhart Roseline       1962 Prangins               5:18:59
+  812 Hänni Mathieu          1984 Bursins                4:18:10
+  813 Haering Anne           1964 Sullens                6:46:03
+  814 Harun Yasmin           1977 GB-Birmingham          8:11:28
+  815 Hausheer Nicolas       1978 Yverdon                5:04:23
+  816 Hausser Joelle         1974 Bassins                4:42:12
+  817 Hayoz Catherine        1972 Bulle                  6:13:31
+  818 Hedayat Tahir          1979 Lausanne               4:58:12
+  819 Hennequin Dominique    1963 F-Chaumont             5:10:38
+  820 Henrotin Louis         1974 Albeuve                4:57:25
+  821 Héritier Germaine      1960 Savièse                8:28:31
+  822 Heritier Guy           1962 Savièse                5:47:47
+  823 Héritier Jean-Bernard  1962 Savièse                6:07:09
+  824 Heritier Mathieu       1984 Oron-la-Ville          4:11:37
+  825 Héritier Sébastien     1980 Savièse                4:45:21
+  826 Hermoso Jimenez Manolo 1958 E-Balaguer             7:48:05
+  827 Herren Robert          1947 Yvorne                 5:54:32
+  828 Herrington Will        1968 Grimentz               4:18:59
+  829 Herth Sebastien        1987 Martigny               4:26:13
+  830 Hertzeisen David       1982 Pampigny               4:30:01
+  831 Hetényi György         1980 Zürich                 5:56:41
+  832 Hirsig Véronique       1961 La Chaux-de-Fonds      5:32:40
+  833 Hirt Denise            1965 Villars-sur-Glâne      5:11:13
+  834 Hirt Laurent           1971 Lausanne               5:04:57
+  835 Hischier Véronique     1966 Fully                  6:03:00
+  836 Hitter David           1971 Vercorin               3:55:38
+  837 Hockenjos Christian    1962 Palézieux-Village      4:41:37
+  838 Hofmann Laurent        1966 Echallens              5:12:58
+  839 Hohenstein Helgo       1970 RSA-Gordons Bay        5:51:04
+  840 Hohl David             1969 Villars-Bozon          5:17:43
+  841 Horner André           1943 Genève                 6:12:19
+  842 Hostettler Denise      1965 L'Isle                 5:13:03
+  843 Hostetttler Jürg       1966 L'Isle                 6:04:04
+  844 Houmard Jacques        1951 Vuiteboeuf             5:26:35
+  845 Houriet Eric           1952 Fey                    5:56:01
+  846 Hozack-Vrachliotis Hea 1983 Vevey                  4:42:29
+  847 Hubert Anne-Marie      1978 Chippis                5:58:51
+  848 Hugon Alexandra        1988 Corin-de-la-Crête      4:30:31
+  849 Hugon Virginie         1980 Martigny-Croix         5:26:49
+  850 Hugonnet Blaise        1959 Marsens                4:42:13
+  851 Humbert Michel         1944 Stäfa                  5:15:28
+  852 Hunecke Félicia        1963 Carouge GE             7:15:58
+  853 Hunziker Pierre        1950 Villars-sous-Yens      5:05:40
+  854 Husky Jim              1947 France                 7:17:49
+  855 Hyland Dane            1991 GB-Lytham St Annes     5:55:22
+  856 Hyland David           1960 GB-Lytham St Annes     6:56:40
+  857 Hyland Leanne          1987 GB-Lytham St Annes     5:55:22
+  858 Imgrüt Markus          1972 Mettmenstetten         4:51:40
+  859 Imobersteg Daniel      1955 Lens                   7:19:16
+  860 Ingold François        1977 Fribourg               6:00:31
+  861 Ischer Philippe        1972 Boudry                 4:25:18
+  862 Isenegger Beat         1966 Zürich                 4:15:19
+  863 Isler Cindy            1990 La Chaux-de-Fonds      2:37:21
+  864 Isler Patrice          1967 La Cibourg             3:35:28
+  865 Iunker Janine          1965 Lavey-Village          6:00:20
+  866 Jaccaud Manuela        1962 Prangins               5:33:05
+  867 Jaccoud Anne-Lise      1955 Morges                 6:08:29
+  868 Jacot-Descombes Sebast 1978 Neuchâtel              4:56:52
+  869 Jacot Emilie           1992 Lausanne               5:56:43
+  870 Jacquier Laurent       1982 Chandolin-près-Saviè   4:15:06
+  871 Jamet Michelle         1963 Neuchâtel              5:44:46
+  872 Janssens Bernard       1949 B-Saint-Symphorien     6:55:50
+  873 Jaquier Patricia       1957 Grattavache            6:37:54
+  874 Jaques Lovera Corinne  1960 Bernex                 5:07:38
+  875 Jaques Martine         1970 Sarreyer               5:04:28
+  876 Jaquet Bernard         1980 Romont FR              5:39:36
+  877 Jaquet Claire-Lyse     1985 Estavannens            6:05:37
+  878 Jaquet Fabienne        1960 Bulle                  6:12:39
+  879 Jaquet Philippe        1960 Sensine                5:23:20
+  880 Jaquet Sébastien       1970 Adliswil               6:41:07
+  881 Jaton Alain            1956 Poliez-le-Grand        5:31:36
+  882 Jaussi Marion          1986 Neuchâtel              5:23:06
+  883 Jean Patrick           1983 Sion                   4:11:58
+  884 Jean-Richard Maryline  1966 Fontaines NE           4:50:11
+  885 Jeanbourquin Fabien    1960 Carouge GE             4:13:28
+  886 Jeanbourquin Rosemarie 1966 Carouge GE             5:48:30
+  887 Jeangros Bernard       1956 Prangins               5:33:21
+  888 Jeangros Isabelle      1959 Prangins               5:33:21
+  889 Jeanjaquet Alexandre   1973 Cernier                5:35:19
+  890 Jeanjean Hélene        1969 Pully                  5:23:40
+  891 Jeanneret Isabelle     1967 Yverdon-les-Bains      5:20:09
+  892 Jeanrenaud Bastien     1990 Dardagny               5:02:13
+  893 Jeanrenaud Yves        1962 Dardagny               5:02:14
+  894 Jeanrichard Eveline    1981 Zinal                  4:32:23
+  895 Jobin Denis            1955 Mervelier              6:13:13
+  896 Jodry Axel             1975 Genève                 3:58:17
+  897 Jolliet Fabienne       1978 Confignon              6:53:48
+  898 Jolliet Frédéric       1981 Domdidier              4:31:44
+  899 Jolliet Jean-Claude    1942 Petit-Lancy            6:29:18
+  900 Joly Anael             1987 Conthey                5:13:13
+  901 Joly Cyril             1984 Rolle                  5:37:05
+  902 Joly Fabienne          1961 Saignelégier           5:50:44
+  903 Joly Ronnie            1978 Perroy                 5:02:36
+  904 Jones Peter            1971 Morlon                 5:16:42
+  905 Jonker Hugo            1952 NL-Den Haag            3:58:10
+  906 Jorand Nicolas         1966 Montbrelloz            5:23:45
+  907 Jordan Guillaume       1986 Saxon                  5:04:07
+  908 Jordan Nicolas         1979 Savièse                4:30:08
+  909 Joss Bernard           1976 Vuissens               5:56:56
+  910 Joye Christophe        1968 Genève                 5:36:39
+  911 Joye Cyrille           1979 Genève                 7:32:48
+  912 Juillerat Sylvia       1968 Mervelier              5:41:30
+  913 Juillet Françoise      1958 Gilly                 10:01:44
+  914 Jungo Henri            1952 Granges-Marnand        5:08:58
+  915 Jupp Alex              1978 GB-East Dulwich        4:56:04
+  916 Jupp Harry             1946 Vessy                  6:47:30
+  917 Jutzet Monique         1952 Fribourg               6:41:39
+  918 Kaech Nuno             1997 Biel/Bienne            5:44:20
+  919 Kalbermatten Brigitte  1960 Vufflens-la-Ville      5:55:14
+  920 Kalbermatten Christoph 1971 Bonstetten             4:15:46
+  921 Kalbermatten Michel    1959 Vufflens-la-Ville      5:56:18
+  922 Karlen Jean-Côme       1968 Sion                   6:05:11
+  923 Karlen Judith          1966 Marin-Epagnier         6:25:27
+  924 Karlen Stephane        1963 Marin-Epagnier         6:06:11
+  925 Katz Pauline           1990 Echandens-Denges       5:25:03
+  926 Kaufmann Dominique     1992 Pleigne                5:12:33
+  927 Kaufmann Fabien        1987 Courtételle            5:12:35
+  928 Keller-Aubert Chantal  1972 Le Brassus             5:34:53
+  929 Keller Brian           1980 Montana                4:24:04
+  930 Keller Mathias         1979 Lausanne               5:26:51
+  931 Kerhuel Gilles         1960 Nyon                   5:27:22
+  932 Kessi Chloe            1984 Vevey                  5:15:19
+  933 Keusch Renate          1958 Zug                    6:24:42
+  934 Klahre Joachim         1961 Neuchâtel              3:56:46
+  935 Klinger Sandra         1970 Glovelier              5:38:09
+  936 Klompe Marjolein       1972 NL-Bussum              6:42:55
+  937 Kluck Dorine           1959 NL-Bussum              9:37:55
+  938 Kluck Jan              1957 NL-Bussum              9:37:55
+  939 Knuchel Jean-Marc      1958 Tavannes               6:09:01
+  940 Knupfer Pierre-André   1962 Savièse                5:47:47
+  941 Knupfer Régine         1961 Savièse                7:44:27
+  942 Knupfer Rita           1960 Chandolin-près-Saviè   7:44:27
+  943 Knutti Henri           1961 La Chaux-de-Fonds      4:44:57
+  944 Kohler Albert-Florian  1978 Satigny                6:15:17
+  945 Köhler Dietrich        1940 F-Crozet               8:18:09
+  946 Köhler Sabrina         1990 F-Crozet               8:20:23
+  947 Kolly Baptiste         1993 Hauteville             6:36:33
+  948 Kolly Edmond           1957 Ependes FR             4:16:01
+  949 Kolly Frederic         1979 Le Mouret              4:44:43
+  950 Kolly Gérald           1982 Ursy                   3:49:26
+  951 Kolly Jean-Baptiste    1964 Marly                  4:40:54
+  952 Kolly Lucien           1986 Hauteville             4:00:34
+  953 Kolly Yves             1962 Châtillon FR           5:20:21
+  954 Kooijmans Jenny        1969 NL-Bussum              6:40:52
+  955 Kopp Lionel            1978 St-Aubin-Sauges        4:17:51
+  956 Kost Stephane          1965 Bretigny-sur-Morrens   5:35:31
+  957 Kost Valerie           1968 Bretigny-sur-Morrens   6:10:25
+  958 Krattinger Francois    1973 Avenches               5:39:47
+  959 Kroug Dominique        1951 Troinex                5:41:36
+  960 Kubler Jean-François   1970 Onex                   4:33:44
+  961 Kubli Therese          1973 B-Auderghem            5:54:42
+  962 Küenzi Sylvie          1986 Arbaz                  7:24:21
+  963 Kuehn Detlef           1959 D-Kupferzell           5:27:32
+  964 Kulmer Nicolas         1985 Ravoire                6:38:46
+  965 Kunz Thierry           1971 Vercorin               5:49:31
+  966 Kurt Julien            1976 Bernex                 3:49:50
+  967 La Marra Yvette        1967 Sierre                 6:21:08
+  968 La Spina Francesco     1969 Worben                 5:50:00
+  969 Lages Alexandra        1983 Sierre                 6:46:10
+  970 Laghnimi Judith        1964 La Tour-de-Peilz       5:24:39
+  971 Lambert Lina           1961 Fétigny                5:40:47
+  972 Lambert Mathieu        1971 Miège                  3:59:31
+  973 Lambiel Sarah          1986 Grimisuat              4:21:49
+  974 Lamey Carine           1972 Villargiroud           5:41:21
+  975 Lämmler Samuel         1990 Payerne                4:11:18
+  976 Lämmler Simon          1991 Payerne                4:31:42
+  977 Lamon Claude-Gérard    1957 Corin-de-la-Crête      5:46:10
+  978 Lamon Frédéric         1990 Corin-de-la-Crête      4:16:43
+  979 Lamon Nathalie         1978 Lens                   6:41:36
+  980 Lamon Pascal           1970 Lens                   5:45:44
+  981 Lamon Patrick          1971 Lens                   4:55:14
+  982 Lamon Sandrine         1985 Sion                   6:12:47
+  983 Lamon Severine         1982 Sion                   4:50:35
+  984 Lamon Vincent          1984 Sion                   4:54:01
+  985 Lamprecht Olaf         1970 D-Weil am Rhein        5:36:04
+  986 Landis Jean-Daniel     1972 Ecublens VD            5:22:17
+  987 Lang Doris             1968 Bremgarten AG          6:06:24
+  988 Lapire Romain-Steven   1983 Crans-Montana          5:08:52
+  989 Lara Rodrigo           1976 Lutry                  6:15:05
+  990 Lassauce Charles       1968 Vessy                  3:56:28
+  991 Lathion Murielle       1976 Sierre                 6:41:55
+  992 Latour Charpié Anne-So 1976 Morges                 6:12:08
+  993 Latour Josiane         1949 Coppet                 6:12:06
+  994 Lattion Pierre-Alain   1968 Orsières               4:09:40
+  995 Lauber Abena Lilian    1976 Versoix                5:50:49
+  996 Lauber David           1979 Versoix                5:50:48
+  997 Laugier Emmanuel       1969 F-Paris                4:43:54
+  998 Laurent Christophe     1968 Laconnex               8:33:38
+  999 Lavoue Sébastien       1980 F-Riedisheim           6:05:41
+ 1000 Le Carré Carine        1972 Lens                   5:36:40
+ 1001 Le Coq Christine       1968 Montana                5:00:07
+ 1002 Le Gall Eric           1976 Carouge GE             4:15:04
+ 1003 Leal Christiane        1966 Nyon                   5:58:29
+ 1004 Leal Sandra            1971 F-Gaillard             5:44:53
+ 1005 Lebacq Isabel          1971 Chermignon             4:56:55
+ 1006 Lechot Jean Philippe   1986 F-Thonon les Bains     5:46:19
+ 1007 Leduc Christophe       1961 Cottens FR             8:29:18
+ 1008 Légaré Gilles          1963 Montana                7:01:11
+ 1009 Legrand Jacques        1949 F-Gorges               4:49:30
+ 1010 Lehn Isabelle          1966 Epalinges              6:47:42
+ 1011 Lepri Monika           1954 Ulisbach               6:00:22
+ 1012 Leresche Anne          1969 Genève                 5:05:21
+ 1013 Leresche Coralie       1977 Genève                 5:18:56
+ 1014 Leresche-Vuille Claire 1972 Onex                   5:26:03
+ 1015 Lerjen Niels           1981 Le Châble VS           5:21:02
+ 1016 Leseur Dominique       1954 F-Chamarandes          4:34:02
+ 1017 Leu Stéphanie          1981 Bulle                  5:30:45
+ 1018 Leuenberger Bertrand   1983 Corbières              4:25:46
+ 1019 Leuthold Olivier       1963 Le Mont-sur-Lausanne   6:10:23
+ 1020 Leveque Agathe         1982 Chandolin-près-Saviè   7:34:04
+ 1021 Leyvraz Mélanie        1982 St-Légier              8:24:51
+ 1022 Leyvraz Michel         1956 Blonay                 6:12:23
+ 1023 Liardet Jean-Luc       1967 Belmont-sur-Lausanne   5:41:22
+ 1024 Liaudat Michel         1966 Châtel-St-Denis        7:00:42
+ 1025 Lienard Vincent        1968 B-Bruxellesl           6:05:38
+ 1026 Linder Marie           1979 Conthey                5:27:04
+ 1027 Liver Jack Boris       1968 Ascona                 5:45:09
+ 1028 Locher Michel          1987 Salgesch               5:52:42
+ 1029 Lonfat Raphael         1974 Orsières               4:51:18
+ 1030 Long Gregory           1970 Neuchâtel              7:11:28
+ 1031 Looijen Gerard         1964 Pays-Bas               5:47:56
+ 1032 Looijen Ine            1967 Pays-Bas               5:47:52
+ 1033 Lopez Christophe       1981 Lausanne               5:26:49
+ 1034 Lorent Vincent         1970 B-Beez                 5:47:43
+ 1035 Lorenz Christophe      1965 Montet (Glâne)         3:45:50
+ 1036 Lotscher Ferdinant     1966 Susten                 5:06:39
+ 1037 Lötscher Herbert       1963 Turtmann               5:23:43
+ 1038 Loetscher Jerome       1988 Court                  3:45:02
+ 1039 Loutfian Sandy         1979 Genève                 6:44:08
+ 1040 Loutre Bruno           1985 B-Schaerbeek           4:43:50
+ 1041 Loye Dominique         1963 Gland                  4:29:04
+ 1042 Loye Michele           1986 Basse-Nendaz           2:22:32
+ 1043 Luisier Antoine        1977 Genève                 4:23:16
+ 1044 Luisier Veronique      1981 Leytron                5:51:12
+ 1045 Lütenegger Martin      1969 Cheyres                6:08:58
+ 1046 Luyet Charles-Albert   1981 Ollon VS               5:45:27
+ 1047 Luyet Sylvia           1961 Savièse                6:53:10
+ 1048 Mabillard Michel       1964 St-Légier-La Chiésaz   6:08:16
+ 1049 Mabillard Romain       1987 Sion                   5:03:10
+ 1050 Mach Nicolas           1962 Collonge-Bellerive     4:09:13
+ 1051 Macheret André         1970 Le Bry                 4:58:51
+ 1052 Maertens Toon          1945 B-Waasmunster          6:35:46
+ 1053 Magnin Cédric          1972 Villargiroud           4:14:41
+ 1054 Magnin Nicolas         1965 Plan-les-Ouates        5:33:46
+ 1055 Maître Emilien         1985 Porrentruy             8:56:33
+ 1056 Maître Thierry         1963 Saignelégier           5:50:53
+ 1057 Maldonado Dario        1959 St-Maurice             6:12:38
+ 1058 Malis Didier-David     1965 Veyrier                7:10:20
+ 1059 Malis Julien           2002 Veyrier                7:10:22
+ 1060 Maendly Céline         1977 Genève                 6:42:38
+ 1061 Mannino Isabelle       1966 Bernex                 6:06:36
+ 1062 Mans Patrick           1962 F-Chaumont             5:18:21
+ 1063 Maradan Jean-Daniel    1957 Enney                  4:19:21
+ 1064 Maradan Mikael         1983 Givisiez               6:43:56
+ 1065 Marchand Alain         1963 F-Mieussy              7:34:04
+ 1066 Mardon Julien          1982 Romont FR              4:29:54
+ 1067 Maréchal David         1973 F-Thonon les Bains     5:38:39
+ 1068 Maret Damien           1982 Villette (Le Châble    4:18:49
+ 1069 Maret Gérald           1968 Lourtier               3:59:38
+ 1070 Maret Vital            1981 Lourtier               4:45:53
+ 1071 Margairaz Laurent      1978 Payerne                4:43:29
+ 1072 Margot Gilles          1973 Giez                   5:35:49
+ 1073 Margot Joelle          1972 Chapelle (Glâne)       5:01:56
+ 1074 Marguet Virginie       1978 Echallens              5:39:19
+ 1075 Mariethoz Laura        1984 Haute-Nendaz           4:33:55
+ 1076 Marillier Olivier      1976 Neuchâtel              4:38:20
+ 1077 Marini Florian         1977 Genève                 4:28:38
+ 1078 Marique Gaetan         1983 B-Givry                4:41:49
+ 1079 Marique Yannick        1984 B-Tarcienne            5:14:40
+ 1080 Marmier Stéphane       1975 Villars-le-Grand       4:38:52
+ 1081 Marquet Anna           1965 Vernier                5:57:36
+ 1082 Marthaler Catherine    1966 La Chaux-de-Fonds      4:39:26
+ 1083 Marti Christophe       1969 Carouge GE             4:46:07
+ 1084 Martin Claude          1964 Meyrin                 6:20:03
+ 1085 Martin Yannick         1974 Vufflens-la-Ville      3:43:56
+ 1086 Martinelli Jean-Marc   1967 Sierre                 5:14:06
+ 1087 Martins Emanuel        1977 L-Kayl                 6:52:08
+ 1088 Marx Michelle          1971 Perly                  6:03:42
+ 1089 Marzinotto Nathalie    1977 Châtel-St-Denis        4:20:41
+ 1090 Maschio Reynald        1965 Vex                    7:26:21
+ 1091 Masserey Cathy         1963 Venthône               7:25:24
+ 1092 Masserey Vincent       1998 Collombey              5:54:22
+ 1093 Masson Gilles          1964 F-Paris                8:45:03
+ 1094 Massy Raphael          1991 Sierre                 5:32:48
+ 1095 Mataheroe Robert       1970 Prangins               5:58:30
+ 1096 Mathier Sandro         1992 Salgesch               5:35:08
+ 1097 Mathys Laetitia        1985 Avry-sur-Matran        4:38:01
+ 1098 Matt Francis           1947 REU-Sainte Clotilde    6:48:49
+ 1099 Matter Hans Jürg       1950 Vevey                  7:04:31
+ 1100 Matter Leonard         1983 Luzern                 4:12:29
+ 1101 Matthey Jean-Yves      1968 Biel/Bienne            5:25:26
+ 1102 Mauroux Christel       1979 Ursy                   6:26:34
+ 1103 Maye Rachid            1983 Genève                 6:14:16
+ 1104 Mayer Doug             1964 USA-Randolph           4:28:37
+ 1105 Mayoraz Thomas         1990 Mollens VS             4:45:31
+ 1106 Maystre Nicolas        1979 Genève                 3:56:01
+ 1107 Mazzucco Rachel        1970 Les Plans-sur-Bex      5:32:35
+ 1108 Meda De Mestral Nicole 1968 Etoy                   5:40:44
+ 1109 Meier Francine         1972 Soral                  5:40:24
+ 1110 Meige Timothée         1987 Combremont-le-Grand    4:17:09
+ 1111 Meixenberger Jérôme    1986 Nods                   4:13:39
+ 1112 Melamies Vesa-Robert   1943 F-Thonon les Bains     5:58:06
+ 1113 Melchior Bernard       1950 B-Saint-Marc           6:25:52
+ 1114 Melly Mathias          1982 Ayer                   4:42:03
+ 1115 Menard Antoine         1972 Grimentz               3:52:20
+ 1116 Meneau Fabienne        1959 Delémont               5:37:04
+ 1117 Menetrey Gilles        1969 Satigny                3:56:38
+ 1118 Menoud Dominique       1969 La Joux FR             5:10:19
+ 1119 Menthonnex Antoine     1964 Vuiteboeuf             4:00:32
+ 1120 Menting Yoell Anna Car 1954 F-Thoiry               6:40:17
+ 1121 Mercadal François      1972 Sierre                 6:00:47
+ 1122 Mercay Pierre          1968 Yverdon                5:41:47
+ 1123 Meredith Tanya         1982 Vernier                6:06:08
+ 1124 Mergy Francoise        1954 Courgenay              4:25:34
+ 1125 Merle Patricia         1971 Oulens-sur-Lucens      5:58:14
+ 1126 Mermoud Jean-Claude    1952 Lausanne               5:37:01
+ 1127 Meshreky Andreia       1981 Genève                 5:17:46
+ 1128 Messerli Isabelle      1966 La Tour-de-Trême       6:21:07
+ 1129 Métrailler Cédric      1982 Sierre                 5:37:19
+ 1130 Metrailler Denis       1990 St-Léonard             4:16:46
+ 1131 Metrailler Henri-Jules 1960 Evolène                2:00:15
+ 1132 Metraux Claude         1948 Würenlingen            7:25:49
+ 1133 Mettraux Freddy        1989 Ardon                  5:19:17
+ 1134 Mettraux Xavier        1975 Noréaz                 4:58:29
+ 1135 Meyer Harry            1969 Meyrin                 5:17:40
+ 1136 Meyer Isabelle         1972 Sâles (Gruyère)        5:33:59
+ 1137 Meyer Lydia            1956 Prangins               6:49:14
+ 1138 Meyer Roland           1955 Prangins               6:59:57
+ 1139 Meyer Stephan          1967 Clarens                4:37:42
+ 1140 Meyer Stéphane         1968 Sâles (Gruyère)        5:36:54
+ 1141 Meynet Brigitte        1958 F-Gaillard             7:15:56
+ 1142 Mezzani Andréa         1976 I-Milano (MI)          6:26:40
+ 1143 Micelli Roberto        1980 Gland                  6:08:21
+ 1144 Michaux Serge          1965 B-Rebecq               3:51:42
+ 1145 Michel François        1978 Givisiez               4:03:00
+ 1146 Michel Jérémy          1983 Porrentruy             4:58:17
+ 1147 Michel Olivier         1987 Nax                    5:37:45
+ 1148 Michel Remy            1957 Neyruz FR              4:55:31
+ 1149 Michel Xavier          1983 Genève                 6:14:29
+ 1150 Michellod Benoit       1976 Chamoson               3:40:42
+ 1151 Michellod Sandrine     1987 Renens VD              6:00:53
+ 1152 Michoud Raoul          1973 Cossonay               4:30:07
+ 1153 Micoulet Gaël          1976 Morlon                 4:35:27
+ 1154 Micoulet Xavier        1979 F-Monteleger           7:30:08
+ 1155 Miglietti Yves         1963 F-Lucinges             4:48:47
+ 1156 Milan Frédéric         1957 Moutier                5:45:09
+ 1157 Mirabile Giovanni      1987 Gollion                4:27:44
+ 1158 Mischler Ghislaine     1959 Delémont               5:37:54
+ 1159 Miszczycha David       1970 Satigny                5:00:51
+ 1160 Mivelle Cédric         1970 Bevaix                 5:11:04
+ 1161 Moebel Jean-Jacques    1958 F-Oltingue             5:03:53
+ 1162 Moix Ludovic           1980 Sion                   6:54:28
+ 1163 Mollard Christophe     1973 Villars-sur-Glâne      4:51:33
+ 1164 Monard Nathan          1996 Lutry                  4:37:39
+ 1165 Moneta Jean-Pierre     1959 Chamoson               5:21:28
+ 1166 Monney Laurent         1968 Satigny                4:22:19
+ 1167 Monney Roland          1961 Ménières               4:53:10
+ 1168 Monney Sophie          1985 Dompierre FR           4:54:29
+ 1169 Monnin Simon           1978 Morges                 5:18:52
+ 1170 Montandon Jean-Blaise  1955 Marin-Epagnier         5:12:51
+ 1171 Montandon Joelle       1954 Marin-Epagnier         6:31:39
+ 1172 Montani Matthias       1972 Salgesch               4:40:55
+ 1173 Montavon Olivier       1966 Delémont               3:39:11
+ 1174 Mooser André           1965 Rossens FR             4:36:48
+ 1175 Morand Olivier         1980 Riaz                   4:35:03
+ 1176 Morand René            1956 Vuadens                4:21:04
+ 1177 Morard Didier          1987 Sierre                 6:14:07
+ 1178 Morard Roland          1963 Granges VS             4:29:16
+ 1179 Morard Sebastien       1980 Sierre                 4:31:32
+ 1180 Morel Catherine        1979 Genève                 5:05:52
+ 1181 Morel Thomas           1976 Begnins                5:05:21
+ 1182 Morelle Nicolas        1967 B-Overijse             5:00:17
+ 1183 Moreno Aita            1965 Bottens                5:05:09
+ 1184 Moret Eloi             1966 Ménières               5:44:27
+ 1185 Moretti Pierre         1981 La Chaux-de-Fonds      5:11:50
+ 1186 Morin Virginie         1965 Romanel-sur-Lausanne   7:15:53
+ 1187 Mory Etienne           1990 Villariaz              4:13:43
+ 1188 Mory Nicolas           1983 Châtel-St-Denis        4:35:18
+ 1189 Mosbaoui Farid         1975 La Chaux-de-Fonds      5:47:49
+ 1190 Moesching Cliff        1974 Athenaz (Avusy)        8:33:37
+ 1191 Moser François         1949 La Chaux-de-Fonds      5:45:57
+ 1192 Mosetti Michelle       1960 Froideville            4:17:38
+ 1193 Mosetti Nicolas        1966 Froideville            3:59:18
+ 1194 Mosser Patricia        1965 Savièse                6:21:09
+ 1195 Mouchart Didier        1961 F-Montlebon            8:10:34
+ 1196 Mougneau Philippe      1974 Les Monts-de-Corsier   6:13:31
+ 1197 Moulin Christophe      1958 Martigny               5:02:18
+ 1198 Moulin David           1979 Grimentz               5:17:51
+ 1199 Moulin Julien          1975 Vollèges               4:46:26
+ 1200 Mounir Gregor          1987 Salgesch               5:35:10
+ 1201 Mouthe Fabrice         1968 Ollon VS               5:37:02
+ 1202 Mulder Marck           1962 NL-Bussum              5:58:50
+ 1203 Muller Anne-Marie      1946 Granges-de-Vesin       5:47:10
+ 1204 Müller Buro Sandra     1966 Langnau am Albis       5:24:50
+ 1205 Muller Caroline        1978 Mauraz                 3:59:32
+ 1206 Müller Daniel          1970 Salins                 4:59:10
+ 1207 Müller Urs             1975 Zeglingen              5:39:14
+ 1208 Muller Véronique       1969 Ursy                   5:56:22
+ 1209 Müller Walter          1955 Gipf-Oberfrick         5:20:49
+ 1210 Murbach Corinne        1976 Carouge GE             5:41:28
+ 1211 Murbach Sabine         1976 Veyrier                5:19:14
+ 1212 Muriset Lionel         1971 Mézières VD            4:45:05
+ 1213 Muriset Marlene        1974 Mézières VD            5:33:32
+ 1214 Murisier Léonard       1985 Ravoire                4:46:12
+ 1215 Murith Alexandra       1969 Bulle                  4:57:22
+ 1216 Muetzenberg Roland     1965 Ecublens VD            7:05:52
+ 1217 Muzeaux Yanis          1980 St-Martin FR           4:12:59
+ 1218 Naude Hannelie         1975 RSA-Strand             6:11:39
+ 1219 Naviaux Didier         1963 B-Beauraing            6:37:56
+ 1220 Naviaux Emmanuel       1972 B-Rochefort            8:24:42
+ 1221 Nellen Laurent         1971 Massongex              4:40:37
+ 1222 Nendaz Sebastien       1981 Fribourg               4:50:34
+ 1223 Nicod David            1970 F-Denney               4:30:05
+ 1224 Nicolet Genevieve      1956 Nyon                   5:37:28
+ 1225 Nicolet Romain         1991 Nyon                   4:26:06
+ 1226 Nicolin Stéphane       1961 Saint-Maurice          4:56:06
+ 1227 Nicolo Pascal          1949 Ardon                 10:49:29
+ 1228 Niederhauser Eric      1975 Savièse                4:08:50
+ 1229 Oberson Stéphane       1972 Rueyres-St-Laurent     4:27:26
+ 1230 Ocampo Miguel          1968 Penthalaz              5:12:06
+ 1231 Occhilupo Nicolas      1972 Genève                 5:01:34
+ 1232 Oggier Heinz           1954 Turtmann               6:25:58
+ 1233 Oppliger Anne-François 1970 Bossonnens             6:37:21
+ 1234 Osselaer Jimmy         1992 B-Dilbeek              7:12:23
+ 1235 Osselaer Robin         1997 B-Dilbeek              7:12:24
+ 1236 Osswald Hugues         1980 F-Strasbourg           5:12:04
+ 1237 Oyon Patrick           1960 Bottens                6:04:29
+ 1238 Pacchiodi Fabio        1967 Belmont-sur-Lausanne   7:05:51
+ 1239 Page Maya              1960 Commugny               5:01:31
+ 1240 Pahud Astrid           1979 Champex-Lac            5:56:36
+ 1241 Paillard Laurent       1955 Granges (Veveyse)      6:36:51
+ 1242 Papaux Michael         1984 Villarlod              4:48:05
+ 1243 Papaux Olivier         1965 Vandoeuvres            5:00:04
+ 1244 Papilloud Christiane   1963 Vétroz                 7:11:12
+ 1245 Paquier Alain          1959 Vex                    5:39:52
+ 1246 Parisod Andy           1991 Gryon                  4:37:56
+ 1247 Parisod Daniel         1970 Ecublens VD            4:51:33
+ 1248 Parisod Michel         1954 Gryon                  4:55:36
+ 1249 Parnigoni Claude       1957 Meyrin                 5:13:37
+ 1250 Pasche Eliane          1963 Confignon              5:07:39
+ 1251 Pasquier Cécile        1961 Marly                  5:19:20
+ 1252 Pasquier Jonas         1982 Genève                 4:06:12
+ 1253 Patricio Vitor         1964 Nyon                   5:30:31
+ 1254 Paul Alexandre         1971 Nyon                   3:17:32
+ 1255 Pellaton Silvie        1964 La Chaux-de-Fonds      5:01:57
+ 1256 Pellet Olivier         1970 Grand-Lancy            5:13:55
+ 1257 Pennekamp Saskia       1973 NL-BUSSUM              6:28:07
+ 1258 Penneveyre Nicolas     1973 Onex                   4:28:35
+ 1259 Perisset Sebastien     1978 Domdidier              4:31:45
+ 1260 Perren Jean-Luc        1964 Pully                  4:39:28
+ 1261 Perret Eric            1946 Yverdon-les-Bains      8:28:31
+ 1262 Perret Valerie         1965 Grand-Lancy            6:39:23
+ 1263 Perret Verena          1953 Yverdon-les-Bains      6:52:18
+ 1264 Perriard Emmanuel      1949 Genève                 9:03:27
+ 1265 Perriard Julien        1989 La Tour-de-Trême       5:41:24
+ 1266 Perrier Pierre         1948 F-Giron                5:38:01
+ 1267 Perrig David           1973 Lausanne               4:53:50
+ 1268 Perrin Laetitia        1966 Aire-la-Ville          5:10:06
+ 1269 Perritaz Joël          1968 Villarlod              4:35:54
+ 1270 Perroud Daniel         1972 Ursy                   4:32:24
+ 1271 Perroud Francoise      1975 Vevey                  5:10:02
+ 1272 Perroud Sébastien      1970 Attalens               2:29:44
+ 1273 Perruchoud Adrien      1982 Réchy                  5:55:42
+ 1274 Perruchoud Andre-Laure 1989 Réchy                  3:50:25
+ 1275 Perruchoud Delphine    1981 Réchy                  5:47:12
+ 1276 Perruchoud Edmond      1946 Réchy                  7:25:31
+ 1277 Perruchoud Jean-Franço 1987 Réchy                  4:38:11
+ 1278 Perruchoud Sophie      1984 Sion                   4:42:40
+ 1279 Perruchoud Stéphanie   1978 Veyras                 5:50:42
+ 1280 Perruchoud Vincent     1982 Sion                   3:57:25
+ 1281 Perseghini Danièle     1962 Châtillon FR           5:58:25
+ 1282 Persoz Fabien          1977 Auvernier              5:32:54
+ 1283 Pérusset Bernard       1947 Yverdon-les-Bains      6:08:57
+ 1284 Perusset José          1970 Onnens VD              5:38:57
+ 1285 Petermann Hugues       1970 Bussigny-près-Lausan   6:36:31
+ 1286 Pétrone Fabien         1978 F-Sinard               5:32:29
+ 1287 Peyrot Cyril           1979 Genève                 4:42:10
+ 1288 Peyrot-Wasmer Patrick  1979 Genève                 4:42:10
+ 1289 Pezet Sylvette         1949 Trélex                 6:52:31
+ 1290 Pfannenstill Emma Grac 1978 S-Lund                 5:24:43
+ 1291 Pfister Nicolas        1978 St-Léonard             6:14:17
+ 1292 Philippoz Patrick      1985 Ayent                  5:48:49
+ 1293 Piccand Aline          1983 Bulle                  5:14:51
+ 1294 Piccand Jacques        1953 La Tour-de-Trême       5:28:09
+ 1295 Piccand Sandra         1976 Domdidier              5:18:23
+ 1296 Piccin Steeve          1984 Fully                  5:35:06
+ 1297 Pichon Jean-Marc       1977 Prangins               4:35:17
+ 1298 Pidoux Serge           1961 Corcelles-près-Payer   4:17:32
+ 1299 Pierret Jacques        1965 Corminboeuf            4:42:34
+ 1300 Piguet Benoit          1969 Onex                   4:06:51
+ 1301 Piguet Jean            1945 Petit-Lancy            6:18:46
+ 1302 Piguet Martine         1971 Onex                   6:01:11
+ 1303 Pilet Philippe         1983 Le Mouret              4:42:39
+ 1304 Piller Gabrielle       1957 Fribourg               5:47:04
+ 1305 Pillon Sandrine        1972 Montana                4:57:43
+ 1306 Pillonel Alain         1987 Cheyres                4:57:45
+ 1307 Pillonel Pascal        1986 La Sage                5:09:37
+ 1308 Pilloud Olivier        1978 Bulle                  5:00:48
+ 1309 Pinel Jean-Marie       1952 F-Neydens              4:36:04
+ 1310 Pinel Nathalie         1964 F-Neydens              5:02:45
+ 1311 Pinguely Nicolas       1967 Genève                 6:06:15
+ 1312 Pires Vincent          1982 Genève                 6:03:40
+ 1313 Pitetti Jean-Luc       1972 Châtelaine             5:26:43
+ 1314 Pittet Christine       1971 Le Crêt-près-Semsale   6:36:36
+ 1315 Pittet Marie           1979 Riaz                   6:00:58
+ 1316 Pittet Olivier         1986 Biel/Bienne            4:45:31
+ 1317 Pittet Véronique       1964 Bernex                 6:15:29
+ 1318 Planchamp Jean-Luc     1956 Muraz (Collombey)      6:52:53
+ 1319 Plaschy Kurt           1964 Inden                  4:10:16
+ 1320 Pointet Jérémy         1992 Granges VS             4:42:33
+ 1321 Poizat Christine       1966 St-Barthélemy VD       8:26:10
+ 1322 Polito Ernesto         1970 Onex                   5:25:59
+ 1323 Poma Theler Ester      1977 Lausanne               6:10:31
+ 1324 Pons Isabelle          1959 F-Nimes                6:18:54
+ 1325 Pons Jean Francois     1958 F-Nimes                4:23:09
+ 1326 Pont Christophe        1971 Cornaux NE             5:11:04
+ 1327 Pont Frédéric          1967 Bevaix                 5:11:05
+ 1328 Pont Martine           1969 Gland                  5:39:14
+ 1329 Pont Michaël           1984 Chalais                6:11:18
+ 1330 Pont Samuel            1976 Sierre                 4:43:51
+ 1331 Popoff Victor          1965 Zinal                  6:08:53
+ 1332 Posse Cornelia         1960 Muraz (Sierre)         7:03:33
+ 1333 Pottier Yannick        1965 Saxon                  4:31:28
+ 1334 Poulat Hugues          1976 F-Evian les Bains      7:30:44
+ 1335 Poulet-Favier Jacqueli 1962 F-Annemasse            6:12:54
+ 1336 Poulet Franck          1962 F-Annemasse            6:12:55
+ 1337 Pralong Nicolas        1952 Miège                  5:43:43
+ 1338 Prelaz Jean-Michel     1964 Rue                    5:33:05
+ 1339 Premand Didier         1968 Troistorrents          3:42:22
+ 1340 Pressacco Philippe     1955 F-Cruseilles           5:28:23
+ 1341 Prevel Michel          1964 F-Challex              4:35:04
+ 1342 Prevot Olivier         1955 F-St Julien en Genev   6:09:20
+ 1343 Prillard Roland        1957 F-Montlebon            8:10:40
+ 1344 Primiceri Maria        1966 Vernier                5:12:28
+ 1345 Progin Christian       1962 Satigny                5:32:20
+ 1346 Progin Grégory         1984 Léchelles              5:05:01
+ 1347 Prost Claude           1954 F-Saizenay             4:36:28
+ 1348 Protti Anne-Sylvie     1978 Icogne                 4:29:06
+ 1349 Pugin Stephane         1974 Echarlens              4:55:17
+ 1350 Pujol Silvia           1967 Assens                 5:56:26
+ 1351 Pulvin Clément         1988 Denges                 5:18:02
+ 1352 Puro Philippe          1959 Fribourg               6:14:22
+ 1353 Python Sebastien       1981 Martigny               5:02:57
+ 1354 Python Vincent         1975 Grenilles              4:24:07
+ 1355 Quarroz Christophe     1961 St-Martin VS           4:28:05
+ 1356 Quinche Pascal         1971 La Chaux-de-Fonds      6:25:33
+ 1357 Quennoz Francine       1965 Onex                   7:34:53
+ 1358 Quennoz Pierre-Alain   1965 Onex                   6:00:00
+ 1359 Raboud Valentin        1989 Grandvillard           4:26:15
+ 1360 Raineri Chantal        1971 Neyruz FR              5:33:55
+ 1361 Rais Sabine            1967 Vicques                7:50:47
+ 1362 Ramaciotti Pascal      1977 Cologny                4:56:11
+ 1363 Ramayet Mick           1947 F-Paris                8:10:30
+ 1364 Ramuz Antoine          1971 Nyon                   7:15:49
+ 1365 Ramuz Loic             1998 Nyon                   7:14:39
+ 1366 Raemy Bertrand         1971 Riaz                   6:38:20
+ 1367 Raemy Bruno            1954 Romont FR              4:56:23
+ 1368 Rappaz Jacques         1947 Chandolin              6:16:32
+ 1369 Raess Christophe       1978 Lausanne               4:28:02
+ 1370 Raetzo Daniel          1968 Ependes FR             4:40:54
+ 1371 Ravet Guy              1989 Vufflens-le-Château    5:43:34
+ 1372 Ravier Christine       1966 Thônex                 8:19:01
+ 1373 Rawyler Catherine      1964 Savagnier              5:42:14
+ 1374 Rébora Daniel          1976 Sion                   4:53:29
+ 1375 Rebord Bénédicte       1986 Sion                   5:39:23
+ 1376 Remondeulaz Dominique  1974 Fully                  5:40:01
+ 1377 Renaud Yvan            1973 Genève                 4:44:54
+ 1378 Rérat Sabine           1964 Chevenez               5:13:55
+ 1379 Resseguier Claire-Lise 1944 Meyrin                 7:53:50
+ 1380 Reuse Nour             1983 Sion                   4:40:25
+ 1381 Rey Jean-Pierre        1967 St-Léonard             4:35:08
+ 1382 Rey Michel             1955 Corin-de-la-Crête      6:05:12
+ 1383 Rey Sandrine           1981 Sion                   5:12:28
+ 1384 Rey Xavier             1976 Mollens VS             3:45:44
+ 1385 Reymond Ann-Sophie     1990 Sion                   5:39:28
+ 1386 Reymond Xavier         1984 Sion                   5:01:04
+ 1387 Ribeiro Alain          1988 Salvan                 3:49:02
+ 1388 Richard Alain          1951 Lausanne               6:07:32
+ 1389 Richard David          1980 Lausanne               5:34:53
+ 1390 Richard Jean-Patrik    1965 Blonay                 5:27:56
+ 1391 Richard Norbert        1979 Le Mouret              3:50:57
+ 1392 Richoz Benoit          1957 Epalinges              4:30:21
+ 1393 Richoz Marie-Salomé    1986 Romanel-sur-Lausanne   4:35:19
+ 1394 Rieder Christine       1955 Versoix                6:55:43
+ 1395 Riedy Michaël          1986 Salvan                 3:46:40
+ 1396 Rigolet Benoît         1984 La Roche FR            5:37:13
+ 1397 Rilliet Nadia          1970 Vauderens              6:41:23
+ 1398 Rincón Angela-Guiovana 1972 Lausanne               6:33:33
+ 1399 Risse Carole           1971 Gland                  5:37:56
+ 1400 Risse Jean-Marie       1963 Pont-la-Ville          5:22:51
+ 1401 Risse Sébastien        1972 Gland                  6:37:32
+ 1402 Riva Charles           1938 Champlan (Grimisuat)   7:25:03
+ 1403 Riva François          1973 E-Barcelona            4:47:21
+ 1404 Roberfroid Milena      1970 Lens                   4:36:09
+ 1405 Robin Philippe         1966 Cernier                5:52:57
+ 1406 Robyr Alexandre        1973 Chermignon             4:52:58
+ 1407 Robyr Claudine         1982 Montana                5:40:09
+ 1408 Robyr Xavier           1969 Chermignon             4:08:31
+ 1409 Rochat Antoine         1947 Onnens FR              5:02:04
+ 1410 Rochat Michael         1979 Cully                  5:26:50
+ 1411 Rochat Thierry         1973 Lovens                 4:39:13
+ 1412 Rochet Sebastien       1973 F-Vaulx en Velin       7:12:55
+ 1413 Rod Dominique          1966 Vucherens              5:49:31
+ 1414 Rodieux Virginie       1980 Lutry                  6:10:41
+ 1415 Rodriguez Tomas        1982 Puplinge               5:17:59
+ 1416 Roduit Cédric          1976 Echichens              4:04:25
+ 1417 Roduit Jean-Félix      1964 Fully                  6:39:10
+ 1418 Roduit Pierre-André    1964 Saillon                5:30:20
+ 1419 Roduit Sophie          1971 Saillon                5:52:13
+ 1420 Rody Samuel            1982 Avry-sur-Matran        4:06:56
+ 1421 Rohrer Denis           1953 Vercorin               5:39:00
+ 1422 Rohrer Hansruedi       1958 Le Mouret              6:59:01
+ 1423 Roijer Nathalie        1966 B-Dilbeek              9:09:09
+ 1424 Rollier Tanya          1964 F-St Julien en Genev   5:42:40
+ 1425 Romanens Benoît        1981 Bulle                  5:03:03
+ 1426 Romy Sacha             1968 Malleray               4:28:51
+ 1427 Roppa David            1981 Crans-Montana          4:41:46
+ 1428 Roquefeuil Laurence    1979 Chandolin-près-Saviè   7:24:21
+ 1429 Roques Julien          1981 Plan-les-Ouates        5:13:45
+ 1430 Rosa Philippe          1962 Lausanne               3:54:00
+ 1431 Rosemberg Aurelie      1979 F-Evian les Bains      8:29:26
+ 1432 Rossel Michèle         1962 Nods                   4:19:10
+ 1433 Rossier Alain          1979 Château-d'Oex          3:37:25
+ 1434 Rossier Aline          1985 Bulle                  5:48:12
+ 1435 Rossier David          1964 Flendruz               5:35:45
+ 1436 Rossier Gérard         1961 La Chaux-de-Fonds      6:25:32
+ 1437 Rossier Yvette         1961 Flendruz               6:30:10
+ 1438 Roth Laurie            1985 Courroux               7:50:43
+ 1439 Röthlisberger Jean-Mar 1976 Le Locle               4:44:28
+ 1440 Rouiller Claudine      1946 Morlon                 7:28:21
+ 1441 Rouiller Jacques       1974 Rossens FR             4:18:46
+ 1442 Rouiller Jean-Marcel   1967 Troistorrents          5:01:16
+ 1443 Rouiller Kristel       1977 Monthey                5:53:21
+ 1444 Rouiller Nicolas       1959 Collombey              7:12:31
+ 1445 Roulet Florin          1980 Genève                 4:29:02
+ 1446 Roulet Sandra          1970 Malleray               4:15:15
+ 1447 Roulin Veruska         1968 Marly                  5:39:26
+ 1448 Roussy Danièle         1964 Bofflens               4:37:49
+ 1449 Rouvinez Céline        1982 Lausanne               5:41:04
+ 1450 Rouvinez Claire        1957 Belmont-sur-Lausanne   5:52:29
+ 1451 Rouvinez Françoise     1985 Corin-de-la-Crête      8:36:27
+ 1452 Roux Lionel            1970 Lausanne               6:56:05
+ 1453 Roux Philippe          1966 Vésenaz                4:07:35
+ 1454 Roy Rose-Marie         1961 Broc                   5:21:41
+ 1455 Rubeli Sylvain         1980 Le Noirmont            5:02:46
+ 1456 Rubin Virginie         1975 F-Chatel               5:26:23
+ 1457 Ruchat Stéphane        1970 Neuchâtel              5:13:47
+ 1458 Rudaz Didier           1975 Sierre                 4:09:36
+ 1459 Rudaz Francis          1945 Vercorin               6:00:27
+ 1460 Rudaz Henri            1956 Laconnex               6:07:17
+ 1461 Rudaz Marie-Claude     1964 Vex                    6:16:13
+ 1462 Rudaz Rene             1945 Sierre                 4:09:36
+ 1463 Rudaz Veronique        1962 Laconnex               6:09:24
+ 1464 Rüeger Laurent         1974 Montana                4:20:38
+ 1465 Rufenacht Virginie     1969 Dombresson             6:10:42
+ 1466 Rufer Alana            2000 USA-Palo Alto          6:18:32
+ 1467 Rufer Alexis           2002 Vessy                  7:10:11
+ 1468 Rufer Chantal          1994 Elgg                   5:41:20
+ 1469 Rufer Christian        1959 Elgg                   5:41:19
+ 1470 Rufer Christoph        1991 Elgg                   4:29:28
+ 1471 Rufer Daniel           1968 Vessy                  7:10:11
+ 1472 Rufer Maxime           1999 Vessy                  5:08:29
+ 1473 Rufer Peter            1966 USA-Palo Alto          6:18:32
+ 1474 Rufer Samuel           1996 USA-Palo Alto          7:03:55
+ 1475 Rufer Simon            1998 USA-Palo Alto          4:35:45
+ 1476 Ruffieux Jacqueline    1970 Broc                   6:05:11
+ 1477 Ruffieux Marie-Louise  1970 Pringy                 6:14:24
+ 1478 Ruffieux Tamara        1974 Crésuz                 5:42:50
+ 1479 Rueger Frederic        1971 Hagendorn              1:45:11
+ 1480 Rumer Sarah            1978 Genève                 6:21:05
+ 1481 Rumley Sébastien       1981 Lausanne               4:51:26
+ 1482 Russi Gregory          1979 F-Viuz en Sallaz       5:18:11
+ 1483 Russi Nancy            1980 F-Viuz en Sallaz       5:37:39
+ 1484 Saillen Lionel         1972 Sembrancher            3:58:59
+ 1485 Saillen Pierre         1976 Sion                   4:18:43
+ 1486 Salamin Amélie         1983 Sierre                 6:41:17
+ 1487 Salamin Caroline       1982 Montreux               4:36:32
+ 1488 Salamin Daniel         1947 St-Jean VS             5:13:31
+ 1489 Salamin Frederic       1975 Saint-luc              5:07:55
+ 1490 Salamin Jerome         1979 Veyras                 8:20:54
+ 1491 Salamin Samuel         1991 Grimentz               5:17:07
+ 1492 Salamin Sandrine       1972 Bussigny-près-Lausan   6:36:32
+ 1493 Salemink-Fankhauser Sa 1963 Gampel                 5:33:08
+ 1494 Salmon Eric            1957 B-Trooz                6:33:36
+ 1495 Salquebre Damien       1978 F-Orleans              5:13:51
+ 1496 Sandoz Pascal          1959 Neuchâtel              5:18:35
+ 1497 Sandoz Yves            1965 Granges-Marnand        5:44:38
+ 1498 Sangleraz Pascal       1961 Leysin                 7:57:03
+ 1499 Santschi Rene          1958 Murten                 4:35:31
+ 1500 Santschi Yann          1987 Chippis                4:45:01
+ 1501 Sarrasin Jean-Pierre   1957 Aire-la-Ville          6:08:26
+ 1502 Sarrasin Oriane        1982 Lausanne               6:08:26
+ 1503 Saudan Alain           1966 Vernayaz               4:21:29
+ 1504 Saudan Charles         1968 Châtel-St-Denis        4:44:09
+ 1505 Saudan Fabrice         1980 Ravoire                4:54:56
+ 1506 Saugy David            1973 St-Légier              8:24:50
+ 1507 Saugy Mauricette       1956 Dompierre VD           6:53:43
+ 1508 Saugy Tiphaine         1981 Yvorne                 6:09:11
+ 1509 Sauteur Alain          1967 Riaz                   5:31:38
+ 1510 Sauteur Ludovic        1980 Fribourg               4:53:55
+ 1511 Sauteur Monique        1967 Riaz                   6:10:23
+ 1512 Savary Lucien          1988 La Tour-de-Trême       6:02:37
+ 1513 Savary Michel          1959 Lausanne               7:05:15
+ 1514 Savary Nicole          1970 Marsens                5:12:15
+ 1515 Savioz Jean-Michel     1951 Sion                   7:15:44
+ 1516 Savioz Joel            1986 Sion                   6:12:47
+ 1517 Savioz Kilian          1995 Noës                   4:43:28
+ 1518 Savoy Christine        1967 Attalens               5:38:22
+ 1519 Scalea Alberto         1966 Vessy                  5:39:36
+ 1520 Scalea Sandra          1970 Vessy                  6:44:59
+ 1521 Schaffter Frederic     1966 Rossemaison            4:56:12
+ 1522 Schaffter Muriel       1967 Rossemaison            5:52:07
+ 1523 Schaller Brigitte      1961 Soyhières              5:59:03
+ 1524 Schaller Brigitte      1965 Lausanne               5:23:01
+ 1525 Schaller Claude        1967 La Tour-de-Trême       4:32:34
+ 1526 Schaller Ludovic       1982 Courchapoix            8:05:41
+ 1527 Schaller Virginie      1988 Soyhières              5:09:41
+ 1528 Schenk Celine          1981 Montagnier VS          5:41:32
+ 1529 Scherer Stefan         1961 Emmenbrücke            8:20:07
+ 1530 Scherly Patrice        1969 Noréaz                 4:49:52
+ 1531 Schilling Philippe     1963 F-Fillinges            5:58:37
+ 1532 Schindler Christine    1963 Cortaillod             6:28:45
+ 1533 Schlaeppy Aline        1985 Cortaillod             5:39:39
+ 1534 Schlegel Julien        1977 Sion                   4:59:30
+ 1535 Schmid Adeline         1995 Fontainemelaon         7:14:00
+ 1536 Schmid Alfred          1958 Fontainemelon          6:01:07
+ 1537 Schmid Christian       1963 Poliez-Pittet          8:25:54
+ 1538 Schmid Sarah           1990 Les Ponts-de-Martel    8:06:44
+ 1539 Schmid William         1956 Muraz (Collombey)      6:42:16
+ 1540 Schmied Sandrine       1976 Chéserex               6:10:24
+ 1541 Schnetzer Martine      1956 Buttes                 6:48:48
+ 1542 Schnetzler Guillaume   1989 Misery-Courtion        4:22:50
+ 1543 Schnyder David         1975 Grand-Lancy            4:31:06
+ 1544 Schnyder Frank         1972 Chardonne              4:39:13
+ 1545 Schnyder Patrick       1974 Orvin                  5:37:53
+ 1546 Schnyder Xavier        1978 Confignon              4:03:51
+ 1547 Schoch Daniel          1967 Lausanne               4:21:42
+ 1548 Schonenberger Paul     1960 Vernier                6:06:00
+ 1549 Schoeni Jean-Jacques   1946 Cortaillod             5:38:15
+ 1550 Schriber Daniel        1972 Chambésy               4:20:24
+ 1551 Schriber Patrick       1960 Mies-Tannay            4:14:59
+ 1552 Schumacher Pascal      1975 Villars-s-Glane        4:05:45
+ 1553 Schumacher Stefan      1969 Thônex                 6:17:42
+ 1554 Schwaar Nicolas        1965 La Chaux-de-Fonds      7:12:33
+ 1555 Schwaller Marc         1975 Corpataux-Magnedens    5:01:32
+ 1556 Schwander Stéphane     1977 Lutry                  4:30:33
+ 1557 Schwéry Nathalie       1986 Grimentz               5:31:53
+ 1558 Schwieger Ian          1956 Nyon                   5:07:02
+ 1559 Sciboz Benjamin        1963 Crésuz                 6:03:27
+ 1560 Scyboz Nicole          1966 Charmey (Gruyère)      5:00:59
+ 1561 Seekopp Pia            1968 Cully                  8:59:10
+ 1562 Sembach Thierry        1982 Fribourg               4:05:20
+ 1563 Senglet Marc           1992 Genève                 5:19:32
+ 1564 Senn Christine         1965 Brenles                6:37:12
+ 1565 Seum Carole            1960 Onex                   6:30:38
+ 1566 Sewer Alain            1972 Granges VS             4:36:46
+ 1567 Sewer Stéphanie        1976 Granges VS             6:10:55
+ 1568 Seydoux Stephane       1969 Les Paccots            5:24:55
+ 1569 Seydoux Valérie        1970 Les Paccots            4:55:18
+ 1570 Short John             1949 GB-Sevenoaks           5:12:46
+ 1571 Sigart Michel          1949 B-Forest               5:36:19
+ 1572 Signer Richard         1963 Biel/Bienne            5:50:00
+ 1573 Sigrist Caroline       1978 Lugnorre               5:38:15
+ 1574 Sigrist Vladimir       1974 Les Sciernes-d'Albeu   4:47:35
+ 1575 Silian Luigi           1947 Martigny               5:26:50
+ 1576 Simon-Vermot Jérôme    1973 Cossonay-Ville         6:04:02
+ 1577 Simon-Vermot Muriel    1979 Satigny                6:06:38
+ 1578 Simonet David          1994 Fribourg               4:12:03
+ 1579 Simonet Michel         1961 Fribourg               4:59:54
+ 1580 Sinechal Bertrand      1984 B-Wezembeek-Oppem      5:34:42
+ 1581 Sinéchal François-Xavi 1982 B-Kraainem             5:20:36
+ 1582 Singy Nicolas          1975 Villarlod              3:37:31
+ 1583 Solioz Marc            1991 Grimentz               4:41:35
+ 1584 Soncini Aline          1980 Biel/Bienne            7:21:13
+ 1585 Soncini Nicolas        1982 Biel/Bienne            5:29:22
+ 1586 Soncini Ulrich         1948 Biel/Bienne            6:43:27
+ 1587 Sonney Jean-Pierre     1969 Auboranges             3:59:04
+ 1588 Soucas Patrick         1965 Perly                  8:18:47
+ 1589 Sounou Aurelie         1980 F-Divonne les Bains    5:13:24
+ 1590 Sourdeau Eve-Marie     1975 Arbaz                  8:02:13
+ 1591 Souza-Schindler Rita   1965 Chemin                 5:42:47
+ 1592 Spechbach Hervé        1979 Genève                 5:08:17
+ 1593 Spicher Michel         1949 Cheseaux-sur-Lausann   6:19:17
+ 1594 Spiekhout Sjoerd Jan   1974 NL-Bussum              6:28:37
+ 1595 Ssnchez Teruel Francis 1963 E-Balaguer             8:01:17
+ 1596 Stalder Johann         1976 Develier               4:12:45
+ 1597 Stämpfli Thomas        1970 Salins                 4:03:52
+ 1598 Stefanovic Predrag     1960 Territet               6:00:19
+ 1599 Steffen Philippe       1963 Fully                  5:40:10
+ 1600 Steiner Andy           1963 Fully                  5:35:59
+ 1601 Steiner Nicolas        1977 F-Bossey               4:44:26
+ 1602 Stelitano Bruno        1985 Venthône               5:28:23
+ 1603 Sterk Marjolein        1960 NL-Bussum              4:58:05
+ 1604 Sterren Gabriela       1965 Eischoll               5:48:15
+ 1605 Stienne Loïck          1987 Muraz                  4:53:07
+ 1606 Stocker Samuel         1989 Noréaz                 5:58:06
+ 1607 Stockis Jacques        1946 B-Francorchamps        7:28:48
+ 1608 Stockis Jean-Pierre    1971 D-Waldleiningen        3:16:01
+ 1609 Stoecklin Fabien       1971 Sullens                5:13:21
+ 1610 Stoky Sylvain          1981 Meyrin                 6:53:47
+ 1611 Stoppa Frédéric        1980 Peseux                 5:27:12
+ 1612 Straub Pierre          1980 Tavannes               4:31:22
+ 1613 Strom Christopher      1971 NL-Eindhoven           5:35:07
+ 1614 Strom Richard          1944 NL-Eindhoven          10:21:34
+ 1615 Strubin Daniel         1952 Collex                 5:32:36
+ 1616 Strubin Mimi           1981 St-Luc                 5:03:57
+ 1617 Strubin Pascal         1984 Versoix                5:18:11
+ 1618 Stuby Armand           1985 Vevey                  5:24:27
+ 1619 Stuby Claude-Alain     1968 Palézieux-Village      5:01:39
+ 1620 Studer Gaspard         1951 Delémont               5:36:03
+ 1621 Studer Ruth            1963 Prêles                 5:15:39
+ 1622 Suard Frédéric         1965 Lausanne               4:58:04
+ 1623 Sudan Colombe          1968 Billens                5:04:56
+ 1624 Sudan Léonie           1984 Bulle                  5:49:56
+ 1625 Sugnaux Maurice        1961 Billens                5:11:13
+ 1626 Suter Walter           1961 Bossonnens             6:37:20
+ 1627 Szarf Elisa            1965 Lens                   6:38:53
+ 1628 Szarf Eric             1977 Lens                   6:21:41
+ 1629 Szymczykowski Lidwine  1976 Martigny               4:42:44
+ 1630 Tacchini Martine       1982 Brenles                5:57:39
+ 1631 Taillens Nicolas       1970 Crans-Montana          5:07:03
+ 1632 Tanner Alicia          1980 Jussy                  5:30:08
+ 1633 Tanner Steve           1972 Essert-Pittet          5:34:49
+ 1634 Tapparel Mariette      1961 Montana                6:10:30
+ 1635 Tapparel Stéphane      1963 Sierre                 4:28:35
+ 1636 Tarnovsky Roman        1973 Morges                 4:21:31
+ 1637 Tarres Vilanova Joan   1954 E-Balaguer             7:58:23
+ 1638 Taverney Alexandre     1980 Corseaux               5:16:18
+ 1639 Tavernier Stephane     1972 Grimisuat              5:24:21
+ 1640 Tchou Isabelle         1972 F-Annemasse            6:02:13
+ 1641 Tenud Renald           1955 Sierre                 6:01:02
+ 1642 Terrier Michel         1951 F-Fleury les Aubrais   7:29:27
+ 1643 Testaz Jean-Yves       1967 Crassier               4:25:57
+ 1644 Testaz Michel          1956 Lausanne               6:53:24
+ 1645 Thalmann Christian     1973 Chippis                5:08:17
+ 1646 Theler-Poma Patrick    1971 Lausanne               6:10:30
+ 1647 Theler Samuel          1982 Neuchâtel              7:06:32
+ 1648 Théodoloz Serge        1960 Satigny                6:06:00
+ 1649 Theurillat Aurélien    1984 Epalinges              4:15:53
+ 1650 Thevoz Sylvain         1974 Genève                 4:14:56
+ 1651 Theytaz Fabrice        1969 Réchy                  4:47:55
+ 1652 Theytaz Florie         1987 Sierre                 5:44:36
+ 1653 Theytaz Julien         1978 Mayoux                 4:35:06
+ 1654 Theytaz Philippe       1945 Zinal                  4:35:06
+ 1655 Theytaz Xavier         1968 Denens                 5:31:17
+ 1656 Thiemard Catherine     1964 Veyrier                6:36:19
+ 1657 Thiemard Elliot        1999 Veyrier                6:36:20
+ 1658 Thommen Olivier        1984 Pully                  4:33:31
+ 1659 Tinembart Jean-Yves    1967 Echallens              6:52:27
+ 1660 Tingström Aline        1957 F-Farges               6:29:13
+ 1661 Tinguely Andre         1963 Satigny                7:05:45
+ 1662 Tinguely Morgan        1990 Satigny                6:09:46
+ 1663 Tinguely Simon         1990 Noréaz                 5:28:20
+ 1664 Tinguely Yves          1959 Bernex                 5:41:02
+ 1665 Tissieres Cedric       1980 Bramois                4:55:51
+ 1666 Tollu Benoit           1981 F-Pierre Benite        5:13:51
+ 1667 Torche Marianne        1956 Villars-sur-Glâne      5:04:10
+ 1668 Tornay Jean-Daniel     1974 Orsières               4:09:40
+ 1669 Torrent Janine         1957 Grône                  5:42:21
+ 1670 Tourne Pierre-Emmanuel 1976 F-Les Rousses          5:28:06
+ 1671 Trachsel Esther        1966 Venthône               6:12:34
+ 1672 Trachsler Rolf         1956 Prangins               5:03:15
+ 1673 Tremblet Stephan       1975 Bernex                 3:42:12
+ 1674 Trummer Tania          1984 Haute-Nendaz           5:42:08
+ 1675 Tuosto Maurice         1969 Yverdon-les-Bains      7:44:22
+ 1676 Tuosto Roberto         1967 Yverdon-les-Bains      5:26:29
+ 1677 Turberg Monique        1967 Rossemaison            5:29:24
+ 1678 Tytgat-Carré Isabelle  1962 L-Kleinbettingen       7:17:56
+ 1679 Tytgat Olivier         1966 L-Kleinbettingen       9:24:41
+ 1680 Uebelhart Steve        1976 Domdidier              5:51:53
+ 1681 Urfer Wenger Nicole    1962 Villars-sous-Yens      5:03:55
+ 1682 Urizar José Lorenzo    1966 Vufflens-la-Ville      4:08:49
+ 1683 Vachey Gabriel         1988 Sion                   4:05:54
+ 1684 Vago Nicolas           1972 Les Evouettes          6:04:00
+ 1685 Vallelian Alain        1968 Bulle                  6:38:19
+ 1686 Vallon Dittmar Francoi 1961 F-Thoiry               4:43:01
+ 1687 Vallon Jean            1938 F-Collobrieres         7:27:21
+ 1688 Vallotton Alexandre    1973 Vevey                  5:12:57
+ 1689 Valzino Jean-Philippe  1967 Boussens               3:58:50
+ 1690 van De Vyver Herman    1955 B-Waasmunster          5:57:50
+ 1691 van Den Bronk Saskia   1970 NL-Bussum              7:15:32
+ 1692 van der Laan Herman    1947 Leukerbad              6:23:28
+ 1693 van der Laan Siem      1978 F-Ganges               6:23:27
+ 1694 van der Plas Ira       1966 NL-Bussum              5:58:50
+ 1695 van der Ree Erwin      1973 NL-Den Haag            5:26:31
+ 1696 van Havermaet Cecile   1950 B-Waasmunster          4:55:15
+ 1697 van Hoeymissen Laurent 1970 Grimisuat              2:52:00
+ 1698 van Hoeymissen Veroniq 1970 Grimisuat              5:14:50
+ 1699 Vanoutrive Jan         1980 B-Waasmunster          5:08:42
+ 1700 Vanwoonsel Isabelle    1967 B-Everberg             7:15:15
+ 1701 Varone Nicolas         1982 Savièse                4:11:51
+ 1702 Varone Xavier          1980 Sion                   4:24:55
+ 1703 Vaucher Frédéric       1975 Le Mouret              4:40:18
+ 1704 Vaucher Michel         1964 Surpierre              4:33:37
+ 1705 Vaucher Philippe       1964 Sonceboz-Sombeval      4:41:12
+ 1706 Veillard Delphine      1978 Chailly-Montreux       8:25:54
+ 1707 Velletri Giuseppe      1970 Grand-Lancy            3:41:55
+ 1708 Velten Rachel          1980 Denges                 4:54:02
+ 1709 Ventura Damien         1977 Lausanne               5:16:42
+ 1710 Verbruggen Anne-Marie  1955 B-Waasmunster          5:30:11
+ 1711 Verdelet Magali        1973 Châtel-St-Denis        5:02:15
+ 1712 Vergère Mado           1955 Vétroz                 7:52:49
+ 1713 Vergère Roger          1952 Vétroz                 7:52:47
+ 1714 Vergeres Patrick       1977 Vétroz                 4:45:20
+ 1715 Vernay Aline           1994 Grône                  5:41:45
+ 1716 Vernez Laurent         1973 Corsier-sur-Vevey      5:17:27
+ 1717 Vez Jean-Daniel        1964 Bernex                 5:31:24
+ 1718 Viallon Guy            1963 Bière                  4:39:34
+ 1719 Vianin Jerome          1985 Sion                   5:57:58
+ 1720 Vidal Bruno            1960 F-Groisy               4:56:10
+ 1721 Villard Jean           1962 Anières                4:31:30
+ 1722 Vina Heidi             1968 Vallorbe               5:34:16
+ 1723 Vinay Chantal          1966 St-Cergue              8:09:55
+ 1724 Vindayer Christophe    1976 Epalinges              4:20:55
+ 1725 Vitre Frédéric         1970 St-Légier-La Chiésaz   5:28:42
+ 1726 Vivier Colette         1964 Ségny-France           8:22:55
+ 1727 Voide Catherine        1978 Loc                    4:51:09
+ 1728 Voigt Hartmut          1965 Oberbottigen           4:51:22
+ 1729 Voirin Francis         1955 F-Choignes             5:12:21
+ 1730 Voelker Francine       1970 Courfaivre             6:23:40
+ 1731 Vollet Stéphane        1975 Lausanne               5:53:25
+ 1732 Voltolini David        1971 Vouvry                 5:40:10
+ 1733 von Arx David          1968 Clarens                4:24:23
+ 1734 von Fliedner-Marti Phi 1974 Plan-les-Ouates        4:46:07
+ 1735 von Gunten Caroline    1963 Prilly                 8:09:43
+ 1736 von Gunten Vera        1974 Sion                   4:55:13
+ 1737 Vonlanthen Gilbert     1961 Bernex                 4:18:57
+ 1738 Vos Jasper             1944 NL-Veenendaal          8:50:22
+ 1739 Vouardoux Christian    1958 Grimentz               4:59:32
+ 1740 Vouardoux Christophe   1979 Noës                   4:43:46
+ 1741 Vouardoux Jacques      1957 Grimentz               4:21:50
+ 1742 Vouardoux Marcel       1954 Sierre                 5:41:32
+ 1743 Vouillamoz Dominique   1972 Haute-Nendaz           4:36:29
+ 1744 Vouillamoz Eddy        1972 Saillon                4:31:47
+ 1745 Vouillamoz Eric        1967 Sion                   5:40:17
+ 1746 Vouillamoz Gilles      1985 Savièse                4:03:37
+ 1747 Vouilloz Raphael       1986 Martigny               5:42:35
+ 1748 Voutaz Daphné          1982 Sembrancher            5:21:59
+ 1749 Vuagniaux Aurélie      1977 Yvonand                5:15:07
+ 1750 Vuichard Boris         1974 Semsales               6:13:31
+ 1751 Vuillaume Maryline     1982 Rocourt                3:56:08
+ 1752 Vuille Jean-Marc       1964 Onex                   2:05:58
+ 1753 Vuille Nathalie        1966 Nyon                   5:03:14
+ 1754 Vuilleumier Cédric     1982 Neyruz FR              4:53:41
+ 1755 Vuilleumier Sandrine   1973 Montana                5:00:08
+ 1756 Vulliet Anne           1976 Commugny               5:37:10
+ 1757 Waelli Mathias         1972 F-Paris                6:18:15
+ 1758 Walch Thierry          1973 Miège                  5:36:03
+ 1759 Walon Francoise        1956 B-Laeken              10:36:55
+ 1760 Waltregny Sandra       1973 Zinal                  4:15:50
+ 1761 Weber Patricia         1962 Froideville            5:35:51
+ 1762 Weber Stéphan          1964 Chêne-Bougeries        4:17:57
+ 1763 Weder Gilles           1983 Cortaillod             8:05:52
+ 1764 Weible Kenneth         1964 Neuchâtel              4:22:42
+ 1765 Wermuth Christoph      1959 D-Kandern              5:36:04
+ 1766 Wicht Alain            1975 La Roche FR            5:06:43
+ 1767 Wicht Gaetan           1981 Dübendorf              3:49:23
+ 1768 Wicht Nathalie         1971 Epalinges              6:48:34
+ 1769 Wildbolz Nicolas       1979 Chexbres               4:05:49
+ 1770 Wille David            1971 NL-Rijswijk            6:19:51
+ 1771 Wisard Willy           1965 Vicques                3:44:58
+ 1772 Wisler Richard         1971 Châtel-St-Denis        4:54:46
+ 1773 Witschard Christiane   1966 Fully                  4:39:59
+ 1774 Wuilloud Isaline       1983 Champlan (Grimisuat)   4:26:04
+ 1775 Würsten Bernadette     1964 St-Luc                 5:24:37
+ 1776 Würsten Luc-André      1961 St-Luc                 4:23:39
+ 1777 Wyss Joseph            1952 F-St Genis Pouilly     5:36:45
+ 1778 Wyss Laurent           1963 Oron-la-Ville          5:22:46
+ 1779 Yoder Yves             1961 Neuchâtel              5:52:57
+ 1780 Z'Graggen Aida         1982 Biel/Bienne            6:11:23
+ 1781 Zabloz Florent         1995 Réchy                  5:34:45
+ 1782 Zabloz Vincent         1989 Réchy                  2:25:19
+ 1783 Zambaz Olivier         1971 St-Séverin             3:44:57
+ 1784 Zaninetti Anne         1971 F-Gaillard             2:42:18
+ 1785 Zanni David            1969 Le Lignon              5:46:56
+ 1786 Zbinden Claire         1983 Carouge GE             6:29:21
+ 1787 Zbinden Patrick        1961 Avenches               5:34:47
+ 1788 Zengaffinen Judith     1976 Susten                 5:43:06
+ 1789 Zenger Franziska       1978 Biel/Bienne            6:36:51
+ 1790 Zermatten Alain        1979 Savièse                4:24:36
+ 1791 Zimmermann Kathy       1971 Lausanne               5:58:12
+ 1792 Zimmermann Laurent     1965 Laconnex               4:18:47
+ 1793 Zimmermann Philipp     1978 Lausanne               4:58:02
+ 1794 Zingg Juerg            1962 Steffisburg            5:57:52
+ 1795 Zollo Veronique        1970 Genève                 7:11:35
+ 1796 Zorn Jehan             1982 Châtel-St-Denis        7:06:33
+ 1797 Zryd Centelighe Claude 1969 Lausanne               6:16:12
+ 1798 Zryd Malou             1965 Denges                 5:15:21
+ 1799 Zuber David            1990 Genève                 4:44:57
+ 1800 Zuber Jean-Philippe    1971 Vercorin               4:23:11
+ 1801 Zuber Jean-Yves        1980 Sierre                 4:57:22
+ 1802 Zuber Loïc             1988 Sierre                 4:47:58
+ 1803 Zuber Sébastien        1994 Noës                   5:11:48
+ 1804 Zuber Sylvain          1970 Crissier               4:33:41
+ 1805 Zufferey Bénédicte     1987 Vuadens                6:43:56
+ 1806 Zufferey Carla         1971 Chippis                7:52:54
+ 1807 Zufferey Lucien        1985 Sierre                 4:30:43
+ 1808 Zufferey Matthieu      1982 Sierre                 5:06:53
+ 1809 Zufferey Roby          1953 Vuadens                6:43:58
+ 1810 Zwahlen Pascal         1966 Dompierre VD           4:09:42

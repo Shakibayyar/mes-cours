@@ -1,0 +1,1919 @@
+=== START CALAMARES 3.2.24.2-1
+2020-08-19 - 10:36:18 [6]: void CalamaresApplication::init()
+    Calamares version: 3.2.24.2-1 
+2020-08-19 - 10:36:18 [6]: void CalamaresApplication::init()
+            languages: "ar, as, ast, be, bg, ca, cs_CZ, da, de, el, en, en_GB, eo, es, es_MX, es_PR, et, eu, fi_FI, fr, gl, he, hi, hr, hu, id, is, it_IT, ja, ko, lt, ml, mr, nb, nl, pl, pt_BR, pt_PT, ro, ru, sk, sl, sq, sr, sr@latin, sv, th, tr_TR, uk, zh_CN, zh_TW" 
+2020-08-19 - 10:36:18 [6]: bool CalamaresUtils::initQmlModulesDir()
+    Using Calamares QML directory "/usr/share/calamares/qml" 
+2020-08-19 - 10:36:18 [6]: Calamares::Branding::Branding(const QString&, QObject*)
+    Using Calamares branding file at "/usr/share/calamares/branding/manjaro/branding.desc" 
+2020-08-19 - 10:36:18 [2]: void Calamares::flavorAndSide(const YAML::Node&, const char*, Calamares::Branding::PanelFlavor&, Calamares::Branding::PanelSide&)
+    WARNING:Branding setting for sidebar is missing, using "widget" "left" 
+2020-08-19 - 10:36:18 [2]: void Calamares::flavorAndSide(const YAML::Node&, const char*, Calamares::Branding::PanelFlavor&, Calamares::Branding::PanelSide&)
+    WARNING:Branding setting for navigation is missing, using "widget" "bottom" 
+2020-08-19 - 10:36:18 [2]: Calamares::Branding::Branding(const QString&, QObject*)
+    WARNING:the branding component "/usr/share/calamares/branding/manjaro" does not ship translations. 
+2020-08-19 - 10:36:18 [6]: Calamares::Branding::Branding(const QString&, QObject*)
+    Loaded branding component "manjaro" 
+2020-08-19 - 10:36:18 [6]:  ..  No translation for "tz_" "fr_CH" using default (en) 
+2020-08-19 - 10:36:18 [6]:  ..  Loaded QRC translation "calamares_" "fr_CH" 
+2020-08-19 - 10:36:18 [6]: void CalamaresApplication::init()
+    STARTUP: initSettings, initQmlPath, initBranding done 
+2020-08-19 - 10:36:18 [6]: void CalamaresApplication::init()
+    STARTUP: initModuleManager: module init started 
+2020-08-19 - 10:36:18 [6]: void Calamares::ModuleManager::doInit()
+    Found 46 modules 46 names 
+2020-08-19 - 10:36:18 [6]: void CalamaresApplication::initView()
+    STARTUP: initModuleManager: all modules init done 
+2020-08-19 - 10:36:18 [6]: void CalamaresApplication::initView()
+    STARTUP: initJobQueue done 
+2020-08-19 - 10:36:18 [6]: CalamaresWindow::CalamaresWindow(QWidget*)
+    Available desktop QSize(2560, 1400) minimum size QSize(1024, 520) 
+2020-08-19 - 10:36:18 [6]:  ..  Proposed window size: 1024 560 
+2020-08-19 - 10:36:19 [2]: QString Calamares::_stylesheet(const QDir&)
+    WARNING:The branding component "/usr/share/calamares/branding/manjaro" does not ship stylesheet.qss. 
+2020-08-19 - 10:36:19 [6]: void CalamaresApplication::initView()
+    STARTUP: CalamaresWindow created; loadModules started 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/welcome.conf" 
+2020-08-19 - 10:36:19 [6]: void Config::initLanguages()
+    Matching locale QLocale(French, Latin, Switzerland) 
+2020-08-19 - 10:36:19 [6]:  ..  Matching approximate locale QLocale::French 
+2020-08-19 - 10:36:19 [6]:  ..  Matched with index 19 "fr_FR" 
+2020-08-19 - 10:36:19 [6]:  ..  No translation for "tz_" "fr_FR" using default (en) 
+2020-08-19 - 10:36:19 [6]:  ..  Loaded QRC translation "calamares_" "fr_FR" 
+2020-08-19 - 10:36:19 [6]: void Config::setLocaleIndex(int)
+    Index 19 Selected locale QLocale(French, Latin, France) 
+2020-08-19 - 10:36:19 [6]:  ..  No translation for "tz_" "fr_FR" using default (en) 
+2020-08-19 - 10:36:19 [6]:  ..  Loaded QRC translation "calamares_" "fr_FR" 
+2020-08-19 - 10:36:19 [6]: virtual void Calamares::ViewModule::loadSelf()
+    ViewModule "welcome@welcome" loading complete. 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/locale.conf" 
+2020-08-19 - 10:36:19 [6]: virtual void Calamares::ViewModule::loadSelf()
+    ViewModule "locale@locale" loading complete. 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/usr/share/calamares/modules/keyboard.conf" 
+2020-08-19 - 10:36:19 [6]: virtual void Calamares::ViewModule::loadSelf()
+    ViewModule "keyboard@keyboard" loading complete. 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/usr/share/calamares/modules/partition.conf" 
+2020-08-19 - 10:36:19 [6]: CalamaresUtils::Partition::InternalManager::InternalManager()
+    KPMCore backend starting .. 
+2020-08-19 - 10:36:19 [8]: Loaded backend plugin:  "pmsfdiskbackendplugin"
+2020-08-19 - 10:36:19 [6]:  ..  Backend @ 0x55a648b4c5c0 "pmsfdiskbackendplugin" "1" 
+2020-08-19 - 10:36:19 [6]: CalamaresUtils::Partition::KPMManager::KPMManager()
+    KPMManager 1 created. 
+2020-08-19 - 10:36:19 [6]: virtual void PartitionViewStep::setConfigurationMap(const QVariantMap&)
+    Setting firmwareType to "efi" 
+2020-08-19 - 10:36:19 [2]: virtual void PartitionViewStep::setConfigurationMap(const QVariantMap&)
+    WARNING:Partition-module does not support *userSwapChoices* setting "file" 
+2020-08-19 - 10:36:19 [2]: virtual void PartitionViewStep::setConfigurationMap(const QVariantMap&)
+    WARNING:Partition-module does not support *userSwapChoices* setting "reuse" 
+2020-08-19 - 10:36:19 [6]: QString PartUtils::findFS(QString, FileSystem::Type*)
+    Found filesystem "ext4" 
+2020-08-19 - 10:36:19 [6]: virtual void PartitionViewStep::setConfigurationMap(const QVariantMap&)
+    Partition-module setting *defaultFileSystemType* "ext4" 
+2020-08-19 - 10:36:19 [6]: QString PartUtils::findFS(QString, FileSystem::Type*)
+    Found filesystem "ext4" 
+2020-08-19 - 10:36:19 [6]: virtual void Calamares::ViewModule::loadSelf()
+    ViewModule "partition@partition" loading complete. 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/users.conf" 
+2020-08-19 - 10:36:19 [6]: virtual void Calamares::ViewModule::loadSelf()
+    ViewModule "users@users" loading complete. 
+2020-08-19 - 10:36:19 [6]: virtual void Calamares::ViewModule::loadSelf()
+    ViewModule "summary@summary" loading complete. 
+2020-08-19 - 10:36:19 [6]: void Calamares::ModuleManager::loadModules()
+    Module "partition@partition" already loaded. 
+2020-08-19 - 10:36:19 [6]: Calamares::SlideshowQML::SlideshowQML(QWidget*)
+    QML import paths: 
+     "/usr/share/calamares/qml" 
+     "/usr/bin" 
+     "qrc:/qt-project.org/imports" 
+     "/usr/lib/qt/qml" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/usr/share/calamares/modules/mount.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/unpackfs.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/machineid.conf" 
+2020-08-19 - 10:36:19 [2]: virtual void MachineIdJob::setConfigurationMap(const QVariantMap&)
+    WARNING:MachineId: configuration setting *symlink* is deprecated, use *dbus-symlink*. 
+2020-08-19 - 10:36:19 [6]: virtual void Calamares::CppJobModule::loadSelf()
+    CppJobModule "machineid@machineid" loading complete. 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/usr/share/calamares/modules/fstab.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::ModuleManager::loadModules()
+    Module "locale@locale" already loaded. 
+2020-08-19 - 10:36:19 [6]: void Calamares::ModuleManager::loadModules()
+    Module "keyboard@keyboard" already loaded. 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/usr/share/calamares/modules/luksopenswaphookcfg.conf" 
+2020-08-19 - 10:36:19 [6]: virtual void Calamares::CppJobModule::loadSelf()
+    CppJobModule "luksbootkeyfile@luksbootkeyfile" loading complete. 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    No config file for "initcpiocfg" found anywhere at 
+     "/etc/calamares/modules/initcpiocfg.conf" 
+     "/usr/share/calamares/modules/initcpiocfg.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/initcpio.conf" 
+2020-08-19 - 10:36:19 [6]: virtual void Calamares::CppJobModule::loadSelf()
+    CppJobModule "initcpio@initcpio" loading complete. 
+2020-08-19 - 10:36:19 [6]: void Calamares::ModuleManager::loadModules()
+    Module "users@users" already loaded. 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/displaymanager.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/mhwdcfg.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/services.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/usr/share/calamares/modules/grubcfg.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/bootloader.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/postcfg.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/usr/share/calamares/modules/umount.conf" 
+2020-08-19 - 10:36:19 [6]: void Calamares::Module::loadConfigurationFile(const QString&)
+    Loaded module configuration "/etc/calamares/modules/finished.conf" 
+2020-08-19 - 10:36:19 [2]: virtual void FinishedViewStep::setConfigurationMap(const QVariantMap&)
+    WARNING:Configuring the finished module with deprecated restartNowEnabled settings 
+2020-08-19 - 10:36:19 [6]: virtual void Calamares::ViewModule::loadSelf()
+    ViewModule "finished@finished" loading complete. 
+2020-08-19 - 10:36:19 [6]: void CalamaresApplication::initViewSteps()
+    STARTUP: loadModules for all modules done 
+2020-08-19 - 10:36:19 [6]: void Calamares::ModuleManager::checkRequirements()
+    Checking module requirements .. 
+2020-08-19 - 10:36:19 [6]: void CalamaresApplication::initViewSteps()
+    STARTUP: Window now visible and ProgressTreeView populated 
+2020-08-19 - 10:36:19 [6]:  ..  8 view steps loaded. 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "finished" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "displaymanager" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "initcpio" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "grubcfg" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "fstab" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "initcpiocfg" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "hwclock" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "bootloader" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "keyboard" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "localecfg" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "mount" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "luksopenswaphookcfg" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "machineid" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "mhwdcfg" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "luksbootkeyfile" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "networkcfg" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "postcfg" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "services" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "summary" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "umount" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "unpackfs" 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "users" 
+2020-08-19 - 10:36:19 [6]: Calamares::RequirementsList GeneralRequirements::checkRequirements()
+    Need at least storage bytes: 8482560409 
+2020-08-19 - 10:36:19 [6]: Calamares::RequirementsList GeneralRequirements::checkRequirements()
+    Need at least ram bytes: 1073741824 
+2020-08-19 - 10:36:19 [6]: bool GeneralRequirements::checkHasPower()
+    A battery exists, checking for mains power. 
+2020-08-19 - 10:36:19 [6]: Calamares::RequirementsList GeneralRequirements::checkRequirements()
+    GeneralRequirements output: 
+     enoughStorage :   true 
+     enoughRam :   true 
+     hasPower :   true 
+     hasInternet :   true 
+     isRoot :   true 
+2020-08-19 - 10:36:19 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 5 requirement results from "welcome" 
+2020-08-19 - 10:36:19 [6]: KeyboardPage::onListVariantCurrentItemChanged(QListWidgetItem*, QListWidgetItem*)::<lambda()>
+    xkbmap selection changed to:  "ch" - "" 
+2020-08-19 - 10:36:20 [8]: smartctl initialization failed for  "/dev/sdb" :  Aucun fichier ou dossier de ce type
+2020-08-19 - 10:36:20 [8]: error during smart output parsing for  "/dev/sdb" :  Succès
+2020-08-19 - 10:36:20 [6]: QList<Device*> PartUtils::getDevices(PartUtils::DeviceType, qint64)
+    Removing unsuitable devices: 2 candidates. 
+2020-08-19 - 10:36:20 [6]:  ..  Removing device with iso9660 filesystem (probably a CD) on it "/dev/sdb" 
+2020-08-19 - 10:36:20 [6]: void PartitionCoreModule::doInit()
+    LIST OF DETECTED DEVICES: 
+2020-08-19 - 10:36:20 [6]: void PartitionCoreModule::doInit()
+    node	capacity	name	prettyName 
+2020-08-19 - 10:36:20 [6]: void PartitionCoreModule::doInit()
+    "/dev/sda" 512105932800 "Micron 1100 MTFDDAV512TBN" "Micron 1100 MTFDDAV512TBN – 476,94 Gio (/dev/sda)" 
+2020-08-19 - 10:36:20 [6]:  ..  1 devices detected. 
+2020-08-19 - 10:36:20 [6]: CalamaresUtils::GeoIP::RegionZonePair CalamaresUtils::GeoIP::splitTZString(const QString&)
+    GeoIP reporting "Europe/Zurich" 
+2020-08-19 - 10:36:20 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 0 requirement results from "locale" 
+2020-08-19 - 10:36:20 [6]: void Calamares::RequirementsChecker::reportProgress()
+    Remaining modules: 1 
+     "partition" 
+2020-08-19 - 10:36:21 [6]: setGeoIP(Config*, const QVariantMap&)::<lambda()>
+    GeoIP result for welcome= "CH" 
+2020-08-19 - 10:36:21 [6]: void Config::setLocaleIndex(int)
+    Index 8 Selected locale QLocale(German, Latin, Germany) 
+2020-08-19 - 10:36:21 [6]:  ..  No translation for "tz_" "de_DE" using default (en) 
+2020-08-19 - 10:36:21 [6]:  ..  Loaded QRC translation "calamares_" "de_DE" 
+2020-08-19 - 10:36:22 [6]: void Calamares::RequirementsChecker::reportProgress()
+    Remaining modules: 1 
+     "partition" 
+2020-08-19 - 10:36:23 [6]: void Calamares::RequirementsChecker::reportProgress()
+    Remaining modules: 1 
+     "partition" 
+2020-08-19 - 10:36:24 [6]: void Calamares::RequirementsChecker::reportProgress()
+    Remaining modules: 1 
+     "partition" 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("blkid", "-s", "TYPE", "-o", "value", "/dev/sda3") 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 10:36:25 [6]: FstabEntryList PartUtils::lookForFstabEntries(const QString&)
+    Checking device "/dev/sda3" for fstab (fs= "ext4" ) 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-o", "ro,noload", "/dev/sda3", "/tmp/calamares-uKbfsw") 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 10:36:25 [6]:  ..  reading "/tmp/calamares-uKbfsw/etc/fstab" 
+2020-08-19 - 10:36:25 [6]:  ..  got 15 lines. 
+2020-08-19 - 10:36:25 [6]:  ..  got 15 fstab entries. 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("umount", "-R", "/tmp/calamares-uKbfsw") 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 10:36:25 [6]: void Calamares::RequirementsChecker::reportProgress()
+    Remaining modules: 1 
+     "partition" 
+2020-08-19 - 10:36:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeResized(PartitionCoreModule*, const QString&)
+    Checking if "/dev/sda3" can be resized. 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeResized(Partition*)
+    Checking if "/dev/sda3" can be resized. 
+2020-08-19 - 10:36:25 [6]:  ..  NO, insufficient storage 
+     Required  storage B: 11166914969 "(10.4GiB)" 
+     Available storage B: 7806410752 "(7GiB)" for "/dev/sda3" length: 62914560 sectorsUsed: 47667664 fsType: "ext4" 
+2020-08-19 - 10:36:25 [6]: OsproberEntryList PartUtils::runOsprober(PartitionCoreModule*)
+    os-prober lines after cleanup: 
+     "/dev/sda3:Manjaro Linux (20.1):ManjaroLinux:linux" 
+2020-08-19 - 10:36:25 [6]: void BootLoaderModel::init(const QList<Device*>&)
+    BLM::init with 1 devices 0 rows 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda1" "/dev/sda" 
+2020-08-19 - 10:36:25 [6]:  ..  flags QFlags(0x1) 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda2" "/dev/sda" 
+2020-08-19 - 10:36:25 [6]:  ..  flags QFlags() 
+2020-08-19 - 10:36:25 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 10:36:25 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda3" "/dev/sda" 
+2020-08-19 - 10:36:25 [6]:  ..  flags QFlags() 
+2020-08-19 - 10:36:25 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 10:36:25 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda5" "/dev/sda" 
+2020-08-19 - 10:36:25 [6]:  ..  flags QFlags() 
+2020-08-19 - 10:36:25 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 10:36:25 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda4" "/dev/sda" 
+2020-08-19 - 10:36:25 [6]:  ..  flags QFlags() 
+2020-08-19 - 10:36:25 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 10:36:25 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 10:36:25 [6]: void Calamares::RequirementsChecker::addCheckedRequirements(Calamares::Module*)
+    Got 1 requirement results from "partition" 
+2020-08-19 - 10:36:25 [6]: void ChoicePage::updateDeviceStatePreview()
+    Updating partitioning state widgets. 
+2020-08-19 - 10:36:25 [6]: void ChoicePage::setupActions()
+    Setting up actions for "/dev/sda" with 1 entries. 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeResized(Partition*)
+    Checking if "/dev/sda1" can be resized. 
+2020-08-19 - 10:36:25 [6]:  ..  NO, filesystem "fat32" does not support resize. 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeReplaced(Partition*)
+    Checking if "/dev/sda1" can be replaced. 
+2020-08-19 - 10:36:25 [6]:  ..  NO, insufficient storage 
+     Required  storage B: 9019431321 "(7.9GiB)" 
+     Available storage B: 268435456 "(0GiB)" 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeResized(Partition*)
+    Checking if "/dev/sda2" can be resized. 
+2020-08-19 - 10:36:25 [6]:  ..  NO, insufficient storage 
+     Required  storage B: 11166914969 "(10.4GiB)" 
+     Available storage B: 8589934592 "(8GiB)" for "/dev/sda2" length: 16777216 sectorsUsed: 0 fsType: "linuxswap" 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeReplaced(Partition*)
+    Checking if "/dev/sda2" can be replaced. 
+2020-08-19 - 10:36:25 [6]:  ..  NO, insufficient storage 
+     Required  storage B: 9019431321 "(7.9GiB)" 
+     Available storage B: 8589934592 "(8GiB)" 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeResized(Partition*)
+    Checking if "/dev/sda3" can be resized. 
+2020-08-19 - 10:36:25 [6]:  ..  NO, insufficient storage 
+     Required  storage B: 11166914969 "(10.4GiB)" 
+     Available storage B: 7806410752 "(7GiB)" for "/dev/sda3" length: 62914560 sectorsUsed: 47667664 fsType: "ext4" 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeReplaced(Partition*)
+    Checking if "/dev/sda3" can be replaced. 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeReplaced(Partition*)
+    Partition "/dev/sda3" authorized for replace install. 
+2020-08-19 - 10:36:25 [6]:  ..  contains replaceable "/dev/sda3" 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeResized(Partition*)
+    Checking if "/dev/sda5" can be resized. 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeResized(Partition*)
+    Partition "/dev/sda5" authorized for resize + autopartition install. 
+2020-08-19 - 10:36:25 [6]:  ..  contains resizable "/dev/sda5" 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeReplaced(Partition*)
+    Checking if "/dev/sda5" can be replaced. 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeReplaced(Partition*)
+    Partition "/dev/sda5" authorized for replace install. 
+2020-08-19 - 10:36:25 [6]:  ..  contains replaceable "/dev/sda5" 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeResized(Partition*)
+    Checking if "/dev/sda4" can be resized. 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeResized(Partition*)
+    Partition "/dev/sda4" authorized for resize + autopartition install. 
+2020-08-19 - 10:36:25 [6]:  ..  contains resizable "/dev/sda4" 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeReplaced(Partition*)
+    Checking if "/dev/sda4" can be replaced. 
+2020-08-19 - 10:36:25 [6]: bool PartUtils::canBeReplaced(Partition*)
+    Partition "/dev/sda4" authorized for replace install. 
+2020-08-19 - 10:36:25 [6]:  ..  contains replaceable "/dev/sda4" 
+2020-08-19 - 10:36:25 [6]: ChoicePage::setupActions()::<lambda()>
+    Setting texts for 1 non-empty osprober entry 
+2020-08-19 - 10:36:25 [6]: void ChoicePage::updateActionChoicePreview(ChoicePage::InstallChoice)
+    Updating partitioning preview widgets. 
+2020-08-19 - 10:36:25 [6]: void Calamares::RequirementsChecker::finished()
+    All requirements have been checked. 
+2020-08-19 - 10:36:57 [6]: void Config::setLocaleIndex(int)
+    Index 19 Selected locale QLocale(French, Latin, France) 
+2020-08-19 - 10:36:57 [6]:  ..  No translation for "tz_" "fr_FR" using default (en) 
+2020-08-19 - 10:36:57 [6]:  ..  Loaded QRC translation "calamares_" "fr_FR" 
+2020-08-19 - 10:36:57 [6]: ChoicePage::setupActions()::<lambda()>
+    Setting texts for 1 non-empty osprober entry 
+2020-08-19 - 12:37:08 [6]: void KeyboardPage::onActivate()
+    Got locale language "fr_CH.UTF-8" 
+2020-08-19 - 12:37:08 [6]:  ..  extracted country "Switzerland" :: ("fr", "CH") 
+2020-08-19 - 12:37:08 [6]:  ..  looking for locale part "CH" 
+2020-08-19 - 12:37:08 [6]:  ..  matched "ch" 
+2020-08-19 - 12:37:08 [6]: void KeyboardPage::guessLayout(const QStringList&)
+    Next level: "fr" 
+2020-08-19 - 12:37:08 [6]:  ..  matched variant "fr"   "French (Switzerland)" 
+2020-08-19 - 12:37:08 [6]: KeyboardPage::onListVariantCurrentItemChanged(QListWidgetItem*, QListWidgetItem*)::<lambda()>
+    xkbmap selection changed to:  "ch" - "fr" 
+2020-08-19 - 12:37:22 [6]: void ChoicePage::updateActionChoicePreview(ChoicePage::InstallChoice)
+    Updating partitioning preview widgets. 
+2020-08-19 - 12:37:24 [6]: virtual void PartitionViewStep::next()
+    Choice applied:  4 
+2020-08-19 - 12:37:38 [6]: QString PartUtils::findFS(QString, FileSystem::Type*)
+    Found filesystem "ext4" 
+2020-08-19 - 12:37:57 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    old boundaries: 2048 526335 524288 
+2020-08-19 - 12:37:57 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    new boundaries: 2048 526335 
+2020-08-19 - 12:37:57 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    dirty status: false 
+2020-08-19 - 12:37:57 [6]: CalamaresUtils::Partition::KPMManager::KPMManager()
+    KPMManager 2 created. 
+2020-08-19 - 12:37:57 [6]: void BootLoaderModel::update()
+    BLM::update holds 1 devices 1 rows 
+2020-08-19 - 12:37:58 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda1" "/dev/sda" 
+2020-08-19 - 12:37:58 [6]:  ..  flags QFlags(0x1) 
+2020-08-19 - 12:37:58 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda2" "/dev/sda" 
+2020-08-19 - 12:37:58 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:37:58 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:37:58 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:37:58 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda3" "/dev/sda" 
+2020-08-19 - 12:37:58 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:37:58 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:37:58 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:37:58 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda5" "/dev/sda" 
+2020-08-19 - 12:37:58 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:37:58 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:37:58 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:37:58 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda4" "/dev/sda" 
+2020-08-19 - 12:37:58 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:37:58 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:37:58 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:02 [6]: QString PartUtils::findFS(QString, FileSystem::Type*)
+    Found filesystem "ext4" 
+2020-08-19 - 12:38:09 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    old boundaries: 526336 17303551 16777216 
+2020-08-19 - 12:38:09 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    new boundaries: 526336 17303551 
+2020-08-19 - 12:38:09 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    dirty status: false 
+2020-08-19 - 12:38:09 [6]: CalamaresUtils::Partition::KPMManager::KPMManager()
+    KPMManager 3 created. 
+2020-08-19 - 12:38:09 [6]: void BootLoaderModel::update()
+    BLM::update holds 1 devices 1 rows 
+2020-08-19 - 12:38:09 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda1" "/dev/sda" 
+2020-08-19 - 12:38:09 [6]:  ..  flags QFlags(0x1) 
+2020-08-19 - 12:38:09 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda2" "/dev/sda" 
+2020-08-19 - 12:38:09 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:09 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:09 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:09 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda3" "/dev/sda" 
+2020-08-19 - 12:38:09 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:09 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:09 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:09 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda5" "/dev/sda" 
+2020-08-19 - 12:38:09 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:09 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:09 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:09 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda4" "/dev/sda" 
+2020-08-19 - 12:38:09 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:09 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:09 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:39 [6]: QString PartUtils::findFS(QString, FileSystem::Type*)
+    Found filesystem "ext4" 
+2020-08-19 - 12:38:46 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    old boundaries: 17303552 80218111 62914560 
+2020-08-19 - 12:38:46 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    new boundaries: 17303552 80218111 
+2020-08-19 - 12:38:46 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    dirty status: false 
+2020-08-19 - 12:38:46 [6]: CalamaresUtils::Partition::KPMManager::KPMManager()
+    KPMManager 4 created. 
+2020-08-19 - 12:38:46 [6]: void BootLoaderModel::update()
+    BLM::update holds 1 devices 1 rows 
+2020-08-19 - 12:38:46 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda1" "/dev/sda" 
+2020-08-19 - 12:38:46 [6]:  ..  flags QFlags(0x1) 
+2020-08-19 - 12:38:46 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda2" "/dev/sda" 
+2020-08-19 - 12:38:46 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:46 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:46 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:46 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda3" "/dev/sda" 
+2020-08-19 - 12:38:46 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:46 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:46 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:46 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda5" "/dev/sda" 
+2020-08-19 - 12:38:46 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:46 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:46 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:46 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda4" "/dev/sda" 
+2020-08-19 - 12:38:46 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:46 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:46 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:49 [6]: QString PartUtils::findFS(QString, FileSystem::Type*)
+    Found filesystem "ext4" 
+2020-08-19 - 12:38:56 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    old boundaries: 80218112 122161151 41943040 
+2020-08-19 - 12:38:56 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    new boundaries: 80218112 122161151 
+2020-08-19 - 12:38:56 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    dirty status: false 
+2020-08-19 - 12:38:56 [6]: void BootLoaderModel::update()
+    BLM::update holds 1 devices 3 rows 
+2020-08-19 - 12:38:56 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda1" "/dev/sda" 
+2020-08-19 - 12:38:56 [6]:  ..  flags QFlags(0x1) 
+2020-08-19 - 12:38:56 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda2" "/dev/sda" 
+2020-08-19 - 12:38:56 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:56 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:56 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:56 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda3" "/dev/sda" 
+2020-08-19 - 12:38:56 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:56 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:56 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:56 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda5" "/dev/sda" 
+2020-08-19 - 12:38:56 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:56 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:56 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:56 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda4" "/dev/sda" 
+2020-08-19 - 12:38:56 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:38:56 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:38:56 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:38:59 [6]: QString PartUtils::findFS(QString, FileSystem::Type*)
+    Found filesystem "ext4" 
+2020-08-19 - 12:39:16 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    old boundaries: 122161152 1000214527 878053376 
+2020-08-19 - 12:39:16 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    new boundaries: 122161152 1000214527 
+2020-08-19 - 12:39:16 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    dirty status: false 
+2020-08-19 - 12:39:16 [6]: void BootLoaderModel::update()
+    BLM::update holds 1 devices 3 rows 
+2020-08-19 - 12:39:16 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda1" "/dev/sda" 
+2020-08-19 - 12:39:16 [6]:  ..  flags QFlags(0x1) 
+2020-08-19 - 12:39:16 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda2" "/dev/sda" 
+2020-08-19 - 12:39:16 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:39:16 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:39:16 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:39:16 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda3" "/dev/sda" 
+2020-08-19 - 12:39:16 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:39:16 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:39:16 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:39:16 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda5" "/dev/sda" 
+2020-08-19 - 12:39:16 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:39:16 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:39:16 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:39:16 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda4" "/dev/sda" 
+2020-08-19 - 12:39:16 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:39:16 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:39:16 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:39:19 [6]: QString PartUtils::findFS(QString, FileSystem::Type*)
+    Found filesystem "ext4" 
+2020-08-19 - 12:39:27 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    old boundaries: 122161152 1000214527 878053376 
+2020-08-19 - 12:39:27 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    new boundaries: 122161152 1000214527 
+2020-08-19 - 12:39:27 [6]: void EditExistingPartitionDialog::applyChanges(PartitionCoreModule*)
+    dirty status: false 
+2020-08-19 - 12:39:27 [6]: void BootLoaderModel::update()
+    BLM::update holds 1 devices 3 rows 
+2020-08-19 - 12:39:27 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda1" "/dev/sda" 
+2020-08-19 - 12:39:27 [6]:  ..  flags QFlags(0x1) 
+2020-08-19 - 12:39:27 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda2" "/dev/sda" 
+2020-08-19 - 12:39:27 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:39:27 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:39:27 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:39:27 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda3" "/dev/sda" 
+2020-08-19 - 12:39:27 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:39:27 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:39:27 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:39:27 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda5" "/dev/sda" 
+2020-08-19 - 12:39:27 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:39:27 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:39:27 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:39:27 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda4" "/dev/sda" 
+2020-08-19 - 12:39:27 [6]:  ..  flags QFlags() 
+2020-08-19 - 12:39:27 [6]:  ..  moved towards root 0x7f63d0029090 
+2020-08-19 - 12:39:27 [6]:  ..  partition table 0x7f63d0029090 type 6 
+2020-08-19 - 12:39:37 [6]: bool PartUtils::isEfiBootable(const Partition*)
+    Check EFI bootable "/dev/sda1" "/dev/sda" 
+2020-08-19 - 12:39:37 [6]:  ..  flags QFlags(0x1) 
+2020-08-19 - 12:40:01 [0]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+2020-08-19 - 12:40:01 [0]: QObject::setParent: Cannot set parent, new parent is in a different thread
+2020-08-19 - 12:40:01 [6]: QVariantList FillGlobalStorageJob::createPartitionList() const
+    Building partition information map 
+2020-08-19 - 12:40:01 [6]:  ..  partitions on "/dev/sda" 
+2020-08-19 - 12:40:01 [6]:  ..  mapping for "/dev/sda1" "/dev/sda1" 
+     mountPoint: :   "/boot/efi" 
+     fs: :   "fat32" 
+     fsName :   "fat32" 
+     uuid :   "2828-A3AA" 
+     claimed :   "false" 
+2020-08-19 - 12:40:01 [6]:  ..  mapping for "/dev/sda2" "/dev/sda2" 
+     mountPoint: :   "" 
+     fs: :   "linuxswap" 
+     fsName :   "linuxswap" 
+     uuid :   "3e65311f-fa04-43fe-84bb-f934efb5c49f" 
+     claimed :   "false" 
+2020-08-19 - 12:40:01 [6]:  ..  mapping for "/dev/sda3" "/dev/sda3" 
+     mountPoint: :   "/" 
+     fs: :   "ext4" 
+     fsName :   "ext4" 
+     uuid :   "5ad73e16-a379-4908-8e18-834c72f42a54" 
+     claimed :   "false" 
+2020-08-19 - 12:40:01 [6]:  ..  mapping for "/dev/sda5" "/dev/sda5" 
+     mountPoint: :   "/home" 
+     fs: :   "ext4" 
+     fsName :   "ext4" 
+     uuid :   "ed94359b-78fa-4756-a6e1-cad8cfcbfa32" 
+     claimed :   "false" 
+2020-08-19 - 12:40:01 [6]:  ..  mapping for "/dev/sda4" "/dev/sda4" 
+     mountPoint: :   "/mnt/data" 
+     fs: :   "ext4" 
+     fsName :   "ext4" 
+     uuid :   "fc439d46-b271-42f5-b135-4abeb7c9757a" 
+     claimed :   "false" 
+2020-08-19 - 12:40:01 [6]: QVariantList FillGlobalStorageJob::createPartitionList() const
+    Building partition information map 
+2020-08-19 - 12:40:01 [6]:  ..  partitions on "/dev/sda" 
+2020-08-19 - 12:40:01 [6]:  ..  mapping for "/dev/sda1" "/dev/sda1" 
+     mountPoint: :   "/boot/efi" 
+     fs: :   "fat32" 
+     fsName :   "fat32" 
+     uuid :   "2828-A3AA" 
+     claimed :   "false" 
+2020-08-19 - 12:40:01 [6]:  ..  mapping for "/dev/sda2" "/dev/sda2" 
+     mountPoint: :   "" 
+     fs: :   "linuxswap" 
+     fsName :   "linuxswap" 
+     uuid :   "3e65311f-fa04-43fe-84bb-f934efb5c49f" 
+     claimed :   "false" 
+2020-08-19 - 12:40:01 [6]:  ..  mapping for "/dev/sda3" "/dev/sda3" 
+     mountPoint: :   "/" 
+     fs: :   "ext4" 
+     fsName :   "ext4" 
+     uuid :   "5ad73e16-a379-4908-8e18-834c72f42a54" 
+     claimed :   "false" 
+2020-08-19 - 12:40:01 [6]:  ..  mapping for "/dev/sda5" "/dev/sda5" 
+     mountPoint: :   "/home" 
+     fs: :   "ext4" 
+     fsName :   "ext4" 
+     uuid :   "ed94359b-78fa-4756-a6e1-cad8cfcbfa32" 
+     claimed :   "false" 
+2020-08-19 - 12:40:01 [6]:  ..  mapping for "/dev/sda4" "/dev/sda4" 
+     mountPoint: :   "/mnt/data" 
+     fs: :   "ext4" 
+     fsName :   "ext4" 
+     uuid :   "fc439d46-b271-42f5-b135-4abeb7c9757a" 
+     claimed :   "false" 
+2020-08-19 - 12:40:01 [6]: void SummaryPage::onActivate()
+    Summary widget is larger than viewport, enlarge by 63 to QSize(826, 583) 
+2020-08-19 - 12:40:44 [8]: [JOBQUEUE]: Progress for Job[ 0 ]:  0 % completed 
+2020-08-19 - 12:40:44 [8]: [JOBQUEUE]: Progress Overall:  0 % (accumulated) +  0 % (this job) =  0 % (total) 
+2020-08-19 - 12:40:44 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Supprimer les montages temporaires."  (there are 30  left) 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    Opened mtab. Lines: 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "proc /proc proc rw,nosuid,nodev,noexec,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "sys /sys sysfs rw,nosuid,nodev,noexec,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "dev /dev devtmpfs rw,nosuid,relatime,size=8100832k,nr_inodes=2025208,mode=755 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "run /run tmpfs rw,nosuid,nodev,relatime,mode=755 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "efivarfs /sys/firmware/efi/efivars efivarfs rw,nosuid,nodev,noexec,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "/dev/sdb1 /run/miso/bootmnt iso9660 ro,relatime,nojoliet,check=s,map=n,blocksize=2048,iocharset=default 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cowspace /run/miso/cowspace tmpfs rw,relatime,size=262144k,mode=755 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "overlay_root /run/miso/overlay_root tmpfs rw,relatime,size=12189136k,mode=755 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "/dev/loop0 /run/miso/sfs/livefs squashfs ro,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "/dev/loop1 /run/miso/sfs/mhwdfs squashfs ro,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "/dev/loop2 /run/miso/sfs/desktopfs squashfs ro,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "/dev/loop3 /run/miso/sfs/rootfs squashfs ro,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "overlay / overlay rw,relatime,lowerdir=/run/miso/sfs/livefs:/run/miso/sfs/mhwdfs:/run/miso/sfs/desktopfs:/run/miso/sfs/rootfs,upperdir=/run/miso/overlay_root/upper,workdir=/run/miso/overlay_root/work,index=off 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "securityfs /sys/kernel/security securityfs rw,nosuid,nodev,noexec,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "tmpfs /dev/shm tmpfs rw,nosuid,nodev 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "devpts /dev/pts devpts rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "tmpfs /sys/fs/cgroup tmpfs ro,nosuid,nodev,noexec,mode=755 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup2 /sys/fs/cgroup/unified cgroup2 rw,nosuid,nodev,noexec,relatime,nsdelegate 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/systemd cgroup rw,nosuid,nodev,noexec,relatime,xattr,name=systemd 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "pstore /sys/fs/pstore pstore rw,nosuid,nodev,noexec,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "none /sys/fs/bpf bpf rw,nosuid,nodev,noexec,relatime,mode=700 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/net_cls,net_prio cgroup rw,nosuid,nodev,noexec,relatime,net_cls,net_prio 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/freezer cgroup rw,nosuid,nodev,noexec,relatime,freezer 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/memory cgroup rw,nosuid,nodev,noexec,relatime,memory 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/cpu,cpuacct cgroup rw,nosuid,nodev,noexec,relatime,cpu,cpuacct 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/perf_event cgroup rw,nosuid,nodev,noexec,relatime,perf_event 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/hugetlb cgroup rw,nosuid,nodev,noexec,relatime,hugetlb 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/rdma cgroup rw,nosuid,nodev,noexec,relatime,rdma 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/pids cgroup rw,nosuid,nodev,noexec,relatime,pids 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/blkio cgroup rw,nosuid,nodev,noexec,relatime,blkio 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/cpuset cgroup rw,nosuid,nodev,noexec,relatime,cpuset 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "cgroup /sys/fs/cgroup/devices cgroup rw,nosuid,nodev,noexec,relatime,devices 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "systemd-1 /proc/sys/fs/binfmt_misc autofs rw,relatime,fd=29,pgrp=1,timeout=0,minproto=5,maxproto=5,direct,pipe_ino=18445 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "debugfs /sys/kernel/debug debugfs rw,nosuid,nodev,noexec,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "tracefs /sys/kernel/tracing tracefs rw,nosuid,nodev,noexec,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "mqueue /dev/mqueue mqueue rw,nosuid,nodev,noexec,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "tmpfs /tmp tmpfs rw,nosuid,nodev 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "hugetlbfs /dev/hugepages hugetlbfs rw,relatime,pagesize=2M 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "configfs /sys/kernel/config configfs rw,nosuid,nodev,noexec,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "tmpfs /etc/pacman.d/gnupg tmpfs rw,relatime,mode=755 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "tmpfs /run/user/1000 tmpfs rw,nosuid,nodev,relatime,size=1625216k,mode=700,uid=1000,gid=1000 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "fusectl /sys/fs/fuse/connections fusectl rw,nosuid,nodev,noexec,relatime 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    "gvfsd-fuse /run/user/1000/gvfs fuse.gvfsd-fuse rw,nosuid,nodev,relatime,user_id=1000,group_id=1000 0 0" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearTempMountsJob::exec()
+    ClearTempMountsJob finished. Here's what was done:
+ "" 
+2020-08-19 - 12:40:44 [8]: [JOBQUEUE]: Progress for Job[ 0 ]:  100 % completed 
+2020-08-19 - 12:40:44 [8]: [JOBQUEUE]: Progress Overall:  0 % (accumulated) +  2.43902 % (this job) =  2.43902 % (total) 
+2020-08-19 - 12:40:44 [8]: [JOBQUEUE]: Progress for Job[ 1 ]:  0 % completed 
+2020-08-19 - 12:40:44 [8]: [JOBQUEUE]: Progress Overall:  2.43902 % (accumulated) +  0 % (this job) =  2.43902 % (total) 
+2020-08-19 - 12:40:44 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Retirer les montages pour les opérations de partitionnement sur /dev/sda"  (there are 30  left) 
+2020-08-19 - 12:40:44 [6]: QStringList getPartitionsForDevice(const QString&)
+    Reading from "/proc/partitions" 
+2020-08-19 - 12:40:44 [6]: virtual Calamares::JobResult ClearMountsJob::exec()
+    ClearMountsJob finished. Here's what was done:
+ "" 
+2020-08-19 - 12:40:44 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:44 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:44 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:44 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:44 [8]: [JOBQUEUE]: Progress for Job[ 1 ]:  100 % completed 
+2020-08-19 - 12:40:44 [8]: [JOBQUEUE]: Progress Overall:  2.43902 % (accumulated) +  2.43902 % (this job) =  4.87805 % (total) 
+2020-08-19 - 12:40:44 [8]: [JOBQUEUE]: Progress for Job[ 2 ]:  0 % completed 
+2020-08-19 - 12:40:44 [8]: [JOBQUEUE]: Progress Overall:  4.87805 % (accumulated) +  0 % (this job) =  4.87805 % (total) 
+2020-08-19 - 12:40:44 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Formater la partition /dev/sda1 (système de fichiers : fat32, taille : 256 Mio) sur Micron 1100 MTFDDAV512TBN."  (there are 30  left) 
+2020-08-19 - 12:40:46 [8]: [JOBQUEUE]: Progress for Job[ 2 ]:  100 % completed 
+2020-08-19 - 12:40:46 [8]: [JOBQUEUE]: Progress Overall:  4.87805 % (accumulated) +  2.43902 % (this job) =  7.31707 % (total) 
+2020-08-19 - 12:40:46 [8]: [JOBQUEUE]: Progress for Job[ 3 ]:  0 % completed 
+2020-08-19 - 12:40:46 [8]: [JOBQUEUE]: Progress Overall:  7.31707 % (accumulated) +  0 % (this job) =  7.31707 % (total) 
+2020-08-19 - 12:40:46 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Formater la partition /dev/sda2 (système de fichiers : linuxswap, taille : 8192 Mio) sur Micron 1100 MTFDDAV512TBN."  (there are 30  left) 
+2020-08-19 - 12:40:47 [8]: [JOBQUEUE]: Progress for Job[ 3 ]:  100 % completed 
+2020-08-19 - 12:40:47 [8]: [JOBQUEUE]: Progress Overall:  7.31707 % (accumulated) +  2.43902 % (this job) =  9.7561 % (total) 
+2020-08-19 - 12:40:47 [8]: [JOBQUEUE]: Progress for Job[ 4 ]:  0 % completed 
+2020-08-19 - 12:40:47 [8]: [JOBQUEUE]: Progress Overall:  9.7561 % (accumulated) +  0 % (this job) =  9.7561 % (total) 
+2020-08-19 - 12:40:47 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Formater la partition /dev/sda3 (système de fichiers : ext4, taille : 30720 Mio) sur Micron 1100 MTFDDAV512TBN."  (there are 30  left) 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress for Job[ 4 ]:  100 % completed 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress Overall:  9.7561 % (accumulated) +  2.43902 % (this job) =  12.1951 % (total) 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress for Job[ 5 ]:  0 % completed 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress Overall:  12.1951 % (accumulated) +  0 % (this job) =  12.1951 % (total) 
+2020-08-19 - 12:40:51 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Configurer les informations de la partition"  (there are 30  left) 
+2020-08-19 - 12:40:51 [6]: QVariantList FillGlobalStorageJob::createPartitionList() const
+    Building partition information map 
+2020-08-19 - 12:40:51 [6]:  ..  partitions on "/dev/sda" 
+2020-08-19 - 12:40:51 [6]:  ..  mapping for "/dev/sda1" "/dev/sda1" 
+     mountPoint: :   "/boot/efi" 
+     fs: :   "fat32" 
+     fsName :   "fat32" 
+     uuid :   "1AD3-2925" 
+     claimed :   "false" 
+2020-08-19 - 12:40:51 [6]:  ..  mapping for "/dev/sda2" "/dev/sda2" 
+     mountPoint: :   "" 
+     fs: :   "linuxswap" 
+     fsName :   "linuxswap" 
+     uuid :   "5c87f2e6-a740-49bc-a5e7-f89420c345aa" 
+     claimed :   "false" 
+2020-08-19 - 12:40:51 [6]:  ..  mapping for "/dev/sda3" "/dev/sda3" 
+     mountPoint: :   "/" 
+     fs: :   "ext4" 
+     fsName :   "ext4" 
+     uuid :   "efdfc173-ee90-41c9-896c-210df6df4157" 
+     claimed :   "false" 
+2020-08-19 - 12:40:51 [6]:  ..  mapping for "/dev/sda5" "/dev/sda5" 
+     mountPoint: :   "/home" 
+     fs: :   "ext4" 
+     fsName :   "ext4" 
+     uuid :   "ed94359b-78fa-4756-a6e1-cad8cfcbfa32" 
+     claimed :   "false" 
+2020-08-19 - 12:40:51 [6]:  ..  mapping for "/dev/sda4" "/dev/sda4" 
+     mountPoint: :   "/mnt/data" 
+     fs: :   "ext4" 
+     fsName :   "ext4" 
+     uuid :   "fc439d46-b271-42f5-b135-4abeb7c9757a" 
+     claimed :   "false" 
+2020-08-19 - 12:40:51 [6]: virtual Calamares::JobResult FillGlobalStorageJob::exec()
+    Saving partition information map to GlobalStorage["partitions"] 
+2020-08-19 - 12:40:51 [6]: virtual Calamares::JobResult FillGlobalStorageJob::exec()
+    FillGlobalStorageJob writing empty bootLoader value 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress for Job[ 5 ]:  100 % completed 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress Overall:  12.1951 % (accumulated) +  2.43902 % (this job) =  14.6341 % (total) 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress for Job[ 6 ]:  0 % completed 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress Overall:  14.6341 % (accumulated) +  0 % (this job) =  14.6341 % (total) 
+2020-08-19 - 12:40:51 [6]: virtual void Calamares::JobThread::run()
+    Starting job "mount"  (there are 30  left) 
+2020-08-19 - 12:40:51 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/mount/main.py" 
+2020-08-19 - 12:40:51 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:40:51 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:40:51 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "mount" = "Montage des partitions." 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress for Job[ 6 ]:  0 % completed 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress Overall:  14.6341 % (accumulated) +  0 % (this job) =  14.6341 % (total) 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-t", "ext4", "/dev/sda3", "/tmp/calamares-root-n23m1kgs/") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-t", "vfat", "/dev/sda1", "/tmp/calamares-root-n23m1kgs/boot/efi") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-o", "bind", "/dev", "/tmp/calamares-root-n23m1kgs/dev") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-t", "ext4", "/dev/sda5", "/tmp/calamares-root-n23m1kgs/home") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-t", "ext4", "/dev/sda4", "/tmp/calamares-root-n23m1kgs/mnt/data") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-t", "proc", "proc", "/tmp/calamares-root-n23m1kgs/proc") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-t", "tmpfs", "tmpfs", "/tmp/calamares-root-n23m1kgs/run") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-o", "bind", "/run/udev", "/tmp/calamares-root-n23m1kgs/run/udev") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-t", "sysfs", "sys", "/tmp/calamares-root-n23m1kgs/sys") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-t", "efivarfs", "efivarfs", "/tmp/calamares-root-n23m1kgs/sys/firmware/efi/efivars") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress for Job[ 6 ]:  100 % completed 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress Overall:  14.6341 % (accumulated) +  2.43902 % (this job) =  17.0732 % (total) 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  0 % completed 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  0 % (this job) =  17.0732 % (total) 
+2020-08-19 - 12:40:51 [6]: virtual void Calamares::JobThread::run()
+    Starting job "unpackfs"  (there are 30  left) 
+2020-08-19 - 12:40:51 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/unpackfs/main.py" 
+2020-08-19 - 12:40:51 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:40:51 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:40:51 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "unpackfs" = "Remplir les systèmes de fichiers." 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  0 % completed 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  0 % (this job) =  17.0732 % (total) 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-t", "squashfs", "-o", "loop", "/run/miso/bootmnt/manjaro/x86_64/rootfs.sfs", "/tmp/tmp2mgv6k0q/rootfs") 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  0 % completed 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  0 % (this job) =  17.0732 % (total) 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:40:51 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  0 % completed 
+2020-08-19 - 12:40:51 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  0 % (this job) =  17.0732 % (total) 
+2020-08-19 - 12:40:52 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  0.500386 % completed 
+2020-08-19 - 12:40:52 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  0.146454 % (this job) =  17.2196 % (total) 
+2020-08-19 - 12:40:52 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  1.00077 % completed 
+2020-08-19 - 12:40:52 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  0.292909 % (this job) =  17.3661 % (total) 
+2020-08-19 - 12:40:53 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  1.50116 % completed 
+2020-08-19 - 12:40:53 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  0.439363 % (this job) =  17.5125 % (total) 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  2.00154 % completed 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  0.585818 % (this job) =  17.659 % (total) 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  2.54384 % completed 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  0.744537 % (this job) =  17.8177 % (total) 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  3.04422 % completed 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  0.890992 % (this job) =  17.9642 % (total) 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  3.54461 % completed 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  1.03745 % (this job) =  18.1106 % (total) 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  4.04499 % completed 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  1.1839 % (this job) =  18.2571 % (total) 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  4.54538 % completed 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  1.33036 % (this job) =  18.4035 % (total) 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  5.04577 % completed 
+2020-08-19 - 12:40:54 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  1.47681 % (this job) =  18.55 % (total) 
+2020-08-19 - 12:40:56 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  5.54615 % completed 
+2020-08-19 - 12:40:56 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  1.62326 % (this job) =  18.6964 % (total) 
+2020-08-19 - 12:40:58 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  6.04654 % completed 
+2020-08-19 - 12:40:58 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  1.76972 % (this job) =  18.8429 % (total) 
+2020-08-19 - 12:41:03 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  6.54692 % completed 
+2020-08-19 - 12:41:03 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  1.91617 % (this job) =  18.9893 % (total) 
+2020-08-19 - 12:41:04 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  7.04731 % completed 
+2020-08-19 - 12:41:04 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  2.06263 % (this job) =  19.1358 % (total) 
+2020-08-19 - 12:41:08 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  7.56331 % completed 
+2020-08-19 - 12:41:08 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  2.21365 % (this job) =  19.2868 % (total) 
+2020-08-19 - 12:41:09 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  8.06369 % completed 
+2020-08-19 - 12:41:09 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  2.36011 % (this job) =  19.4333 % (total) 
+2020-08-19 - 12:41:10 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  8.56408 % completed 
+2020-08-19 - 12:41:10 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  2.50656 % (this job) =  19.5797 % (total) 
+2020-08-19 - 12:41:10 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  9.06447 % completed 
+2020-08-19 - 12:41:10 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  2.65301 % (this job) =  19.7262 % (total) 
+2020-08-19 - 12:41:10 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  9.56485 % completed 
+2020-08-19 - 12:41:10 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  2.79947 % (this job) =  19.8726 % (total) 
+2020-08-19 - 12:41:11 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  10.0652 % completed 
+2020-08-19 - 12:41:11 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  2.94592 % (this job) =  20.0191 % (total) 
+2020-08-19 - 12:41:12 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  10.5656 % completed 
+2020-08-19 - 12:41:12 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  3.09238 % (this job) =  20.1655 % (total) 
+2020-08-19 - 12:41:12 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  11.066 % completed 
+2020-08-19 - 12:41:12 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  3.23883 % (this job) =  20.312 % (total) 
+2020-08-19 - 12:41:12 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  11.5664 % completed 
+2020-08-19 - 12:41:12 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  3.38529 % (this job) =  20.4585 % (total) 
+2020-08-19 - 12:41:12 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  12.0668 % completed 
+2020-08-19 - 12:41:12 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  3.53174 % (this job) =  20.6049 % (total) 
+2020-08-19 - 12:41:12 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  12.5672 % completed 
+2020-08-19 - 12:41:12 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  3.6782 % (this job) =  20.7514 % (total) 
+2020-08-19 - 12:41:13 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  13.0676 % completed 
+2020-08-19 - 12:41:13 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  3.82465 % (this job) =  20.8978 % (total) 
+2020-08-19 - 12:41:13 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  13.5885 % completed 
+2020-08-19 - 12:41:13 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  3.97712 % (this job) =  21.0503 % (total) 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  14.0889 % completed 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  4.12357 % (this job) =  21.1967 % (total) 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  14.5893 % completed 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  4.27003 % (this job) =  21.3432 % (total) 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  15.0896 % completed 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  4.41648 % (this job) =  21.4897 % (total) 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  15.59 % completed 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  4.56294 % (this job) =  21.6361 % (total) 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  16.0904 % completed 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  4.70939 % (this job) =  21.7826 % (total) 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  16.5908 % completed 
+2020-08-19 - 12:41:14 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  4.85584 % (this job) =  21.929 % (total) 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  17.0912 % completed 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  5.0023 % (this job) =  22.0755 % (total) 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  17.5916 % completed 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  5.14875 % (this job) =  22.2219 % (total) 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  18.092 % completed 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  5.29521 % (this job) =  22.3684 % (total) 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  18.5923 % completed 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  5.44166 % (this job) =  22.5148 % (total) 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  19.0927 % completed 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  5.58812 % (this job) =  22.6613 % (total) 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  19.5931 % completed 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  5.73457 % (this job) =  22.8077 % (total) 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  20.0935 % completed 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  5.88103 % (this job) =  22.9542 % (total) 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  20.5939 % completed 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  6.02748 % (this job) =  23.1007 % (total) 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  21.0943 % completed 
+2020-08-19 - 12:41:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  6.17393 % (this job) =  23.2471 % (total) 
+2020-08-19 - 12:41:17 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  21.5947 % completed 
+2020-08-19 - 12:41:17 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  6.32039 % (this job) =  23.3936 % (total) 
+2020-08-19 - 12:41:17 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  22.095 % completed 
+2020-08-19 - 12:41:17 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  6.46684 % (this job) =  23.54 % (total) 
+2020-08-19 - 12:41:17 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  22.5954 % completed 
+2020-08-19 - 12:41:17 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  6.6133 % (this job) =  23.6865 % (total) 
+2020-08-19 - 12:41:17 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  23.0958 % completed 
+2020-08-19 - 12:41:17 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  6.75975 % (this job) =  23.8329 % (total) 
+2020-08-19 - 12:41:18 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  23.5962 % completed 
+2020-08-19 - 12:41:18 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  6.90621 % (this job) =  23.9794 % (total) 
+2020-08-19 - 12:41:18 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  24.0966 % completed 
+2020-08-19 - 12:41:18 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  7.05266 % (this job) =  24.1258 % (total) 
+2020-08-19 - 12:41:18 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  24.597 % completed 
+2020-08-19 - 12:41:18 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  7.19912 % (this job) =  24.2723 % (total) 
+2020-08-19 - 12:41:18 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  25.0982 % completed 
+2020-08-19 - 12:41:18 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  7.34581 % (this job) =  24.419 % (total) 
+2020-08-19 - 12:41:19 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  25.5986 % completed 
+2020-08-19 - 12:41:19 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  7.49227 % (this job) =  24.5654 % (total) 
+2020-08-19 - 12:41:19 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  26.099 % completed 
+2020-08-19 - 12:41:19 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  7.63872 % (this job) =  24.7119 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  26.5993 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  7.78517 % (this job) =  24.8583 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  27.0997 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  7.93163 % (this job) =  25.0048 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  27.6001 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  8.07808 % (this job) =  25.1513 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  28.1013 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  8.22478 % (this job) =  25.2979 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  28.6017 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  8.37123 % (this job) =  25.4444 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  29.1054 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  8.51865 % (this job) =  25.5918 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  29.6058 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  8.6651 % (this job) =  25.7383 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  30.13 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  8.81853 % (this job) =  25.8917 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  30.6304 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  8.96499 % (this job) =  26.0382 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  31.1406 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  9.11433 % (this job) =  26.1875 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  31.641 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  9.26078 % (this job) =  26.334 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  32.1414 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  9.40724 % (this job) =  26.4804 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  32.6418 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  9.55369 % (this job) =  26.6269 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  33.1496 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  9.70231 % (this job) =  26.7755 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  33.6499 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  9.84876 % (this job) =  26.9219 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  34.1503 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  9.99522 % (this job) =  27.0684 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  34.6507 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  10.1417 % (this job) =  27.2148 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  35.1511 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  10.2881 % (this job) =  27.3613 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  35.6515 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  10.4346 % (this job) =  27.5078 % (total) 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  36.1519 % completed 
+2020-08-19 - 12:41:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  10.581 % (this job) =  27.6542 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  36.6539 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  10.728 % (this job) =  27.8011 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  37.1543 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  10.8744 % (this job) =  27.9476 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  37.6547 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  11.0209 % (this job) =  28.0941 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  38.1551 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  11.1673 % (this job) =  28.2405 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  38.6554 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  11.3138 % (this job) =  28.387 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  39.1558 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  11.4602 % (this job) =  28.5334 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  39.6562 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  11.6067 % (this job) =  28.6799 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  40.1566 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  11.7532 % (this job) =  28.8263 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  40.657 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  11.8996 % (this job) =  28.9728 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  41.1574 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  12.0461 % (this job) =  29.1192 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  41.6578 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  12.1925 % (this job) =  29.2657 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  42.1582 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  12.339 % (this job) =  29.4121 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  42.6585 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  12.4854 % (this job) =  29.5586 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  43.1589 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  12.6319 % (this job) =  29.7051 % (total) 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  43.6601 % completed 
+2020-08-19 - 12:41:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  12.7786 % (this job) =  29.8517 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  44.163 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  12.9258 % (this job) =  29.9989 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  44.6691 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  13.0739 % (this job) =  30.1471 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  45.172 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  13.2211 % (this job) =  30.2942 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  45.6724 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  13.3675 % (this job) =  30.4407 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  46.1727 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  13.514 % (this job) =  30.5871 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  46.674 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  13.6607 % (this job) =  30.7338 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  47.1752 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  13.8074 % (this job) =  30.8805 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  47.6755 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  13.9538 % (this job) =  31.027 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  48.1759 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  14.1003 % (this job) =  31.1734 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  48.6763 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  14.2467 % (this job) =  31.3199 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  49.3049 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  14.4307 % (this job) =  31.5039 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  49.8053 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  14.5772 % (this job) =  31.6503 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  49.9869 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  14.6303 % (this job) =  31.7035 % (total) 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  50 % completed 
+2020-08-19 - 12:41:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  14.6341 % (this job) =  31.7073 % (total) 
+2020-08-19 - 12:41:22 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("mount", "-t", "squashfs", "-o", "loop", "/run/miso/bootmnt/manjaro/x86_64/desktopfs.sfs", "/tmp/tmp2mgv6k0q/desktopfs") 
+2020-08-19 - 12:41:22 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:41:22 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("udevadm", "settle") 
+2020-08-19 - 12:41:22 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:41:22 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "env" ("sync") 
+2020-08-19 - 12:41:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:41:26 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  50 % completed 
+2020-08-19 - 12:41:26 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  14.6341 % (this job) =  31.7073 % (total) 
+2020-08-19 - 12:41:28 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  50.5001 % completed 
+2020-08-19 - 12:41:28 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  14.7805 % (this job) =  31.8537 % (total) 
+2020-08-19 - 12:41:30 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  51.0002 % completed 
+2020-08-19 - 12:41:30 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  14.9269 % (this job) =  32.0001 % (total) 
+2020-08-19 - 12:41:31 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  51.5003 % completed 
+2020-08-19 - 12:41:31 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  15.0733 % (this job) =  32.1464 % (total) 
+2020-08-19 - 12:41:31 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  52.0004 % completed 
+2020-08-19 - 12:41:31 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  15.2196 % (this job) =  32.2928 % (total) 
+2020-08-19 - 12:41:31 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  52.5005 % completed 
+2020-08-19 - 12:41:31 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  15.366 % (this job) =  32.4392 % (total) 
+2020-08-19 - 12:41:31 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  53.0012 % completed 
+2020-08-19 - 12:41:31 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  15.5125 % (this job) =  32.5857 % (total) 
+2020-08-19 - 12:41:32 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  53.5013 % completed 
+2020-08-19 - 12:41:32 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  15.6589 % (this job) =  32.7321 % (total) 
+2020-08-19 - 12:41:35 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  54.0014 % completed 
+2020-08-19 - 12:41:35 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  15.8053 % (this job) =  32.8785 % (total) 
+2020-08-19 - 12:41:39 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  54.5015 % completed 
+2020-08-19 - 12:41:39 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  15.9517 % (this job) =  33.0248 % (total) 
+2020-08-19 - 12:41:46 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  55.0016 % completed 
+2020-08-19 - 12:41:46 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  16.098 % (this job) =  33.1712 % (total) 
+2020-08-19 - 12:41:49 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  55.5019 % completed 
+2020-08-19 - 12:41:49 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  16.2445 % (this job) =  33.3176 % (total) 
+2020-08-19 - 12:41:50 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  56.002 % completed 
+2020-08-19 - 12:41:50 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  16.3908 % (this job) =  33.464 % (total) 
+2020-08-19 - 12:41:51 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  56.5021 % completed 
+2020-08-19 - 12:41:51 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  16.5372 % (this job) =  33.6104 % (total) 
+2020-08-19 - 12:41:52 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  57.0022 % completed 
+2020-08-19 - 12:41:52 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  16.6836 % (this job) =  33.7567 % (total) 
+2020-08-19 - 12:41:52 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  57.5023 % completed 
+2020-08-19 - 12:41:52 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  16.8299 % (this job) =  33.9031 % (total) 
+2020-08-19 - 12:41:52 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  58.0024 % completed 
+2020-08-19 - 12:41:52 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  16.9763 % (this job) =  34.0495 % (total) 
+2020-08-19 - 12:41:53 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  58.5027 % completed 
+2020-08-19 - 12:41:53 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  17.1227 % (this job) =  34.1959 % (total) 
+2020-08-19 - 12:41:53 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  59.0028 % completed 
+2020-08-19 - 12:41:53 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  17.2691 % (this job) =  34.3423 % (total) 
+2020-08-19 - 12:41:59 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  59.5037 % completed 
+2020-08-19 - 12:41:59 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  17.4157 % (this job) =  34.4889 % (total) 
+2020-08-19 - 12:42:03 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  60.0038 % completed 
+2020-08-19 - 12:42:03 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  17.5621 % (this job) =  34.6353 % (total) 
+2020-08-19 - 12:42:06 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  60.5039 % completed 
+2020-08-19 - 12:42:06 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  17.7085 % (this job) =  34.7816 % (total) 
+2020-08-19 - 12:42:07 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  61.004 % completed 
+2020-08-19 - 12:42:07 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  17.8548 % (this job) =  34.928 % (total) 
+2020-08-19 - 12:42:09 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  61.5041 % completed 
+2020-08-19 - 12:42:09 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  18.0012 % (this job) =  35.0744 % (total) 
+2020-08-19 - 12:42:10 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  62.0042 % completed 
+2020-08-19 - 12:42:10 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  18.1476 % (this job) =  35.2207 % (total) 
+2020-08-19 - 12:42:12 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  62.5043 % completed 
+2020-08-19 - 12:42:12 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  18.2939 % (this job) =  35.3671 % (total) 
+2020-08-19 - 12:42:12 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  63.0044 % completed 
+2020-08-19 - 12:42:12 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  18.4403 % (this job) =  35.5135 % (total) 
+2020-08-19 - 12:42:12 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  63.5045 % completed 
+2020-08-19 - 12:42:12 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  18.5867 % (this job) =  35.6598 % (total) 
+2020-08-19 - 12:42:13 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  64.0046 % completed 
+2020-08-19 - 12:42:13 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  18.733 % (this job) =  35.8062 % (total) 
+2020-08-19 - 12:42:13 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  64.5047 % completed 
+2020-08-19 - 12:42:13 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  18.8794 % (this job) =  35.9526 % (total) 
+2020-08-19 - 12:42:14 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  65.0048 % completed 
+2020-08-19 - 12:42:14 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  19.0258 % (this job) =  36.099 % (total) 
+2020-08-19 - 12:42:15 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  65.5049 % completed 
+2020-08-19 - 12:42:15 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  19.1722 % (this job) =  36.2453 % (total) 
+2020-08-19 - 12:42:15 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  66.005 % completed 
+2020-08-19 - 12:42:15 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  19.3185 % (this job) =  36.3917 % (total) 
+2020-08-19 - 12:42:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  66.5051 % completed 
+2020-08-19 - 12:42:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  19.4649 % (this job) =  36.5381 % (total) 
+2020-08-19 - 12:42:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  67.0051 % completed 
+2020-08-19 - 12:42:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  19.6113 % (this job) =  36.6844 % (total) 
+2020-08-19 - 12:42:16 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  67.5063 % completed 
+2020-08-19 - 12:42:16 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  19.7579 % (this job) =  36.8311 % (total) 
+2020-08-19 - 12:42:17 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  68.0064 % completed 
+2020-08-19 - 12:42:17 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  19.9043 % (this job) =  36.9775 % (total) 
+2020-08-19 - 12:42:18 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  68.5065 % completed 
+2020-08-19 - 12:42:18 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  20.0507 % (this job) =  37.1238 % (total) 
+2020-08-19 - 12:42:18 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  69.0066 % completed 
+2020-08-19 - 12:42:18 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  20.197 % (this job) =  37.2702 % (total) 
+2020-08-19 - 12:42:18 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  69.5067 % completed 
+2020-08-19 - 12:42:18 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  20.3434 % (this job) =  37.4166 % (total) 
+2020-08-19 - 12:42:18 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  70.0068 % completed 
+2020-08-19 - 12:42:18 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  20.4898 % (this job) =  37.563 % (total) 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  70.5069 % completed 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  20.6362 % (this job) =  37.7093 % (total) 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  71.008 % completed 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  20.7828 % (this job) =  37.856 % (total) 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  71.5089 % completed 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  20.9294 % (this job) =  38.0026 % (total) 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  72.0095 % completed 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  21.0759 % (this job) =  38.1491 % (total) 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  72.5096 % completed 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  21.2223 % (this job) =  38.2955 % (total) 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  73.0096 % completed 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  21.3687 % (this job) =  38.4418 % (total) 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  73.5097 % completed 
+2020-08-19 - 12:42:19 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  21.515 % (this job) =  38.5882 % (total) 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  74.0098 % completed 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  21.6614 % (this job) =  38.7346 % (total) 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  74.5099 % completed 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  21.8078 % (this job) =  38.881 % (total) 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  75.01 % completed 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  21.9542 % (this job) =  39.0273 % (total) 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  75.5101 % completed 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  22.1005 % (this job) =  39.1737 % (total) 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  76.0102 % completed 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  22.2469 % (this job) =  39.3201 % (total) 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  76.5162 % completed 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  22.395 % (this job) =  39.4681 % (total) 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  77.0163 % completed 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  22.5413 % (this job) =  39.6145 % (total) 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  77.5166 % completed 
+2020-08-19 - 12:42:20 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  22.6878 % (this job) =  39.7609 % (total) 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  78.0167 % completed 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  22.8341 % (this job) =  39.9073 % (total) 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  78.522 % completed 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  22.982 % (this job) =  40.0552 % (total) 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  79.0221 % completed 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  23.1284 % (this job) =  40.2016 % (total) 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  79.5222 % completed 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  23.2748 % (this job) =  40.348 % (total) 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  80.0227 % completed 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  23.4213 % (this job) =  40.4944 % (total) 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  80.5228 % completed 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  23.5676 % (this job) =  40.6408 % (total) 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  81.0258 % completed 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  23.7149 % (this job) =  40.788 % (total) 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  81.5259 % completed 
+2020-08-19 - 12:42:21 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  23.8612 % (this job) =  40.9344 % (total) 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  82.026 % completed 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  24.0076 % (this job) =  41.0808 % (total) 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  82.5261 % completed 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  24.154 % (this job) =  41.2272 % (total) 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  83.0262 % completed 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  24.3004 % (this job) =  41.3735 % (total) 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  83.5263 % completed 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  24.4467 % (this job) =  41.5199 % (total) 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  84.0293 % completed 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  24.5939 % (this job) =  41.6671 % (total) 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  84.5729 % completed 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  24.753 % (this job) =  41.8262 % (total) 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  85.0732 % completed 
+2020-08-19 - 12:42:22 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  24.8995 % (this job) =  41.9726 % (total) 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  85.5733 % completed 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  25.0458 % (this job) =  42.119 % (total) 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  86.0734 % completed 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  25.1922 % (this job) =  42.2654 % (total) 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  86.5735 % completed 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  25.3386 % (this job) =  42.4117 % (total) 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  87.0738 % completed 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  25.485 % (this job) =  42.5582 % (total) 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  87.5762 % completed 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  25.6321 % (this job) =  42.7052 % (total) 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  88.0817 % completed 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  25.78 % (this job) =  42.8532 % (total) 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  88.5822 % completed 
+2020-08-19 - 12:42:23 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  25.9265 % (this job) =  42.9997 % (total) 
+2020-08-19 - 12:42:24 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  89.0823 % completed 
+2020-08-19 - 12:42:24 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  26.0729 % (this job) =  43.146 % (total) 
+2020-08-19 - 12:42:24 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  89.5843 % completed 
+2020-08-19 - 12:42:24 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  26.2198 % (this job) =  43.293 % (total) 
+2020-08-19 - 12:42:24 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  90.0844 % completed 
+2020-08-19 - 12:42:24 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  26.3662 % (this job) =  43.4393 % (total) 
+2020-08-19 - 12:42:25 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  90.5845 % completed 
+2020-08-19 - 12:42:25 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  26.5125 % (this job) =  43.5857 % (total) 
+2020-08-19 - 12:42:26 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  91.0846 % completed 
+2020-08-19 - 12:42:26 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  26.6589 % (this job) =  43.7321 % (total) 
+2020-08-19 - 12:42:28 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  91.5847 % completed 
+2020-08-19 - 12:42:28 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  26.8053 % (this job) =  43.8784 % (total) 
+2020-08-19 - 12:42:29 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  92.0848 % completed 
+2020-08-19 - 12:42:29 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  26.9516 % (this job) =  44.0248 % (total) 
+2020-08-19 - 12:42:31 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  92.5849 % completed 
+2020-08-19 - 12:42:31 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  27.098 % (this job) =  44.1712 % (total) 
+2020-08-19 - 12:42:32 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  93.085 % completed 
+2020-08-19 - 12:42:32 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  27.2444 % (this job) =  44.3176 % (total) 
+2020-08-19 - 12:42:32 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  93.5851 % completed 
+2020-08-19 - 12:42:32 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  27.3907 % (this job) =  44.4639 % (total) 
+2020-08-19 - 12:42:32 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  94.0852 % completed 
+2020-08-19 - 12:42:32 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  27.5371 % (this job) =  44.6103 % (total) 
+2020-08-19 - 12:42:32 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  94.5853 % completed 
+2020-08-19 - 12:42:32 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  27.6835 % (this job) =  44.7567 % (total) 
+2020-08-19 - 12:42:34 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  95.0853 % completed 
+2020-08-19 - 12:42:34 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  27.8299 % (this job) =  44.903 % (total) 
+2020-08-19 - 12:42:34 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  95.5854 % completed 
+2020-08-19 - 12:42:34 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  27.9762 % (this job) =  45.0494 % (total) 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  96.0855 % completed 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  28.1226 % (this job) =  45.1958 % (total) 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  96.5856 % completed 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  28.269 % (this job) =  45.3421 % (total) 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  97.0857 % completed 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  28.4153 % (this job) =  45.4885 % (total) 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  97.5858 % completed 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  28.5617 % (this job) =  45.6349 % (total) 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  98.0859 % completed 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  28.7081 % (this job) =  45.7812 % (total) 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  98.586 % completed 
+2020-08-19 - 12:42:35 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  28.8544 % (this job) =  45.9276 % (total) 
+2020-08-19 - 12:42:36 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  99.0861 % completed 
+2020-08-19 - 12:42:36 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  29.0008 % (this job) =  46.074 % (total) 
+2020-08-19 - 12:42:36 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  99.5862 % completed 
+2020-08-19 - 12:42:36 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  29.1472 % (this job) =  46.2204 % (total) 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  99.9979 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  29.2677 % (this job) =  46.3409 % (total) 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 7 ]:  100 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  17.0732 % (accumulated) +  29.2683 % (this job) =  46.3415 % (total) 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 8 ]:  0 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  46.3415 % (accumulated) +  0 % (this job) =  46.3415 % (total) 
+2020-08-19 - 12:42:37 [6]: virtual void Calamares::JobThread::run()
+    Starting job "networkcfg"  (there are 30  left) 
+2020-08-19 - 12:42:37 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/networkcfg/main.py" 
+2020-08-19 - 12:42:37 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:42:37 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:42:37 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "networkcfg" = "Sauvegarde des configuration réseau." 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 8 ]:  100 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  46.3415 % (accumulated) +  2.43902 % (this job) =  48.7805 % (total) 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 9 ]:  0 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  48.7805 % (accumulated) +  0 % (this job) =  48.7805 % (total) 
+2020-08-19 - 12:42:37 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Générer un identifiant machine."  (there are 30  left) 
+2020-08-19 - 12:42:37 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemd-machine-id-setup") 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 9 ]:  0 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  48.7805 % (accumulated) +  0 % (this job) =  48.7805 % (total) 
+2020-08-19 - 12:42:37 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:42:37 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "ln", "-sf", "/etc/machine-id", "/var/lib/dbus/machine-id") 
+2020-08-19 - 12:42:37 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 9 ]:  100 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  48.7805 % (accumulated) +  2.43902 % (this job) =  51.2195 % (total) 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 10 ]:  0 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  51.2195 % (accumulated) +  0 % (this job) =  51.2195 % (total) 
+2020-08-19 - 12:42:37 [6]: virtual void Calamares::JobThread::run()
+    Starting job "fstab"  (there are 30  left) 
+2020-08-19 - 12:42:37 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/fstab/main.py" 
+2020-08-19 - 12:42:37 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:42:37 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:42:37 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "fstab" = "Écriture du fstab." 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 10 ]:  0 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  51.2195 % (accumulated) +  0 % (this job) =  51.2195 % (total) 
+2020-08-19 - 12:42:37 [6]: [PYTHON JOB]:  "Ignoring foreign swap sda 5c87f2e6-a740-49bc-a5e7-f89420c345aa" 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 10 ]:  100 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  51.2195 % (accumulated) +  2.43902 % (this job) =  53.6585 % (total) 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 11 ]:  0 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  53.6585 % (accumulated) +  0 % (this job) =  53.6585 % (total) 
+2020-08-19 - 12:42:37 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Configurer le fuseau-horaire à Europe/Zurich"  (there are 30  left) 
+2020-08-19 - 12:42:37 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "rm", "-f", "/etc/localtime") 
+2020-08-19 - 12:42:37 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:42:37 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "ln", "-s", "/usr/share/zoneinfo/Europe/Zurich", "/etc/localtime") 
+2020-08-19 - 12:42:37 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 11 ]:  100 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  53.6585 % (accumulated) +  2.43902 % (this job) =  56.0976 % (total) 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 12 ]:  0 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  56.0976 % (accumulated) +  0 % (this job) =  56.0976 % (total) 
+2020-08-19 - 12:42:37 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Configurer le modèle de clavier à pc105, la disposition des touches à ch-fr"  (there are 30  left) 
+2020-08-19 - 12:42:37 [6]: virtual Calamares::JobResult SetKeyboardLayoutJob::exec()
+    Executing SetKeyboardLayoutJob 
+2020-08-19 - 12:42:37 [6]: QString SetKeyboardLayoutJob::findConvertedKeymap(const QString&) const
+    Looking for converted keymap in "/tmp/calamares-root-n23m1kgs/lib/kbd/keymaps/xkb" 
+2020-08-19 - 12:42:37 [6]: QString SetKeyboardLayoutJob::findLegacyKeymap() const
+    Looking for legacy keymap in QRC 
+2020-08-19 - 12:42:37 [6]:  ..  Found legacy keymap "sg" with score 11 
+2020-08-19 - 12:42:37 [6]:  ..  Found legacy keymap "fr_CH" with score 12 
+2020-08-19 - 12:42:37 [6]:  ..  Found legacy keymap "fr_CH-latin1" with score 12 
+2020-08-19 - 12:42:37 [6]: bool SetKeyboardLayoutJob::writeVConsoleData(const QString&, const QString&) const
+    Written KEYMAP= "fr_CH" to vconsole.conf 
+2020-08-19 - 12:42:37 [6]: bool SetKeyboardLayoutJob::writeX11Data(const QString&) const
+    Written XkbLayout "ch" ; XkbModel "pc105" ; XkbVariant "fr" to X.org file "/tmp/calamares-root-n23m1kgs/etc/X11/xorg.conf.d/00-keyboard.conf" 
+2020-08-19 - 12:42:37 [6]: bool SetKeyboardLayoutJob::writeDefaultKeyboardData(const QString&) const
+    Written XKBMODEL "pc105" ; XKBLAYOUT "ch" ; XKBVARIANT "fr" to /etc/default/keyboard file "/tmp/calamares-root-n23m1kgs/etc/default/keyboard" 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 12 ]:  100 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  56.0976 % (accumulated) +  2.43902 % (this job) =  58.5366 % (total) 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 13 ]:  0 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  58.5366 % (accumulated) +  0 % (this job) =  58.5366 % (total) 
+2020-08-19 - 12:42:37 [6]: virtual void Calamares::JobThread::run()
+    Starting job "localecfg"  (there are 30  left) 
+2020-08-19 - 12:42:37 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/localecfg/main.py" 
+2020-08-19 - 12:42:37 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:42:37 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:42:37 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "localecfg" = "Configuration des locales." 
+2020-08-19 - 12:42:37 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "locale-gen") 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress for Job[ 13 ]:  0 % completed 
+2020-08-19 - 12:42:37 [8]: [JOBQUEUE]: Progress Overall:  58.5366 % (accumulated) +  0 % (this job) =  58.5366 % (total) 
+2020-08-19 - 12:42:39 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:42:39 [6]: [PYTHON JOB]:  "/tmp/calamares-root-n23m1kgs/etc/locale.gen done" 
+2020-08-19 - 12:42:39 [6]: [PYTHON JOB]:  "/tmp/calamares-root-n23m1kgs/etc/locale.conf done" 
+2020-08-19 - 12:42:39 [6]: [PYTHON JOB]:  "/tmp/calamares-root-n23m1kgs/etc/default done" 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress for Job[ 13 ]:  100 % completed 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress Overall:  58.5366 % (accumulated) +  2.43902 % (this job) =  60.9756 % (total) 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress for Job[ 14 ]:  0 % completed 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress Overall:  60.9756 % (accumulated) +  0 % (this job) =  60.9756 % (total) 
+2020-08-19 - 12:42:39 [6]: virtual void Calamares::JobThread::run()
+    Starting job "luksopenswaphookcfg"  (there are 30  left) 
+2020-08-19 - 12:42:39 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/luksopenswaphookcfg/main.py" 
+2020-08-19 - 12:42:39 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:42:39 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:42:39 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "luksopenswaphookcfg" = "Configuration du swap chiffrée." 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress for Job[ 14 ]:  100 % completed 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress Overall:  60.9756 % (accumulated) +  2.43902 % (this job) =  63.4146 % (total) 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress for Job[ 15 ]:  0 % completed 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress Overall:  63.4146 % (accumulated) +  0 % (this job) =  63.4146 % (total) 
+2020-08-19 - 12:42:39 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Configuration de la clé de fichier LUKS."  (there are 30  left) 
+2020-08-19 - 12:42:39 [6]: virtual Calamares::JobResult LuksBootKeyFileJob::exec()
+    There are 0 LUKS partitions 
+2020-08-19 - 12:42:39 [6]:  ..  Nothing to do for LUKS. 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress for Job[ 15 ]:  100 % completed 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress Overall:  63.4146 % (accumulated) +  2.43902 % (this job) =  65.8537 % (total) 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress for Job[ 16 ]:  0 % completed 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress Overall:  65.8537 % (accumulated) +  0 % (this job) =  65.8537 % (total) 
+2020-08-19 - 12:42:39 [6]: virtual void Calamares::JobThread::run()
+    Starting job "initcpiocfg"  (there are 30  left) 
+2020-08-19 - 12:42:39 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/initcpiocfg/main.py" 
+2020-08-19 - 12:42:39 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:42:39 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:42:39 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "initcpiocfg" = "Configuration de mkinitcpio." 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress for Job[ 16 ]:  0 % completed 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress Overall:  65.8537 % (accumulated) +  0 % (this job) =  65.8537 % (total) 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress for Job[ 16 ]:  0 % completed 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress Overall:  65.8537 % (accumulated) +  0 % (this job) =  65.8537 % (total) 
+2020-08-19 - 12:42:39 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "sh", "-c", "which plymouth") 
+2020-08-19 - 12:42:39 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 1 
+2020-08-19 - 12:42:39 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Target cmd: ("sh", "-c", "which plymouth") output:
+ which: no plymouth in (/usr/sbin:/usr/bin:/sbin:/bin:/root/bin)
+2020-08-19 - 12:42:39 [6]: [PYTHON JOB]:  "which plymouth exit code: 1" 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress for Job[ 16 ]:  100 % completed 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress Overall:  65.8537 % (accumulated) +  2.43902 % (this job) =  68.2927 % (total) 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress for Job[ 17 ]:  0 % completed 
+2020-08-19 - 12:42:39 [8]: [JOBQUEUE]: Progress Overall:  68.2927 % (accumulated) +  0 % (this job) =  68.2927 % (total) 
+2020-08-19 - 12:42:39 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Création de l'initramfs avec mkinitcpio."  (there are 30  left) 
+2020-08-19 - 12:42:39 [6]: virtual Calamares::JobResult InitcpioJob::exec()
+    Updating initramfs with kernel "linux56" 
+2020-08-19 - 12:42:39 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "mkinitcpio", "-p", "linux56") 
+2020-08-19 - 12:42:56 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:42:56 [8]: [JOBQUEUE]: Progress for Job[ 17 ]:  100 % completed 
+2020-08-19 - 12:42:56 [8]: [JOBQUEUE]: Progress Overall:  68.2927 % (accumulated) +  2.43902 % (this job) =  70.7317 % (total) 
+2020-08-19 - 12:42:56 [8]: [JOBQUEUE]: Progress for Job[ 18 ]:  0 % completed 
+2020-08-19 - 12:42:56 [8]: [JOBQUEUE]: Progress Overall:  70.7317 % (accumulated) +  0 % (this job) =  70.7317 % (total) 
+2020-08-19 - 12:42:56 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Créer l'utilisateur bernard"  (there are 30  left) 
+2020-08-19 - 12:42:56 [6]: virtual Calamares::JobResult CreateUserJob::exec()
+    [CREATEUSER]: preparing sudoers 
+2020-08-19 - 12:42:56 [6]: virtual Calamares::JobResult CreateUserJob::exec()
+    [CREATEUSER]: preparing groups 
+2020-08-19 - 12:42:56 [6]: virtual Calamares::JobResult CreateUserJob::exec()
+    [CREATEUSER]: creating user 
+2020-08-19 - 12:42:56 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "useradd", "-m", "-U", "-s", "/bin/bash", "-c", "bernard", "bernard") 
+2020-08-19 - 12:42:56 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:42:56 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" "/tmp/calamares-root-n23m1kgs" "usermod" "-aG" "lp,network,power,sys,wheel" "bernard" 
+2020-08-19 - 12:42:56 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:42:56 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "chown", "-R", "bernard:bernard", "/home/bernard") 
+2020-08-19 - 12:43:05 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 18 ]:  100 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  70.7317 % (accumulated) +  2.43902 % (this job) =  73.1707 % (total) 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 19 ]:  0 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  73.1707 % (accumulated) +  0 % (this job) =  73.1707 % (total) 
+2020-08-19 - 12:43:05 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Définir le mot de passe pour l'utilisateur bernard"  (there are 30  left) 
+2020-08-19 - 12:43:05 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" "/tmp/calamares-root-n23m1kgs" "usermod" "-p" <password> "bernard" 
+2020-08-19 - 12:43:05 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 19 ]:  100 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  73.1707 % (accumulated) +  2.43902 % (this job) =  75.6098 % (total) 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 20 ]:  0 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  75.6098 % (accumulated) +  0 % (this job) =  75.6098 % (total) 
+2020-08-19 - 12:43:05 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Définir le mot de passe pour l'utilisateur root"  (there are 30  left) 
+2020-08-19 - 12:43:05 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" "/tmp/calamares-root-n23m1kgs" "usermod" "-p" <password> "root" 
+2020-08-19 - 12:43:05 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 20 ]:  100 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  75.6098 % (accumulated) +  2.43902 % (this job) =  78.0488 % (total) 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 21 ]:  0 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  78.0488 % (accumulated) +  0 % (this job) =  78.0488 % (total) 
+2020-08-19 - 12:43:05 [6]: virtual void Calamares::JobThread::run()
+    Starting job "Définir le nom d'hôte mamachine"  (there are 30  left) 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 21 ]:  100 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  78.0488 % (accumulated) +  2.43902 % (this job) =  80.4878 % (total) 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 22 ]:  0 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  80.4878 % (accumulated) +  0 % (this job) =  80.4878 % (total) 
+2020-08-19 - 12:43:05 [6]: virtual void Calamares::JobThread::run()
+    Starting job "displaymanager"  (there are 30  left) 
+2020-08-19 - 12:43:05 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/displaymanager/main.py" 
+2020-08-19 - 12:43:05 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:43:05 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:43:05 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from __doc__ "displaymanager" = "Configure display managers." 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 22 ]:  0 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  80.4878 % (accumulated) +  0 % (this job) =  80.4878 % (total) 
+2020-08-19 - 12:43:05 [6]: [PYTHON JOB]:  "gdm selected but not installed" 
+2020-08-19 - 12:43:05 [6]: [PYTHON JOB]:  "mdm selected but not installed" 
+2020-08-19 - 12:43:05 [6]: [PYTHON JOB]:  "sddm selected but not installed" 
+2020-08-19 - 12:43:05 [6]: [PYTHON JOB]:  "lxdm selected but not installed" 
+2020-08-19 - 12:43:05 [6]: [PYTHON JOB]:  "slim selected but not installed" 
+2020-08-19 - 12:43:05 [6]: [PYTHON JOB]:  "Using rootMountPoint '/tmp/calamares-root-n23m1kgs'" 
+2020-08-19 - 12:43:05 [6]: [PYTHON JOB]:  ".. selected DE cinnamon" 
+2020-08-19 - 12:43:05 [6]: [PYTHON JOB]:  "Unsetting autologin." 
+2020-08-19 - 12:43:05 [6]: [PYTHON JOB]:  "found greeter lightdm-slick-greeter" 
+2020-08-19 - 12:43:05 [6]: [PYTHON JOB]:  "lightdm-slick-greeter configured as greeter." 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 22 ]:  100 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  80.4878 % (accumulated) +  2.43902 % (this job) =  82.9268 % (total) 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 23 ]:  0 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  82.9268 % (accumulated) +  0 % (this job) =  82.9268 % (total) 
+2020-08-19 - 12:43:05 [6]: virtual void Calamares::JobThread::run()
+    Starting job "mhwdcfg"  (there are 30  left) 
+2020-08-19 - 12:43:05 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/mhwdcfg/main.py" 
+2020-08-19 - 12:43:05 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from __doc__ "mhwdcfg" = "Configure the hardware" 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress for Job[ 23 ]:  0 % completed 
+2020-08-19 - 12:43:05 [8]: [JOBQUEUE]: Progress Overall:  82.9268 % (accumulated) +  0 % (this job) =  82.9268 % (total) 
+2020-08-19 - 12:43:05 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "mhwd", "-a", "pci", "free", "0200", "--pmconfig", "/opt/mhwd/pacman-mhwd.conf") 
+2020-08-19 - 12:43:08 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:08 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "mhwd", "-a", "pci", "free", "0280", "--pmconfig", "/opt/mhwd/pacman-mhwd.conf") 
+2020-08-19 - 12:43:09 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:09 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "mhwd", "-a", "pci", "free", "0300", "--pmconfig", "/opt/mhwd/pacman-mhwd.conf") 
+2020-08-19 - 12:43:10 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:10 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "mhwd", "-a", "pci", "free", "0302", "--pmconfig", "/opt/mhwd/pacman-mhwd.conf") 
+2020-08-19 - 12:43:11 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:11 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "mhwd", "-a", "pci", "free", "0380", "--pmconfig", "/opt/mhwd/pacman-mhwd.conf") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 23 ]:  100 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  82.9268 % (accumulated) +  2.43902 % (this job) =  85.3659 % (total) 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 24 ]:  0 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  85.3659 % (accumulated) +  0 % (this job) =  85.3659 % (total) 
+2020-08-19 - 12:43:12 [6]: virtual void Calamares::JobThread::run()
+    Starting job "hwclock"  (there are 30  left) 
+2020-08-19 - 12:43:12 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/hwclock/main.py" 
+2020-08-19 - 12:43:12 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:43:12 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:43:12 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "hwclock" = "Configuration de l'horloge matériel." 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "hwclock", "--systohc", "--utc") 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 24 ]:  0 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  85.3659 % (accumulated) +  0 % (this job) =  85.3659 % (total) 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: [PYTHON JOB]:  "Hwclock set using RTC method." 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 24 ]:  100 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  85.3659 % (accumulated) +  2.43902 % (this job) =  87.8049 % (total) 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 25 ]:  0 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  87.8049 % (accumulated) +  0 % (this job) =  87.8049 % (total) 
+2020-08-19 - 12:43:12 [6]: virtual void Calamares::JobThread::run()
+    Starting job "services"  (there are 30  left) 
+2020-08-19 - 12:43:12 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/services/main.py" 
+2020-08-19 - 12:43:12 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:43:12 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:43:12 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "services" = "Configurer les services systemd" 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "avahi-daemon.service") 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 25 ]:  0 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  87.8049 % (accumulated) +  0 % (this job) =  87.8049 % (total) 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "bluetooth.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "cronie.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "ModemManager.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "NetworkManager.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "org.cups.cupsd.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "tlp.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "tlp-sleep.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 1 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Target cmd: ("systemctl", "enable", "tlp-sleep.service") output:
+ Failed to enable unit, unit tlp-sleep.service does not exist.
+2020-08-19 - 12:43:12 [2]: void CalamaresPython::warning(const string&)
+    WARNING:[PYTHON JOB]:  "Cannot enable systemd .service tlp-sleep" 
+2020-08-19 - 12:43:12 [2]: void CalamaresPython::warning(const string&)
+    WARNING:[PYTHON JOB]:  "systemctl enable call in chroot returned error code 1" 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "haveged.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "ufw.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "apparmor.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "snapd.apparmor.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "snapd.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "lightdm.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "enable", "graphical.target") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "systemctl", "disable", "pacman-init.service") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 25 ]:  100 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  87.8049 % (accumulated) +  2.43902 % (this job) =  90.2439 % (total) 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 26 ]:  0 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  90.2439 % (accumulated) +  0 % (this job) =  90.2439 % (total) 
+2020-08-19 - 12:43:12 [6]: virtual void Calamares::JobThread::run()
+    Starting job "grubcfg"  (there are 30  left) 
+2020-08-19 - 12:43:12 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/grubcfg/main.py" 
+2020-08-19 - 12:43:12 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:43:12 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:43:12 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "grubcfg" = "Configuration du GRUB." 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "sh", "-c", "which dracut") 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 26 ]:  0 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  90.2439 % (accumulated) +  0 % (this job) =  90.2439 % (total) 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 1 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Target cmd: ("sh", "-c", "which dracut") output:
+ which: no dracut in (/usr/sbin:/usr/bin:/sbin:/bin:/root/bin)
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "sh", "-c", "which plymouth") 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 1 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Target cmd: ("sh", "-c", "which plymouth") output:
+ which: no plymouth in (/usr/sbin:/usr/bin:/sbin:/bin:/root/bin)
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 26 ]:  100 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  90.2439 % (accumulated) +  2.43902 % (this job) =  92.6829 % (total) 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 27 ]:  0 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  92.6829 % (accumulated) +  0 % (this job) =  92.6829 % (total) 
+2020-08-19 - 12:43:12 [6]: virtual void Calamares::JobThread::run()
+    Starting job "bootloader"  (there are 30  left) 
+2020-08-19 - 12:43:12 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/bootloader/main.py" 
+2020-08-19 - 12:43:12 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:43:12 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:43:12 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "bootloader" = "Installation du bootloader." 
+2020-08-19 - 12:43:12 [6]: [PYTHON JOB]:  "Bootloader: grub (efi)" 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress for Job[ 27 ]:  0 % completed 
+2020-08-19 - 12:43:12 [8]: [JOBQUEUE]: Progress Overall:  92.6829 % (accumulated) +  0 % (this job) =  92.6829 % (total) 
+2020-08-19 - 12:43:12 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "grub-install", "--target=x86_64-efi", "--efi-directory=/boot/efi", "--bootloader-id=Manjaro", "--force") 
+2020-08-19 - 12:43:15 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:15 [6]: [PYTHON JOB]:  "UEFI Fallback: True" 
+2020-08-19 - 12:43:15 [6]: [PYTHON JOB]:  "  .. installing 'bootx64.efi' fallback firmware" 
+2020-08-19 - 12:43:15 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "grub-mkconfig", "-o", "/boot/grub/grub.cfg") 
+2020-08-19 - 12:43:22 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:22 [8]: [JOBQUEUE]: Progress for Job[ 27 ]:  100 % completed 
+2020-08-19 - 12:43:22 [8]: [JOBQUEUE]: Progress Overall:  92.6829 % (accumulated) +  2.43902 % (this job) =  95.122 % (total) 
+2020-08-19 - 12:43:22 [8]: [JOBQUEUE]: Progress for Job[ 28 ]:  0 % completed 
+2020-08-19 - 12:43:22 [8]: [JOBQUEUE]: Progress Overall:  95.122 % (accumulated) +  0 % (this job) =  95.122 % (total) 
+2020-08-19 - 12:43:22 [6]: virtual void Calamares::JobThread::run()
+    Starting job "postcfg"  (there are 30  left) 
+2020-08-19 - 12:43:22 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/postcfg/main.py" 
+2020-08-19 - 12:43:22 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from __doc__ "postcfg" = "Misc postinstall configurations" 
+2020-08-19 - 12:43:22 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "pacman-key", "--init") 
+2020-08-19 - 12:43:22 [8]: [JOBQUEUE]: Progress for Job[ 28 ]:  0 % completed 
+2020-08-19 - 12:43:22 [8]: [JOBQUEUE]: Progress Overall:  95.122 % (accumulated) +  0 % (this job) =  95.122 % (total) 
+2020-08-19 - 12:43:22 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:22 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "pacman-key", "--populate", "archlinux", "manjaro") 
+2020-08-19 - 12:43:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:25 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "pacman-mirrors", "-f3") 
+2020-08-19 - 12:43:29 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:29 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "pacman", "-Syy") 
+2020-08-19 - 12:43:43 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:43 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "pacman", "-R", "--noconfirm", "amd-ucode") 
+2020-08-19 - 12:43:43 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:43 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "killall", "-9", "gpg-agent") 
+2020-08-19 - 12:43:43 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:43 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "update-grub") 
+2020-08-19 - 12:43:50 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:50 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Running "chroot" ("/tmp/calamares-root-n23m1kgs", "grub-editenv", "-", "set", "menu_auto_hide=1", "boot_success=1") 
+2020-08-19 - 12:43:50 [6]: static CalamaresUtils::ProcessResult CalamaresUtils::System::runCommand(CalamaresUtils::System::RunLocation, const QStringList&, const QString&, const QString&, std::chrono::seconds)
+    Finished. Exit code: 0 
+2020-08-19 - 12:43:50 [2]: void CalamaresPython::warning(const string&)
+    WARNING:[PYTHON JOB]:  "no office suite selected, None" 
+2020-08-19 - 12:43:50 [8]: [JOBQUEUE]: Progress for Job[ 28 ]:  100 % completed 
+2020-08-19 - 12:43:50 [8]: [JOBQUEUE]: Progress Overall:  95.122 % (accumulated) +  2.43902 % (this job) =  97.561 % (total) 
+2020-08-19 - 12:43:50 [8]: [JOBQUEUE]: Progress for Job[ 29 ]:  0 % completed 
+2020-08-19 - 12:43:50 [8]: [JOBQUEUE]: Progress Overall:  97.561 % (accumulated) +  0 % (this job) =  97.561 % (total) 
+2020-08-19 - 12:43:50 [6]: virtual void Calamares::JobThread::run()
+    Starting job "umount"  (there are 30  left) 
+2020-08-19 - 12:43:50 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job file "/usr/lib/calamares/modules/umount/main.py" 
+2020-08-19 - 12:43:50 [6]: boost::python::api::object CalamaresPython::gettext_path()
+    Determining gettext path from ("/root", "/usr/bin", "/usr/share/locale") 
+2020-08-19 - 12:43:50 [6]:  ..  Found "fr" in "/usr/share/locale/fr" 
+2020-08-19 - 12:43:50 [6]: virtual Calamares::JobResult Calamares::PythonJob::exec()
+    Job description from pretty_name "umount" = "Démonter les systèmes de fichiers" 

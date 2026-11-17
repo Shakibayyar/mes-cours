@@ -1,0 +1,69 @@
+#include <stdio>
+typedef struct 
+
+{
+    
+  float x;
+  float y;
+
+}point_2d_t;
+
+typedef struct 
+{
+    point_2d_t A;
+    point_2d_t B;
+    point_2d_t C;
+    point_2d_t D;
+} quadrilateral_t;
+
+void print_point_2d(point_2d_t P)
+{
+    printf("(%.2f, %.2f)", p.x, p.y);
+}
+
+// 
+void 
+printf_quadrilateral(quadrilateral_t q)
+{
+    printf("point A: ");
+    printf_point_2d(q.A);
+    printf ("\n");
+
+    printf("point B: ");
+    printf_point_2d(q.B);
+    printf ("\n");
+
+    printf("point C: ");
+    printf_point_2d(q.C);
+    printf ("\n");
+
+
+    printf ("point D: ");
+    printf_point_2d(q.D);
+    printf ("\n");
+       
+
+} 
+
+int main (void) 
+{
+    point_2d_t p1 = { 1.5, 2.0};
+    printf("Test de print_point_2d:\n");
+
+    print_point_2d(p1):
+    printf("\n\n");
+
+    quadrilateral_t quad = 
+    {
+        { 0.0, 0.0},
+        { 4.0, 0.0},
+        { 4.0, 3.0},
+        { 0.0, 3.0},
+
+    };
+
+    printf("Test de print_quadrilateral :\n");
+       print_quadrilateral(quad);
+
+       return 0;
+}

@@ -1,0 +1,464 @@
+Madame#  AIBUSSAVABIEN#  Aude#  Rte de Base 108#  1092 BELMONT#   +4121.728.24.39 
+Madame#  ASSICMONPOTE#  Thècle#  11 chemin des Vignes#   1183 BURSINS#   +4121.824.19.78 
+Madame#  HON#  Cécile#  16 rue Alexandre Gavard Case postale 1809#  1233 BERNEX#   +4122  782 58 10
+Madame#  DALLE#  Angéla#  16, chemin Sous-le-Crêt"#  1290 DARDAGNY#   +4122 300 36 06 
+M.#  DALORS#  Homer#  17 Place des Ormeaux#  1291 DARDAGNY#   +4122 300 45 47
+Madame#  DAMET-TRELATABLE#  Aimée#  18 Bd de la Cluse#  1201 GENÈVE#   +4122 309 36 47
+Madame#  DANLGARAJ#  Mélodie#  "2, 4 Avenue Théodore-de-Bèze"#  1201 GENÈVE#   +4122 309 36 48
+Madame#  DANLOSS#  Ella#  285 Route de St-Julien#  1201 GENÈVE#   +4122 309 36 49
+Monsieur#  DANLÉZÉ-PINAR#  Hamed#  "4, rue des Mabriers"#  1201 GENÈVE#   +4122 309 36 50
+Madame#  DANTER#  Carrie#  "67, Chemin de L'Etang"#  1201 GENÈVE#   +4122 309 36 51
+Monsieur#  DAPART#  Alban#  Ancienne Route 64#   1201 GENÈVE#   +4122 309 36 52
+Monsieur#  DAPRÉLAT#  Maxime#  Av. Bertrand 5#   1201 GENÈVE#   +4122 309 36 53
+Monsieur#  CUCH#  Armand#  Av. Bois-de-la-Chapelle 31#   1283 DARDAGNY#   +4122 309 36 54
+Madame#   DUPOND##     Jeanne#  Av. Bois-de-la-Chapelle 71#   1284 DARDAGNY#   +4122 309 36 55
+Monsieur#  CUSONNAI-TAURÉLEUR#  Simon#  Av. de Gennecy 43#   1285 DARDAGNY#   +4122 309 36 56
+Monsieur#  DD'ARALVER#  Edmond#  Av. des Arpillières 15#   1286 DARDAGNY#   +4122 309 36 57
+Madame#  D'HURINE#  Anna-Lise#  Av. Des Communes-Réunies 6#  1287 DARDAGNY#   +4122 309 36 58
+Madame#  DEBORD#  Elvire#  Av. des Gdes-Communes 25#   1202 GENÈVE#   +4122 733 05 34
+Madame#  DEBRUGES#  Blanche#  Av. des Libellules 14#   1202 GENÈVE#   +4122 733 36 28 
+Monsieur#  DÉBIÉROFRAIS#  Jérémy#  Av. des Morgines 1#   1202 GENÈVE#   +4122 734 30 14
+Monsieur#  DÉGOU#  Roland#  Av. du Bois-de-la-Chapelle 15#   1202 GENÈVE#   +4122 753 4234
+Monsieur#  DEHURLEVENT#  Léo#  Av. du Lignon 31#   1202 GENÈVE#   +4122 756 30 01
+Madame#  DELUNAMAUBEUGE#  Claire#  Av. Eugène-Lance 76#   1202 GENÈVE#   +4122 756.12 52 
+Monsieur#  DAIBUTE#  Jean#  Av. François-Besson 7#   1288 DARDAGNY#   +4122 759 80 30
+Madame#  DEMIEUX#  Saskia#  Av. Gare des Eaux-Vives 10#   1202 GENÈVE#   +4122 771 49 59
+Madame#  DENESCAFÉ#  Laure#  Av. Gare-des-Eaux-Vives 10#   1202 GENÈVE#   +4122 774 40 44
+Monsieur#  DENISOT#  Michel#  Av. Gare-des-Eaux-Vives 4#   1202 GENÈVE#   +4122 779 06 67
+Monsieur#  DESOT#  Lionel#  Av. Henri-Golay 22B#   1202 GENÈVE#   +4122 786 28 68
+Madame#  DETAITE#  Maud#  Av. J.-J. Rigaud 23#   1202 GENÈVE#   +4122 788 52 5
+Monsieur#  DEUSSEDIMANCHE#  Jean-marie#  Av. Verchères 24A#   1202 GENÈVE#   +4122 792 47 28
+Monsieur#  DEUX#  Jean#  Avenue Bel-Air 43B#   1202 GENÈVE#   +4122 792 7834
+Monsieur#  DHIERSUSSAIMIEUX#  Jean#  Avenue Calas 5#   1247 ANIÈRES#   +4122 794 14 49
+Monsieur#  DI#  Alain#  Avenue de Crozet 28#   1247 ANIÈRES#   +4122 794 3765 
+Monsieur#  DIBULE#  Clément#  Avenue de la Jonction 10#  1273 ARZIER#   +4122 794 3766
+Monsieur#  SERRE#  Pierre#  Avenue de la Jonction 10#  1273 ARZIER#   +4122 794 3766
+Madame#  TUTOR#  Jeanine#  Avenue de la Jonction 10#  1273 ARZIER#   +4122 794 3766
+Monsieur#  DICULE#  Thierry#  Avenue de Luserna 10#   1274 ARZIER#   +4122 794 68 76
+Monsieur#  SERVITEUR#  Fidèle#  Avenue de Luserna 10#   1274 ARZIER#   +4122 794 68 76
+Monsieur#  TUVARAZÉTATE#  Ignace#  Avenue de Luserna 10#   1274 ARZIER#   +4122 794 68 76
+Monsieur#  DIDON#  Aubin#  Avenue de Mategnin 59#   1275 ARZIER#   +4122 794 76 92 
+Monsieur#  SHAW#  Artie#  Avenue de Mategnin 59#   1275 ARZIER#   +4122 794 76 92 
+Monsieur#  UUCHITE-JEANNÉ#  Steve#  Avenue de Mategnin 59#   1275 ARZIER#   +4122 794 76 92 
+Madame#  DIGUILIPARTOU#  Illya#  Avenue de Mategnin 75#   1276 ARZIER#   +4122.300.01.89 
+Monsieur#  SIEN-LENONOSSE#  Donatien#  Avenue de Mategnin 75#   1276 ARZIER#   +4122.300.01.89 
+Madame#  UDANLEAU#  Hélène#  Avenue de Mategnin 75#   1276 ARZIER#   +4122.300.01.89 
+Mme#  DIOBÈTE#  Sally#  "Avenue de Tournay 18, c.p. 65 "#  1277 ARZIER#   +4122.300.04.05 
+Monsieur#  SIEURLECAVALIER#  Anselme#  "Avenue de Tournay 18, c.p. 65 "#  1277 ARZIER#   +4122.300.04.05 
+Monsieur#  VIER#  Jean#  "Avenue de Tournay 18, c.p. 65 "#  1277 ARZIER#   +4122.300.04.05 
+Madame#  DIOCY#  Kelly#  Avenue de Vaudagne 13A#   1278 ARZIER#   +4122.300.28.30 
+Monsieur#  SIFFLERCETRAIN#  Jonathan#  Avenue de Vaudagne 13A#   1278 ARZIER#   +4122.300.28.30 
+Madame#  VIGOTTE#  Sarah#  Avenue de Vaudagne 13A#   1278 ARZIER#   +4122.300.28.30 
+Madame#  DIOCYDMAPAR#  Sophie#  Avenue des Cavaliers 3#   1269 BASSINS#   +4122.300.33.66 
+Madame#  SION#  Maude#  Avenue des Cavaliers 3#   1269 BASSINS#   +4122.300.33.66 
+Madame#  VOIRAYEUR#  Éva#  Avenue des Cavaliers 3#   1269 BASSINS#   +4122.300.33.66 
+Madame#  DIODAN-TACHAMBRE#  Tamara#  Avenue des Vergys 4#   1270 BASSINS#   +4122.301.48.29 
+Monsieur#  SKIFONSSANT#  Eddy#  Avenue des Vergys 4#   1270 BASSINS#   +4122.301.48.29 
+Monsieur#  VOISINJUIF#  Gaston#  Avenue des Vergys 4#   1270 BASSINS#   +4122.301.48.29 
+Monsieur#  DUSTRIEL#  Firmin#  "Avenue du Bouchet, 16A"#  1271 BASSINS#   +4122.301.48.30
+M.#  SKIOJAMBIER#  Djémal#  "Avenue du Bouchet, 16A"#  1271 BASSINS#   +4122.301.48.30
+M.#  VOJAMBON#  Andy#  "Avenue du Bouchet, 16A"#  1271 BASSINS#   +4122.301.48.30
+Mlle#  DUTRIBUNAL#  Clémence#  Avenue du Gros-Chêne 40#  1272 BASSINS#   +4122.301.48.31
+Mlle#  SONKUI#  Léa#  Avenue du Gros-Chêne 40#  1272 BASSINS#   +4122.301.48.31
+Mlle#  VORCÉ#  Éva#  Avenue du Gros-Chêne 40#  1272 BASSINS#   +4122.301.48.31
+M.#  DUVELDIVE#  Ralph#  Avenue du Lignon 10#   1273 BASSINS#   +4122.301.48.32
+Monsieur#  SONN#  Pépito#  Avenue du Lignon 10#   1273 BASSINS#   +4122.301.48.32
+Monsieur#  VORME#  Josué#  Avenue du Lignon 10#   1273 BASSINS#   +4122.301.48.32
+Mlle#  DUZIEL#  Betty#  Avenue du Lignon 33#   1274 BASSINS#   +4122.301.48.33
+Monsieur#  SONTRACTOR#  Igor#  Avenue du Lignon 33#   1274 BASSINS#   +4122.301.48.33
+Monsieur#  WEISS#  Léonard#  Avenue du Lignon 33#   1274 BASSINS#   +4122.301.48.33
+Monsieur#  DZEUCLOCK#  Haroun#  Avenue du Petit-Senn 39#   1275 BASSINS#   +4122.301.48.34
+Mlle#  SOUDECOTÉ#  Amédée#  Avenue du Petit-Senn 39#   1275 BASSINS#   +4122.301.48.34
+Madame#  WEURC#  Annette#  Avenue du Petit-Senn 39#   1275 BASSINS#   +4122.301.48.34
+Monsieur#  EEDDY#  Ken#  Avenue Eugène-Lance 43#   1293 BELLEVUE#   +4122.301.48.35
+Madame#  STA#  Yolène#  Avenue Eugène-Lance 43#   1293 BELLEVUE#   +4122.301.48.35
+Madame#  WOWOWO#  Leslie#  Avenue Eugène-Lance 43#   1293 BELLEVUE#   +4122.301.48.35
+Monsieur#  EIGEIRY#  Tom#  Avenue Gallatin 13#   1294 BELLEVUE#   +4122.301.48.36
+Monsieur#  STANTMEME#  Alain#  Avenue Gallatin 13#   1294 BELLEVUE#   +4122.301.48.36
+Monsieur#  XXATION#  Luc#  Avenue Gallatin 13#   1294 BELLEVUE#   +4122.301.48.36
+Monsieur#  EIPAN#  Ahmed#  Avenue Krieg 30#   1092 BELMONT#   +4122.301.48.37
+Madame#  STÈRE#  Mona#  Avenue Krieg 30#   1092 BELMONT#   +4122.301.48.37
+Madame#  YERROFRAIS#  Méleb#  Avenue Krieg 30#   1092 BELMONT#   +4122.301.48.37
+Monsieur#  EITUSMASH#  Théophile#  Avenue Krieg 36#   1093 BELMONT#   +4122.301.48.38
+Monsieur#  TEFARSI#  Thomas#  Avenue Krieg 36#   1093 BELMONT#   +4122.301.48.38
+Madame#  ZATION#  Aurélie#  Avenue Krieg 36#   1093 BELMONT#   +4122.301.48.38
+Madame#  ELLANTAITE#  Marthe#  Avenue Massenet 23#   1094 BELMONT#   +4122.301.48.39
+Madame#  TÉMAMEULE#  Jackie#  Avenue Massenet 23#   1094 BELMONT#   +4122.301.48.39
+Madame#  ZÉBUTE#  Belle#  Avenue Massenet 23#   1094 BELMONT#   +4122.301.48.39
+Madame#  ÉMALCON-SERVÉ#  Mariette#  Avenue Tronchet 32B#   1095 BELMONT#   +4122.301.48.40
+Monsieur#  TERGEIST#  Paul#  Avenue Tronchet 32B#   1095 BELMONT#   +4122.301.48.40
+Madame#  ZETTOFRAIS#  Mélanie#  Avenue Tronchet 32B#   1095 BELMONT#   +4122.301.48.40
+Madame#  ENBALAICOUILLES#  Ilse#  Avenue Wendt 41#   1096 BELMONT#   +4122.301.48.41
+Monsieur#  TÉRIEUR#  Alex#  Avenue Wendt 41#   1096 BELMONT#   +4122.301.48.41
+Monsieur#  ZIEUVAIR#  Bruno#  Avenue Wendt 41#   1096 BELMONT#   +4122.301.48.41
+Madame#  ENCIEUX#  Cécile#  Bd Carl-Vogt 82#   1097 BELMONT#   +4122.301.48.42
+Monsieur#  TERNETTE#  Alain#  Bd Carl-Vogt 82#   1097 BELMONT#   +4122.301.48.42
+Monsieur#  ZOLA#  Gordon#  Bd Carl-Vogt 82#   1097 BELMONT#   +4122.301.48.42
+Monsieur#  ENCO'OUATER#  Ahmed#  Bd de la Cluse 12#   1098 BELMONT#   +4122.301.48.43
+Monsieur#  TEURDETEXT#  Eddy#  Bd de la Cluse 12#   1098 BELMONT#   +4122.301.48.43
+Monsieur#  ZORE#  Dino#  Bd de la Cluse 12#   1098 BELMONT#  +4122.301.48.43
+Madame#  ENCORASSOMMLE#  Sylvie#  Bd des Philosophes 2#   1099 BELMONT#   +4122.301.48.44
+Monsieur#  TEUZMANY#  Gédéon#  Bd des Philosophes 2#   1099 BELMONT#   +4122.301.48.44
+Monsieur#  ENCORE#  Henri#  Bd Geroges Favon 6#  1100 BELMONT#   +4122.301.48.45
+Monsieur#  THONDUJOUR#  Dick#  Bd Geroges Favon 6#  1100 BELMONT#   +4122.301.48.45
+Monsieur#  ENCORIMPEU#  Oreste#  Bernex-En-Combes 10#   1101 BELMONT#   +4122.301.48.46
+Madame#  TIM#  Vic#  Bernex-En-Combes 10#   1101 BELMONT#   +4122.301.48.46
+Madame#  ENFAILLITE#  Mélusine#  Boulevard Carl-Vogt 78#   1102 BELMONT#   +4122.301.48.47
+Monsieur#  TIME#  Vincent#  Boulevard Carl-Vogt 78#   1102 BELMONT#   +4122.301.48.47
+Madame#  ENFANT#  Hélène#  Boulevard du Pont-d'Arve 46#   1233 BERNEX#   +4122.301.48.48
+Monsieur#  TINE#  Clément#  Boulevard du Pont-d'Arve 46#   1233 BERNEX#   +4122.301.48.48
+Monsieur#  ENGARS#  Axel#  bvd des Philosophes 9#   1233 BERNEX#   +4122.301.48.49
+Monsieur#  TISON#  Paco#  bvd des Philosophes 9#   1233 BERNEX#   +4122.301.48.49
+Madame#  DAIVAN#  Rose#  Case postale 33#  1289 DARDAGNY#   +4122.301.48.50
+Monsieur#  ENTARET#  Karim#  Case postale 60#  1233 BERNEX#   +4122.301.48.51
+Monsieur#  TOMBALE#  Pierre#  Case postale 60#  1233 BERNEX#   +4122.301.48.51
+Monsieur#  ENTIRDAIPIET#  James#  Case postale 62#   1233 BERNEX#   +4122.301.48.52
+Monsieur#  TOUILLE#  Sacha#  Case postale 62#   1233 BERNEX#   +4122.301.48.52
+Monsieur#  ERJAIBEL#  Octave#  Chemin Champ-d'Anier 15#   1233 BERNEX#   +4122.340.27.39 
+Monsieur#  TOUNET#  Patrice#  Chemin Champ-d'Anier 15#   1233 BERNEX#   +4122.340.27.39 
+Mmme#  ERRAPLUDESITO#  Olive#  Chemin Champs-du-Puits 8A#   1233 BERNEX#   +4122.340.36.10 
+Monsieur#  TOURNELLE#  Henri#  Chemin Champs-du-Puits 8A#   1233 BERNEX#   +4122.340.36.10 
+Monsieur#  ETPARBAL#  Gilles#  Chemin Champs-Gottreux 12#   1233 BERNEX#   +4122.340.37.75 
+Monsieur#  TOUSSÉMOYENS#  Albert#  Chemin Champs-Gottreux 12#   1233 BERNEX#   +4122.340.37.75 
+Monsieur#  ÉGÉE#  Yves#  Chemin Charles-Borgeaud 19bis#   1233 BERNEX#   +4122.340.64.69 
+Madame#  TOUSSEUL#  Sébastienne#  Chemin Charles-Borgeaud 19bis#   1233 BERNEX#   +4122.340.64.69 
+Madame#  ÉOLE#  Laure#  Chemin Charles-Borgeaud 7C#   1277 BOREX#  +4122.341.21.40 
+Monsieur#  TRENOUTÉFESS#  Raymond#  Chemin Charles-Borgeaud 7C#   1277 BOREX#  +4122.341.21.40 
+Madame#  ÉTÉDANLEFRIGO#  Elle#  "Chemin de Chambert 24, Lully "#  1183 BURSINS#   +4122.341.26.38 
+Madame#  TRISÉ#  Jessica#  Chemin de Chambert 24, Lully "#  1183 BURSINS#   +4122.341.26.38 
+Mme#  ÉTÉHIERSOIR#  Éliette#  Chemin de Cressy 17#   1222 CAROUGE#   +4122.341.26.39
+Madame#  TRODEBÉNÉFISS#  Ella#  Chemin de Cressy 17#   1222 CAROUGE#   +4122.341.26.39
+Monsieur#  ÉTIRÉYFAULEBOIR#  Sylvain#  Chemin de Crève-Coeur 10#   1205 GENÈVE#   +4122.341.26.40
+Monsieur#  TROPHOBE#  Klaus#  Chemin de Crève-Coeur 10#   1205 GENÈVE#   +4122.341.26.40
+Monsieur#  ETPARBALLES#  Gilles#  Chemin de Foulon 21#   1205 GENÈVE#   +4122.341.26.41
+Madame#  TROUILLE#  Lassie#  Chemin de Foulon 21#   1205 GENÈVE#   +4122.341.26.41
+Monsieur#  ETPÉRIL#  Asterix#  Chemin de Grange-Canal 16#   1205 GENÈVE#   +4122.341.26.42
+Madame#  ROUQUIPU#  Hyacinthe#  Chemin de Grange-Canal 16#   1205 GENÈVE#   +4122.341.26.42
+Monsieur#  EUDÉPLACEMENT#  Fred#  Chemin de Grange-Canal 35#   1205 GENÈVE#   +4122.341.26.43
+Monsieur#  TRUAND#  Tony#  Chemin de Grange-Canal 35#   1205 GENÈVE#   +4122.341.26.43
+Madame#  EUHAILATIRTOI#  Sylvie#  Chemin de la Boule 6#   1205 GENÈVE#   +4122.341.26.44
+Madame#  EURKETU-MAIME#  Odile#  Chemin de la Caroline 16#   1205 GENÈVE#   +4122.341.26.45
+Madame#  ÉZAISPOIR#  Aude#  Chemin de la Charroyette 4#   1205 GENÈVE#   +4122.341.26.47
+Monsieur#  FFAICHIER#  Akim#  Chemin de la Clé-des-Champs 3#   1205 GENÈVE#   +4122.341.26.48
+Monsieur#  FAIT#  Gaspard#  Chemin de la Cocuaz 24#   1206 GENÈVE#   +4122.341.26.49
+Monsieur#  FASSOLLA#  Rémi#  Chemin de la Dime 5#  1206 GENÈVE#   +4122.341.26.50
+Monsieur#  FEIMAL#  Akim#  Chemin de la Loutre 4#   1206 GENÈVE#   +4122.343.82.86 
+Madame#  FEIMAL#  Aïcha#  Chemin de la Maison-Forte 30#   1207 GENÈVE#   +4122.344.47.64 
+Madame#  FERDUMAL#  Yvette#  Chemin de la Mère-Voie 73#   1207 GENÈVE#   +4122.344.67.90 
+Monsieur#  FONTAINE#  Allah#  Chemin de la Métairie 43#   1207 GENÈVE#   +4122.344.74.59 
+Monsieur#  FORM#  Jésus#  Chemin de la Place Verte 16A#   1247 ANIÈRES#   +4122.344.90.53 
+Madame#  FRECHI#  Sarah#  Chemin de la Plantée-du-Chêne 59#   1247 ANIÈRES#   +4122.345.18.28 
+Monsieur#  FRIGOSKEUTAPRI#  Roméo#  Chemin de la Plantée-du-Chêne 59#   1273 ARZIER#   +4122.345.38.24 
+Madame#  FROID#  Éva#  Chemin de la Printanière 24#   1274 ARZIER#   +4122.347.08.66 
+Madame#  FINMARI#  Amédée#  Chemin de la Source-St-Jean 23bis#   1275 ARZIER#   +4122.347.39.52 
+Monsieur#  GGAIZE#  Elmer#  Chemin de la Station 1#   1276 ARZIER#   +4122.347.57.42 
+Monsieur#  GAMOTTE#  Albert#  Chemin de la Tour-de-Champel 6#   1277 ARZIER#   +4122.348.02.02 
+Monsieur#  GARCIN#  Lazare#  Chemin de l'Ancien-Péage 4#   1278 ARZIER#   +4122.348.08.85 
+Monsieur#  GATOR#  Ali#  Chemin de Maisonneuve 12B#   1269 BASSINS#   +4122.348.25.88 
+Madame#  GELLET#  Laure#  Chemin de Malagny-le-Lac 11#   1270 BASSINS#   +4122.348.34.32 
+Monsieur#  GENCYL#  Tony#  Chemin de Merdisel 37#  1271 BASSINS#   +4122.348.37.22 
+Monsieur#  GENDARMERY#  Quentin#  Chemin de Merdisel 4#  1272 BASSINS#   +4122.348.61.15 
+Monsieur#  GETDAIFRITTE#  Germain#  Chemin de Pierre-Longue 8b#   1273 BASSINS#   +4122.348.63.30 
+Madame#  GINGRAS#  Alva#  Chemin de Taverney 8#  1274 BASSINS#   +4122.348.80.86 
+Monsieur#  GOKIRI#  Denis#  Chemin de Tirelonge 24#  1275 BASSINS#   +4122.348.88.73 
+Monsieur#  GOL#  Henry#  Chemin des Bois-Jacquet 27#   1293 BELLEVUE#   +4122.348.91.46 
+Monsieur#  GOLADE#  Larry#  Chemin des Bossonailles 22#   1294 BELLEVUE#   +4122.348.98.32 
+Monsieur#  GOLOTOI#  Thierry#  Chemin des Bouveries 25#   1092 BELMONT#   +4122.349.10.21 
+Mlle#  GOUDY#  Debbie#  Chemin des Cordonnières 5#   1093 BELMONT#   +4122.349.28.07 
+Monsieur#  GNOLDINDIEN#  Thomas#  Chemin des Crêts-de-Pregny 14B#   1094 BELMONT#   +4122.349.28.70 
+Madame#  HEINA-MANGER#  Hillary#  Chemin des Deux-Communes 9#   1095 BELMONT#   +4122.349.31.27 
+Monsieur#  HEKRAZ-LESPRI#  Mahmoud#  Chemin des Fauvettes 20#   1096 BELMONT#   +4122.349.34.93 
+Madame#  HÉMIE#  Anne#  Chemin des Feuillus 12#   1097 BELMONT#   +4122.349.41.26 
+Madame#  HEMME#  Rachel#  Chemin des Fins 8#   1098 BELMONT#   +4122.349.56.54 
+Mme#  HOQUET#  Clara#  Chemin des Fiolages 20#   1233 BERNEX#   +4122.349.63.67 
+Monsieur#  HORNOTTOBI#  Tobbie#  Chemin des Grandes Vignes 36#   1233 BERNEX#   +4122.349.78.09 
+Madame#  HUER#  Odile#  Chemin des Grandes-Vignes 20#   1277 BOREX#  +4122.349.78.10
+Monsieur#  HUILDA#  Rachid#  Chemin des Grandes-Vignes 36#   1183 BURSINS#   +4122.349.78.11
+Monsieur#  HULÉ#  Yvon#  Chemin des Grands-Bonnets 6#   1222 CAROUGE#   +4122.349.78.12
+Monsieur#  HULÉ#  Hank#  Chemin des Hutins 29#   1212 GRAND-LANCY#   +4122.349.78.13
+Monsieur#  HULEUR#  Octave#  Chemin des Hutins 29A#   1212 GRAND-LANCY#   +4122.349.78.14
+Monsieur#  HUTOFOND#  Sacha#  Chemin des Maisonnettes 35#   1212 GRAND-LANCY#   +4122.349.78.15
+Monsieur#  HYMUM#  Max#  Chemin des Merles 20#   1212 GRAND-LANCY#   +4122.349.78.16
+Madame#  IIABLE-LAVARICE#  Aude#  Chemin des Mésanges 43#  1212 GRAND-LANCY#   +4122.349.78.17
+Madame#  ICILABOHNSOUP#  Paris#  Chemin des Murailles 24#   1212 GRAND-LANCY#   +4122.349.78.18
+Monsieur#  IDDIS#  Hamid#  Chemin des Platières 27#   1212 GRAND-LANCY#   +4122.349.78.19
+M.#  IENNE#  César#  Chemin des Primevères 11#   1212 GRAND-LANCY#   +4122.349.78.20
+Monsieur#  IETTE#  Roméo#  Chemin des Reblets 2#   1212 GRAND-LANCY#   +4122.349.78.21
+Monsieur#  IGONE#  Paul#  Chemin des Semailles 34#  1212 GRAND-LANCY#   +4122.349.78.22
+Madame#  ILÉOSUD#  Éléonore#  Chemin des Semailles 8B#   1212 GRAND-LANCY#   +4122.349.78.23
+Monsieur#  ILPATEDANLFRIGO#  Jérôme#  Chemin des Semailles 9C#  1212 GRAND-LANCY#   +4122.349.78.24
+Monsieur#  IMETRE#  Vincent#  Chemin des Semailles 9C#  1212 GRAND-LANCY#   +4122.349.78.25
+Monsieur#  IM-WAINKHAR#  Hamid#  Chemin des Semailles 9C#  1212 GRAND-LANCY#   +4122.349.78.26
+Madame#  INFO#  Hélène#  Chemin des Troènes 4#   1212 GRAND-LANCY#   +4122.349.78.27
+Monsieur#  INSTANT#  Justin#  Chemin des Vidollets 51D#   1212 GRAND-LANCY#   +4122.349.78.28
+Madame#  ISME#  Christiane#  Chemin des Vignes 19#   1212 GRAND-LANCY#   +4122.733.40.56 
+Madame#  ISSOITIL#  Maude#  Chemin du Barbolet 12#   1212 GRAND-LANCY#   +4122.733.47.25 
+Monsieur#  ITLEUKU#  Samir#  Chemin du Champ d'Anier 22#   1213 GRAND-LANCY#   +4122.733.67.93 
+Monsieur#  IZLEUDÉBA#  Hyppolyte#  Chemin du Champ-Budin 8#   1213 GRAND-LANCY#   +4122.733.89.08 
+Madame#  JJAVEL#  Aude#  Chemin du Clos 39#   1213 GRAND-LANCY#   +4122.734.24.10 
+Monsieur#  JÉMALH-ALÈSE#  Thomas#  Chemin du Daru 14#   1213 GRAND-LANCY#   +4122.734.41.24 
+Monsieur#  MIEUJUSQUALAFIN#  Jeff#  Chemin du Planet 7#   1213 ONEX#   +4122.734.53.87 
+Madame#  MILAPINE#  Illya#  Chemin du Pont-Bochet 6#   1213 ONEX#   +4122.734.74.41 
+Madame#  MILECOUVERT#  Irma#  Chemin du Pré-Puits 30#   1213 ONEX#   +4122.734.74.84 
+Madame#  MINÉ-CECIRQUE#  Ester#  Chemin du Vieux-Bureau 60#   1213 ONEX#   +4122.735.14.04 
+Madame#  MIONBENNE#  Jessica#  Chemin du Vuillonnex 12 bis#   1213 ONEX#   +4122.735.15.96 
+Monsieur#  MIRON#  Yvon#  Chemin François Lehmann 14#   1213 ONEX#   +4122.735.31.91 
+Monsieur#  MOI#  Ambroise#  Chemin François-Chavaz 19C#   1213 ONEX#   +4122.735.35.74 
+Monsieur#  MOILCONDUIT#  Ramon#  Chemin François-Chavaz 65#   1213 ONEX#   +4122.735.53.26 
+Monsieur#  MOINFOR#  Nelson#  Chemin François-Lehmann 14#   1213 ONEX#   +4122.735.94.11 
+Madame#  MOINLQUART#  Éléonore#  Chemin François-Lehmann 2#   1213 ONEX#   +4122.736.54.92 
+Madame#  MOITRANQUILLE#  Alice#  Chemin Frank-Thomas 54#   1213 ONEX#   +4122.736.81.02 
+Madame#  MOM#  Minnie#  Chemin Gérard-de-Ternier 16#   1213 ONEX#   +4122.736.84.18 
+Monsieur#  OUILDA#  Rachid#  Chemin Gilbert-Trolliet 8#   1213 PETIT-LANCY#   +4122.738.04.09 
+Madame#  MONEDUR#  Sarah#  Chemin Grand-Montfleury 2#   1213 ONEX#   +4122.738.04.09 
+Monsieur#  OUIN#  Serge#  Chemin Grand-Montfleury 28#   1213 PETIT-LANCY#   +4122.738.62.04 
+Monsieur#  OUQUOI#  Ted#  Chemin Louis-Burgy 8#  1213 PETIT-LANCY#   +4122.738.62.05
+Madame#  OURKESSA#  Cécile#  Chemin Lulasse 19#   1213 PETIT-LANCY#   +4122.738.62.06
+Monsieur#  MONFILS#  Thibault#  Chemin Moïse Duboule 45#   1213 ONEX#   +4122.738.62.07
+Monsieur#  OURNILON#  Nick#  Chemin Moulin-de-la-Grave 1#   1213 PETIT-LANCY#   +4122.738.62.08
+Madame#  MONT#  Marcella#  Chemin Nicolas-Bogueret 8#   1213 ONEX#   +4122.738.62.09
+Monsieur#  NETTE#  Ray#  Chemin Pont-Céard 28#   1213 ONEX#   +4122.738.62.10
+Madame#  NICRAVATT#  Nicole#  Chemin Salomon-Penay 14#   1213 ONEX#   +4122.738.62.11
+Monsieur#  OUTAN#  Laurent#  Chemin Sur-Le-Beau 32A#   1213 PETIT-LANCY#   +4122.738.62.12
+Monsieur#  NIDRAILLE#  Marty#  Chemin Vert 20#   1213 ONEX#   +4122.738.62.13
+Mme#  NIJUPE#  Ella#  Chemin Ami-Argand 33#   1213 ONEX#   +4122.738.62.14
+Madame#  NETAUFRAIS#  Jessica#  Chemin Bergeronnette 37#   1213 ONEX#   +4122.738.62.15
+Madame#  PATAMOB#  Adhemar#  Chemin Carabot 42#   1213 PETIT-LANCY#   +4122.738.62.16
+Madame#  NIVERSAIRE#  Elsa#  Chemin Chantecoucou 26#   1213 ONEX#   +4122.738.62.17
+Monsieur#  NOMSURLALISTE#  Raymond#  Chemin Chantefleur 71#   1213 ONEX#   +4122.738.62.18
+Monsieur#  NONCÉLOUEST#  Célestin#  Chemin Charles-Georg 6#   1213 ONEX#   +4122.738.62.19
+Madame#  PAYER#  Amanda#  Chemin Charles-Poluzzi 43#   1213 PETIT-LANCY#   +4122.738.62.20
+Monsieur#  NOYEUX#  Joël#  Chemin Dami 6#   1213 ONEX#   +4122.738.62.21
+Madame#  PENDULALEUR#  DJémila#  Chemin de Bonvent 21A#   1213 PETIT-LANCY#   +4122.753.19.82 
+Monsieur#  PERDUMONFROC#  Roger#  Chemin de Carabot 27A#   1213 PETIT-LANCY#   +4122.753.21.02 
+Madame#  OOBSCUR#  Claire#  Chemin de Carabot 31#   1213 ONEX#   +4122.753.21.77 
+Monsieur#  OCHON#  Paul#  Chemin de Carabot 31C#   1213 ONEX#   +4122.753.36.10 
+Monsieur#  PÈRETMÈRE#  Yves#  Chemin de Carabot 39#   1213 PETIT-LANCY#   +4122.753.92.53 
+Madame#  ODUVILLAGE#  Lydie#  Chemin de Champ Gottreux 4#  1213 ONEX#   +4122.754.80.80 
+Mlle#  OICONNARD#  Marthe#  "Chemin de Crédery 7, Peissy "#  1213 ONEX#   +4122.755.18.85 
+Mlle#  OINLAFRANCE#  Cécile#  Chemin de Cressy 82A#   1213 ONEX#   +4122.755.19.77 
+Madame#  OKER#  Clara#  Chemin de Grange-Collomb 24#  1213 ONEX#   +4122.755.23.90 
+Madame#  PERRET#  Inès#  Chemin de la Blonde 45#   1213 PETIT-LANCY#   +4122.755.25.89 
+Madame#  OL#  Jenny#  Chemin de la Butte 31D#   1213 ONEX#   +4122.755.28.24 
+Madame#  OUFEU#  Ange#  Chemin de la Caroline 16#   1213 PETIT-LANCY#   +4122.755.43.60 
+Madame#  MICOTON#  Mylène#  Chemin de la Caroline 26#   1212 ONEX#   +4122.756.01.52 
+Madame#  ONCITERNE#  Camille#  Chemin de la Checande 2#   1213 ONEX#   +4122.756.05.34 
+Monsieur#  PEUTROVITE#  Saturnin#  Chemin de la Chênaie 109#   1213 PETIT-LANCY#   +4122.756.13.77 
+Monsieur#  PERRIN#  Jean#  Chemin de la Colline 2#  1213 PETIT-LANCY#   +4122.756.17.04 
+Madame#  OUEURK#  Annette#  Chemin de la Fléchère 17#   1211 PETIT-LANCY#   +4122.756.17.77 
+Madame#  POTE#  Astrid#  Chemin de la Pièce 3#   1214 VERNIER#   +4122.756.18.09 
+Madame#  POTENPOCHE#  Jessica#  Chemin de la Pièce 9#   1214 VERNIER#   +4122.756.22.60 
+Monsieur#  PROVIST#  Alain#  Chemin de la Vendée 26#   1214 VERNIER#   +4122.756.23.85 
+Madame#  PROVISTE#  Hilaire#  Chemin de l'Ecole 17#   1214 VERNIER#   +4122.756.24.45 
+Monsieur#  PORFAIRLAVAISSELLE#  Vladimir#  Chemin de l'Ecu 3#   1214 VERNIER#   +4122.756.25.46 
+Monsieur#  HERME#  Olaf#  Chemin de l'Orée 29#   1099 BELMONT#   +4122.756.29.90 
+Monsieur#  LEPORTDECONKE#  Arnaud#  Chemin de Pré-Gentil 56#   1213 MEYRIN#   +4122.756.40.33 
+Monsieur#  MAGNE#  Charles#  Chemin de Saule 132#   1214 MEYRIN#   +4122.757 43 05
+Madame#  MALAUZO#  Mélanie#  Chemin de Vers 32#   1217 MEYRIN#   +4122.757.03.60 
+Monsieur#  MALEURARIVE#  Quentin#  Chemin des Avallons 52#   1217 MEYRIN#   +4122.757.07.83 
+Monsieur#  MANFRAIS#  Bonaparte#  Chemin des Boucheries 10#   1217 MEYRIN#   +4122.757.07.86 
+Monsieur#  MANGIN#  Jean#  Chemin des Boulangers 46#  1217 MEYRIN#   +4122.757.08.82 
+Monsieur#  MANJOUIS#  Gérard#  Chemin des Buclines 19#   1217 MEYRIN#   +4122.757.15.81 
+Madame#  MANZISUIPOURRIEN#  France#  Chemin des Buclines 56#   1217 MEYRIN#   +4122.757.19.49 
+Madame#  MARIROU#  Anna#  Chemin des Buclines 60#   1217 MEYRIN#   +4122.757.22.96 
+Madame#  MAROLEX#  Éléonore#  Chemin des Epineuses 21#   1217 MEYRIN#   +4122.757.24.04 
+Monsieur#  MARQUER#  Yvon#  Chemin des Feuillus 3#   1217 MEYRIN#   +4122.757.25.54 
+Madame#  MATEURDRADIO#  Annie#  Chemin des Hutins 27#   1217 MEYRIN#   +4122.757.25.77 
+Monsieur#  MATUER#  Omar#  Chemin des Moissons 5#   1217 MEYRIN#   +4122.757.27.19 
+Madame#  MAUVE#  Maggie#  Chemin des Mollex 13#   1217 MEYRIN#   +4122.757.27.74 
+Madame#  MAVALLEE#  Colette#  Chemin des Pluviers 22#   1217 MEYRIN#   +4122.757.28.29 
+Monsieur#  McCULLOTH#  Jérémy#  Chemin des Pontets 7#   1217 MEYRIN#   +4122.757.30.04 
+Monsieur#  MÉBONNE#  Kurt#  Chemin des Ramiers 29#   1217 MEYRIN#   +4122.757.35.01 
+Mme#  MÉDINE#  France#  Chemin des Rasses 32#   1217 MEYRIN#   +4122.757.37.51 
+Monsieur#  MEILLAVALPAS#  Jésus#  Chemin des Semailles 41#  1217 MEYRIN#   +4122.757.37.92 
+Madame#  MÉMÉLABABAL#  Donna#  Chemin des Semailles 9c#  1217 MEYRIN#   +4122.757.40.52 
+Monsieur#  MENVUSSA#  Gérard#  Chemin des Semailles 9C#  1217 MEYRIN#   +4122.757.43.70 
+Monsieur#  MENTPOURCHIEN#  Ali#  chemin des Serres 6E#  1217 MEYRIN#   +4122.757.45.93 
+Monsieur#  MAIFAIDUR#  Fabien#  Chemin des Serves 30#   1215 MEYRIN#   +4122.757.49.09 
+Monsieur#  MERCEDEZ#  Roland#  Chemin des Traversins 31#   1217 MEYRIN#   +4122.757.50.13 
+M.#  MAIHYAVALPA#  Jésus#  Chemin des Tritons 18#   1216 MEYRIN#   +4122.757.53.29 
+Madame#  HONNÊTE#  Marie#  Chemin des Troiselles 36#   1233 BERNEX#   +4122.757.54.01 
+M.#  JÉMILE-PIÉDEDANS#  Ahmed#  Chemin des Truits 9#   1218 GRAND-SACONNEX#   +4122.757.55.94 
+Monsieur#  KINZE-CODULLA#  Francis#  Chemin des Tuilots 12#   1218 GRAND-SACONNEX#   +4122.757.56.36 
+Monsieur#  KIROUL#  Pierre#  Chemin des Verdiers 11#   1218 GRAND-SACONNEX#   +4122.757.59.04 
+Madame#  KIS-SASSOUL#  Louise#  Chemin des Vignes 31#   1218 GRAND-SACONNEX#   +4122.757.60.55 
+Mlle#  KLABOURLA#  Mélanie#  Chemin du Bochet 6C#   1218 GRAND-SACONNEX#   +4122.757.61.10 
+Monsieur#  KODSEUKRAI#  Philémon#  Chemin du Champlong 46#   1218 GRAND-SACONNEX#   +4122.757.61.74 
+Monsieur#  KUKIGRATTE#  Benjamin#  Chemin du Clos 95#   1218 GRAND-SACONNEX#   +4122.757.67.62 
+Monsieur#  KUKOMIPU#  Samson#  Chemin du Daru 21#   1218 GRAND-SACONNEX#   +4122.757.67.90 
+Monsieur#  KULACEK#  Jean#  Chemin du Grand-Puits 37#   1218 GRAND-SACONNEX#   +4122.757.69.29 
+Monsieur#  BIEN-UNETITSIESTE#  Geoffrey#  Chemin du Grillet 8#   1219 CHÂTELAINE#   +4122.758.32.46 
+Monsieur#  LANDEMIN#  Roméo#  Chemin du Nant-Boret 9#   1219 LE LIGNON#   +4122.759.05.68 
+Mlle#  LAPELLE#  Laura#  Chemin du Repos 2#   1219 LE LIGNON#   +4122.771.00.24 
+Monsieur#  BIENCETTEVISSEUSE#  Elvis#  Chemin du Vieux Puit 10a#  1219 CHÂTELAINE#   +4122.771.13.35 
+Monsieur#  BIENSUCER#  Humphrey#  Chemin du Vieux-Bureau 66#   1219 CHÂTELAINE#   +4122.771.17.20 
+Monsieur#  LAPELOUSE#  Gaston#  Chemin Fontaine 26#   1219 LE LIGNON#   +4122.771.19.01 
+Monsieur#  BIENUNCASSECROUTE#  Humphrey#  Chemin Gérard-de-Ternier 10#  1219 CHÂTELAINE#   +4122.771.19.51 
+Madame#  LAPORTE#  Hildéphonse#  Chemin Pré-de-Lug 9#   1219 LE LIGNON#   +4122.771.25.70 
+Monsieur#  LASSAUD#  Dominique#  Chemin Pré-Gabet 4#   1219 LE LIGNON#   +4122.771.28.07 
+Monsieur#  BISJEUDMO#  César#  Chemin Pré-Marquis 3C#   1219 CHÂTELAINE#   +4122.771.31.02 
+Madame#  LAVALLER#  Éva#  Chemin Pré-Puits 6#   1219 LE LIGNON#   +4122.771.43.22 
+Monsieur#  BISTRUCLA#  César#  Chemin Sur-le-Beau 4#   1219 CHÂTELAINE#   +4122.772.22.01 
+Madame#  LAVOIX#  Claire#  Chemin Treulaz 1#   1220 LES AVANCHETS#   +4122.772.30.02 
+Monsieur#  LEBRAC#  Marc#  Cité Vieusseux 15#   1220 LES AVANCHETS#   +4122.774.00.16 
+Monsieur#  LEKUKELLA#  Matt#  En Combes 21#   1220 LES AVANCHETS#   +4122.774.00.31 
+Monsieur#  SSAÈRRDOUZE#  Yvan#  Grand-Rue#   1222 VÉSENAZ#   +4122.774.05.12 
+Monsieur#  CLAQUE#  Jean#  Passage de la Fin 12#   1251 CHOULEX#   +4122.774.19.71 
+Monsieur#  BISTROTJAISOIF#  Alonzo#  pl. 1er-Août 3#   1224 CHÊNE-BOUGERIES#   +4122.774.25.13 
+Monsieur#  BLOUSON#  Jean#  Place du Lignon 34#   1224 CHÊNE-BOUGERIES#   +4122.774.25.22 
+Monsieur#  BOCKET#  Bill#  Place du Temple 5#   1224 CHÊNE-BOUGERIES#   +4122.774.26.02 
+Madame#  BOITAM#  Alice#  Prés-du-Marguillier#   1224 CHÊNE-BOUGERIES#   +4122.774.34.11 
+Madame#  BOLMEGRATTE#  Maggie#  Prom. Champs-Fréchets 10#   1225 CHÊNE-BOURG#   +4122.774.43.37 
+Monsieur#  BONBEUR#  Jean#  Promenade des Artisans 32#   1225 CHÊNE-BOURG#   +4122.774.43.63 
+Madame#  CHAITE#  Barbie#  Promenade des Artisans 33#  1225 CHÊNE-BOURG#   +4122.774.44.68 
+Madame#  CHATOUILLE-KÊKPAR#  Salah#  Quai du Cheval Blanc 8#   1225 CHÊNE-BOURG#   +4122.776.19.89 
+Madame#  CHEDUCHIENDEHORS#  Mélanie#  Quai Ernest Ansermet 36#   1225 CHÊNE-BOURG#   +4122.777.02.77 
+Monsieur#  ASSIN#  Marc#  Route de Chancy 28#   1222 CAROUGE#   +4122.782.04.37 
+Madame#  ASSONMEK#  Fidel#  Route de Chancy 28#   1223 CAROUGE#   +4122.782.15.63 
+Madame#  ATEMOILANUS#  Odile#  Route de Chêne 3#   1224 CAROUGE#   +4122.782.16.30 
+Mmme#  AUBIN#  Marie#  Route de Chêne 76#   1227 CAROUGE#   +4122.782.21.64 
+Monsieur#  AUDE-LAVIEILLE#  Pacome#  Route de Choulex 113#   1227 CAROUGE#   +4122.782.23.96 
+Monsieur#  AUXFRAISES#  Gervais#  Route de Ferney 181#   1227 CAROUGE#   +4122.782.26.17 
+Monsieur#  AUSTER#  Paterne#  Route de Frontenex  126#   1227 CAROUGE#   +4122.782.31.89 
+Monsieur#  LAVALLER#  Yvon#  Route de Jussy 14B#   1227 LES ACACIAS#   +4122.782.32.09 
+Madame#  AVANTOU#  Prudence#  Route de Jussy 87#   1227 CAROUGE#   +4122.782.44.63 
+Monsieur#  LAVOATURE#  Igor#  Route de la Plaine 10#   1227 LES ACACIAS#   +4122.782.44.85 
+Mlle#  AVUDOTRE#  Ella#  Route de Lausanne 337#   1227 CAROUGE#   +4122.782.47.12 
+Madame#  AVULEUR#  Édith#  Route de Lausanne 355#   1227 CAROUGE#   +4122.782.58.37 
+Madame#  AYENCOIN#  Laure#  Route de Löex 87B#   1227 CAROUGE#   +4122.782.62.41 
+Monsieur#  AYMAR#  Jean#  Route de Loëx 91#   1227 CAROUGE#   +4122.782.71.05 
+M.#  AZARAILLE#  Eric#  Route de Lully 123 ter#   1227 CAROUGE#   +4122.782.74.71 
+Madame#  AZUTAT#  Laure#  Route de Lully 127b#   1227 CAROUGE#   +4122.782.74.75 
+M.#  ATEUR#  Nordine#  Route de Maison Rouge 10#   1225 CAROUGE#   +4122.782.87.16 
+Monsieur#  BBALL#  Jean#  Route de Malval 17#   1227 CAROUGE#   +4122.784.08.24 
+Monsieur#  BALMASQUEZ#  Alonzo#  Route de Merley 2#   1227 CAROUGE#   +4122.784.36.03 
+Monsieur#  BANDERCETSALOPE#  Humphrey#  Route de Meyrin 12D#  1227 CAROUGE#   +4122.784.39.37 
+Madame#  ATROVITE#  Yves#  Route de Mon Idée 134#   1226 CAROUGE#   +4122.784.44.33 
+Madame#  PÉYABOIRE#  Fanny#  Route de Peney 41#   1228 PLAN-LES-OUATES#   +4122.784.45.29 
+Mme#  PHONPHEC#  Sophie#  Route du Camp 33#   1228 PLAN-LES-OUATES#   +4122.792.21.65 
+Madame#  CLESSOULAPORTE#  Jémila#  Route du Mandement 211#   1252 CHOULEX#   +4122.792.26.64 
+Monsieur#  COCHET#  Eric#  Route du Mandement 229#   1232 CONFIGNON#   +4122.792.37.31 
+Madame#  COLLÉUNEBONNE#  Juliana#  Route du Nant-d'Avril 22#   1232 CONFIGNON#   +4122.792.44.73 
+Monsieur#  CONALAFOIS#  Moshé#  Route du Pont-Butin 43#  1232 CONFIGNON#   +4122.792.49.76 
+Monsieur#  CONDIT#  Wenceslas#  Route du Prieur 14#   1232 CONFIGNON#   +4122.792.56.82 
+Madame#  CONNEPAS#  Amédée#  Rte Alphonse Ferrand 40#   1232 CONFIGNON#   +4122.792.58.13 
+Madame#  CONNERY#  Arétha#  Rte d'Annecy 261 c#   1232 CONFIGNON#   +4122.792.62.28 
+Madame#  AIDANLECOUSCOUS#  Larissa#  Rte de Base 109#   1093 BELMONT#   +4122.792.63.64 
+Madame#  AIDUBOIS#  Laure#  rte de Bellegarde 10#  1094 BELMONT#   +4122.792.71.59 
+Monsieur#  AIFAIPIPIOLI#  Jeff#  rte de Cara 50#  1095 BELMONT#   +4122.792.74.91 
+Monsieur#  AIHANVI#  Jean#  Rte de Cartigny 39#   1096 BELMONT#   +4122.792.87.03 
+Monsieur#  AI-HASSAY#  Jean#  Rte de Chèvres 1#   1097 BELMONT#   +4122.792.88.71 
+Monsieur#  AIJEUNESSE#  Raoul#  Rte de la Louche 1#   1098 BELMONT#   +4122.793.07.47 
+Monsieur#  AILAPOUBELLE#  David#  rte de Meyrin 284#  1099 BELMONT#   +4122.793.09.47 
+Madame#  AIMAIREDESURETÉ#  Prudence#  Rte de Passeiry 38#   1100 BELMONT#   +4122.793.15.11 
+Madame#  AIMEUMEUSUIVE#  Kim#  Rte de Sauverny 79#  1101 BELMONT#   +4122.793.26.50 
+Madame#  AIMOI#  Élise#  rte de St-Julien 12#   1102 BELMONT#   +4122.793.32.56 
+Monsieur#  AIPASVULACONFITURE#  Thor#  Rte d'Epeisses 57#   1233 BERNEX#   +4122.793.49.78 
+Madame#  AIRE#  Axel#  Rte des Chevaliers de Malte 100#   1233 BERNEX#   +4122.793.57.34 
+Monsieur#  AISSDAIPLUME#  Gilles#  Rte des Chevaliers de Malte 17#   1233 BERNEX#   +4122.793.66.43 
+Monsieur#  AITIRÉ-HIFOLEBOIR#  Sylvain#  Rte des Jeunes 35#   1233 BERNEX#   +4122.793.66.66 
+Monsieur#  AITROCHO#  Yves#  Rte d'Hermance 139#   1233 BERNEX#   +4122.793.76.48 
+Monsieur#  AIVIDÉ-HIFOLREMPLIR#  Sylvère#  Rte du Grand-Lancy 102#   1233 BERNEX#   +4122.793.85.82 
+Monsieur#  AROÏD#  Paul#  Rte du Grand-Lancy 165B#   1233 BERNEX#   +4122.793.95.25 
+Monsieur#  ARYEN#  Karim#  Rte du Grand-Lancy 47#   1233 BERNEX#   +4122.793.96.57 
+Monsieur#  SAHALOR#  Aubin#  Rte du Grand-Lancy 87#   1234 VESSY#   +4122.793.98.62 
+Monsieur#  SAIPAVRÉ#  Dick#  Rte du Pré-Marais 90#   1234 VESSY#   +4122.794.15.15 
+Monsieur#  SAISRIEN#  Jean#  rte du Vélodrome 48#  1234 VESSY#   +4122.794.15.67 
+Madame#  CUAI-LASSAL#  Éva#  Rue du Bachet 8#  1282 DARDAGNY#   +4122.794.15.67 
+M.#  BARBIEN-FERMES#  Denis#  Rue Jacques-Dalphin 50#   1292 CHAMBÉSY#   +4122.794.15.67 
+Mlle#  SAKUTI#  Elvire#  Rue Amat 11#   1234 VESSY#   +4122.794.19.21 
+Madame#  LAKUICE#  Leilou#  Rue du Grand Bureau 35#   1283 LA PLAINE#   +4122.794.19.21 
+Madame#  BATTELAIR#  Cécile#  Rue Jean-Pelletier 3#   1292 CHAMBÉSY#   +4122.794.19.21 
+Madame#  SAMEDI#  Samira#  Rue Antoine-Carteret 21#   1234 VESSY#   +4122.794.24.04 
+Madame#  BEBEQUE#  Nadine#  Rue du Grand-Bay 4#   1282 CHANCY#   +4122.794.24.04 
+M.#  BÉALART-ENVERSSE#  Tom#  Rue Jean-Pelletier 3#   1292 CHAMBÉSY#   +4122.794.24.04 
+Monsieur#  SANFRAPPER#  André#  Rue Antoine-Martin 50#   1234 VESSY#   +4122.794.25.13 
+Monsieur#  BELANDE#  Yves#  Rue du Grand-Pré 2#   1284 CHANCY#   +4122.794.25.13 
+Monsieur#  ADONAIDEUX#  Hermann#  Rue Jean-Violette 30#  1270 BASSINS#   +4122.794.25.13 
+Madame#  SANHENROUTE#  Mélanie#  Rue Bautte 16#   1234 VESSY#   +4122.794.33.31 
+Monsieur#  BELIVAUMAISON#  Jean#  Rue du Grand-Pré 2#   1284 CHANCY#   +4122.794.33.31 
+Monsieur#  ADROUILLE-TOULTAN#  Yves#  Rue Jean-Violette 30#   1271 BASSINS#   +4122.794.33.31 
+Monsieur#  BANILON#  Philémon#  Rue Blanche 9#    1236 CARTIGNY#   +4122.794.58.79 
+Monsieur#  BEURGUEUR#  Cochise#  Rue du Grand-Pré 40#   1284 CHANCY#   +4122.794.58.79 
+Monsieur#  ADOTH#  Arthur#  Rue Jean-Violette 30#   1272 BASSINS#   +4122.794.58.79 
+Madame#  ACIRÉ#  Jeanne#  Rue Camille Martin 13#   1276 ARZIER#   +4122.794.59.02 
+Monsieur#  BIBACH#  Al#  Rue du Grand-Pré 53#  1284 CHANCY#   +4122.794.59.02 
+Madame#  AFAIVOIR#  Irma#  Rue Lamartine 1#  1273 BASSINS#   +4122.794.59.02 
+Madame#  ADESSIN#  Blanche#  Rue Carteret 1#   1277 ARZIER#   +4122.794.59.58 
+Monsieur#  BIDJOBA#  Joe#  Rue du Livron 19bis#  1284 CHANCY#   +4122.794.59.58 
+Monsieur#  AGÈRE#  Tex#  Rue Liotard 4#   1274 BASSINS#   +4122.794.59.58 
+Madame#  BANSYLA#  Carry#  Rue Carteret 21#   1239 CARTIGNY#   +4122.794.64.35 
+Monsieur#  BEGUIN-POURAILE#  Jules#  Rue du Môle 2#   1283 CHANCY#   +4122.794.64.35 
+Madame#  AHAILIZ#  Colette#  Rue Liotard 79#   1275 BASSINS#   +4122.794.64.35 
+Monsieur#  CHMONFILS#  Thierry#  Rue Charles-Giron 1#   1245 CHOULEX#   +4122.794.78.18 
+Monsieur#  ABOUSSEPARTOU#  Thècle#  Rue du Mont-Blanc 17#   1274 ARZIER#   +4122.794.78.18 
+Monsieur#  AIBAITIZ#  Alfred#  Rue Louis-Favre 4#   1293 BELLEVUE#   +4122.794.78.18 
+Monsieur#  ACHÉBEL#  Octave#  Rue du Nord 42#   1275 ARZIER#   +4122.794.87.43 
+Mlle#  HETTEDEUDIE#  Claire#  Rue Pestalozzi 25 bis#   1100 BELMONT#   +4122.794.87.43 
+Monsieur#  ADLAVY-YADLESPOIR#  Tanguy#  Rue du Pont-Neuf 10B#   1278 ARZIER#   +4122.794.88.79 
+Monsieur#  HIJETÉM#  Cher#  Rue Prévost-Martin 40#   1102 BELMONT#   +4122.794.88.79 
+Mlle#  AIBRANLABLE#  Céline#  Rue Prévost-Martin 61#   1294 BELLEVUE#   +4122.796.08.51 
+Madame#  LAMARK#  Nadine#  Rue du Pont-Neuf 3#   1287 LACONNEX#   +4122.796.11.10 
+Mme#  HITEZ#  Éve#  "Rue Prévot Martin 6, cp 457, "#  1233 BERNEX#   +4122.796.11.10 
+Mme#  LAMY#  Kim#  Rue du Pré-Bouvier 10#   1287 LACONNEX#   +4122.796.23.10 
+Monsieur#  HITMIEUX#  Elmer#  Rue Saint-Joseph 20#   1233 BERNEX#   +4122.796.23.10 
+Mme#  HOL#  Jenny#  Rue Saint-Laurent 6#   1233 BERNEX#   +4122.796.23.91 
+Monsieur#  AABA#  Bart#  Rue du Valais 4#   1288 AIRE-LA-VILLE#   +4122.796.24.77 
+Monsieur#  HOMA#  Modeste#  Rue Sillem 11#  1233 BERNEX#   +4122.796.24.77 
+Monsieur#  ABAGAGE#  Massoud#  Rue du Vidollet 37#   1288 AIRE-LA-VILLE#   +4122.796.25.18 
+Mme#  HÉTAMAIR#  Éva#  rue Soubeyran 8#   1101 BELMONT#   +4122.796.25.18 
+Monsieur#  PSICHO#  Pat#  Rue du Vieux Moulin 7#   1290 VERSOIX#   +4122.796.31.08 
+Mme#  MÉTROUTILAPRI#  Valérie#  Rue St-Ours 5#   1295 MIES#   +4122.796.31.08 
+Monsieur#  PTICOU#  Justin#  Rue du Vieux-Moulin 2#   1290 VERSOIX#   +4122.796.32.39 
+Mme#  MEUBLE#  Daisy#  "Rue Théodore de Bèze 2, 4"#  1295 MIES#   +4122.796.32.39 
+Monsieur#  ONÉDANL#  Ahmed#  Rue de la Dôle 17#   1242 PEISSY#   +4122.796.44.14 
+Monsieur#  RIKEMENCÉPOSSIBLE#  Théo#  Rue du Village 22#   1290 VERSOIX#   +4122.796.44.14 
+Madame#  MI#  Salah#  Rue Virginio-Malnati 32#   1295 MIES#   +4122.796.44.14 
+Monsieur#  BAR#  Lenny#  Avenue de la Gare des Eaux-Vives 23#  1298 CÉLIGNY#   +4122.796.62.22 
+Madame#  RIMENDETOU#  Odette#  "Rue du Village 9, Cp 520"#  1290 VERSOIX#   +4122.796.62.22 
+Madame#  RINKIKOULE#  Tatania#  Rue Ernest-Hentsch 10#   1290 VERSOIX#   +4122.796.68.01 
+Madame#  RIEN-APÈTER#  Hélèna#  Rue Ernest-Hentsch 3#   1290 VERSOIX#   +4122.796.69.48 
+Madame#  CHEVÉE#  Lina#  Rue de la Prairie 25#   1244 CHOULEX#   +4122.796.94.22 
+Monsieur#  ROBBE#  Mick#  Rue François Chavaz 119#   1290 VERSOIX#   +4122.796.94.22 
+Monsieur#  CHON#  Paulo#  Rue de la Prulay 39#   1246 CHOULEX#   +4122.796.95.79 
+Madame#  ROCHE#  Annick#  Rue François-Durafour 2#   1290 VERSOIX#   +4122.796.95.79 
+M.#  CHONCÉ-MIEUQUIN#  Denis#  Rue de la Prulay 58#  1247 CHOULEX#   +4122.797.30.90 
+M.#  ROFONE#  Mick#  Rue Grange-Lévrier 14#   1290 VERSOIX#   +4122.797.30.90 
+Mmme#  CHOUFLEUR#  Claudia#  Rue de la Prulay 74#   1248 CHOULEX#   +4122.797.48.46 
+Monsieur#  ROY-ETMOR#  Patrick#  Rue Henri-Mussard 26#   1290 VERSOIX#   +4122.797.48.46 
+Monsieur#  CIDETONSOUTIEN#  Omer#  Rue de la Servette 1#   1249 CHOULEX#   +4122.797.49.67 
+Monsieur#  CIVE#  Jean#  Rue de l'Ancien-Tir 18#   1250 CHOULEX#   +4122.797.50.33 
+Madame#  COPTAIRE#  Élie#  Rue de l'Aubépine 16#   1246 CORSIER#   +4122.798.07.37 
+Madame#  COURCI#  Sarah#  Rue de Lausanne 67#   1246 CORSIER#   +4122.798.13.51 
+Monsieur#  ABDUKOWAIT#  Richard#  Rue de l'Avenir 16#   1247 ANIÈRES#   +4122.798.27.93 
+Monsieur#  ABELOUBA#  Habib#  Rue de l'industrie 10#   1247 ANIÈRES#   +4122.798.73.21 
+Madame#  LAIZOTRE#  Pacome#  Rue de Livron 21#  1248 HERMANCE#   +4122.823.02.60 
+Monsieur#  LAILAI#  Rocky#  Rue de Montbrillant 80#   1251 GY#   +4122.823.26.63 
+Madame#  LEPOR-CÉBON#  Henriette#  Rue de Saint-Jean 3#   1252 MEINIER#   +4122.855.07.40 
+M.#  PLOYÉE#  Jerry#  Rue de Vermont 46#   1253 VANDOEUVRES#   +4122.870.00.50 
+Madame#  POCHANGÉ#  Tina#  Rue de Zurich 15#   1253 VANDOEUVRES#   +4122.870.16.44 
+Madame#  POCRISIDAXEPTER#  Julie#  Rue de Zurich 15#   1253 VANDOEUVRES#   +4122.880.07.00 
+Monsieur#  POIL#  Théo#  Rue Délaissée 5#   1253 VANDOEUVRES#   +4122.885.03.25 
+Mlle#  PONSABDUMATOS#  Thérèse#  Rue des Bains 65#   1253 VANDOEUVRES#   +4122.890.04.04 
+Madame#  PORET#  Éva#  Rue des Barques 2#   1253 VANDOEUVRES#   +4122.890.04.58 
+Monsieur#  SANPRENDRUNE#  Yvon#  Rue des Bossons 15B#   1255 VEYRIER#   +4122.950.07.22 
+Monsieur#  SCLUB#  Dinar#  Rue des Bossons 24#  1255 VEYRIER#   +4122.958.10.36 
+Madame#  SCOTT#  Adèle#  Rue des Bossons 30#   1255 VEYRIER#   +4122/ 320 05 51
+Monsieur#  PILLÈRE#  Serge#  Rue des Bugnons 14#   1270 TRÉLEX#   +4176 422 2043
+Madame#  PILE#  Marsha#  Rue des Bugnons 14#   1270 TRÉLEX#   +4176.321.79.03 
+Monsieur#  LANCE#  Pierre#  Rue des Bugnons 16#   1257 LANDECY#   +4176.376.06.47 
+Madame#  COUVERT#  Armelle#  Rue des Caroubiers 5#   1257 CROIX-DE-ROZON#   +4176.379.11.21 
+Monsieur#  COVER#  Harry#  Rue des Charmilles 28B#  1257 CROIX-DE-ROZON#   +4176.449.48.52 
+Madame#  CROC#  Odile#  Rue des Deux-Ponts 26#   1257 CROIX-DE-ROZON#   +4178.773.03.92 
+Madame#  ONXA#  Cécile#  Rue des Epinettes 16#   1257 PERLY#   +4179 342 9115
+Monsieur#  OPOSTE#  Fidèle#  Rue des Evaux 7#   1258 PERLY#   +4179 415 3105
+Madame#  ORAQUE#  Anne#  Rue des Gares 27#   1258 PERLY#   +4179 440.52.01 
+Monsieur#  ORDURE#  David#  Rue des Gares 7#   1258 PERLY#   +4179 542 7391
+Monsieur#  ORÉ#  Rick#  Rue des Grottes 7#  1258 PERLY#   +4179 607 7877
+Monsieur#  OTINE#  Nick#  Rue des Noirettes 11#   1258 PERLY#   +4179 692 4226
+Monsieur#  OTINE#  Nick#  Rue des Noirettes 11#   1258 PERLY#   +4179 692 4226
+Madame#  OUCESOIR#  Ondine#  Rue des Paquis 35#  1258 PERLY#   +4179 832 1564
+Monsieur#  OUCHÉ#  Jacques#  Rue des Peupliers 18#   1258 PERLY-CERTOUX#   +4179.212.17.04 
+Madame#  ADON#  Armelle#  Rue des Rois 17#   1269 BASSINS#   +4179.423.81.28 
+Monsieur#  ABISSONFOR#  César#  Rue des Sources 6#   1273 ARZIER#   +47122.300.45.79 
+Monsieur#  ASSAMÉMÉRE#  Lucien#  Rue des Vollandes 12#   1277 BOREX#  +4722 753 0064

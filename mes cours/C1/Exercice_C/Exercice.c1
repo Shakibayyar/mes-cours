@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+void display_list(int n )
+{
+    for (int i = 1; i <= n; i++)
+    {
+printf("%d\n" , i);
+    }
+
+}
+    int main(void)
+{
+    display_list(5);
+    
+    return 0;
+}
